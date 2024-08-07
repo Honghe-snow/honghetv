@@ -1,0 +1,410 @@
+11:27:55-954 ForceTV(lzs) Factory:device/P2P_android_ket_v3.0_2016mc_uplog_20160325_05:32:37
+11:27:55-955 Develop Version:New version 2013,do not support old server, 3.14.17.3 build[Mar 25 2016 05:32:37]
+11:27:55-955 forcetv_init port:8246, pool:20MB
+11:27:55-955 forcetv now 2024-08-03 11:27:55
+11:27:55-956 call chan_block::instance()->open
+11:27:55-956 j_fixed_mem_pool::malloc try alloc num:18204, size:1152, alloc_block:0, used_block:0
+11:27:55-981 j_fixed_mem_pool::malloc prt min:0xc1f03000, max:0xdb6f5b04
+11:27:55-982 chan_block::instance()->open success
+11:27:55-982 net_task::instance()->open success
+11:27:55-982 chan_mgr::instance()->open success
+11:27:55-982 publisher_mgr::instance()->open success
+11:27:55-982 x_ms_acceptor::open fd:4b, local:0.0.0.0:8246
+11:27:55-983 x_ms_acceptor ip:127.0.0.1, port:8246
+11:27:55-983 x_ms_acceptor ip:192.168.1.3, port:8246
+11:27:55-983 ms_acceptor::instance()->open success
+11:27:55-983 forcetv_run is_block:0
+11:27:55-983 x_net_task run call run_reactor_event_loop 0x76e5
+11:27:55-997 recv n1ew connection:127.0.0.1:41752,fd:80
+11:27:55-997 x_tcp_handler::x_tcp_handler 
+11:27:55-997 x_tcp_handler::open fd:80 set sndbuf to 262144
+11:27:55-998 x_tcp_handler::handle_input recv data fd:80, ret:80
+11:27:55-998 x_tcp_handler::_check_ptl http head fd:80, data:
+GET /ctv.xml?cmd=query_chan_info HTTP/1.1
+Host: 127.0.0.1:8246
+Accept: */*
+
+
+11:27:55-998 x_tcp_handler::_check_ptl http head fd:80, data:
+GET /ctv.xml?cmd=query_chan_info HTTP/1.1
+Host: 127.0.0.1:8246
+Accept: */*
+
+
+11:27:55-998 x_vod_http_parser::x_vod_http_parser impl:x_cmd_http_parser
+11:27:55-999 x_tcp_handler::handle_input check_ptl ok, fd:80
+11:27:55-999 x_cmd_http_parser::handle_get fd:80 
+11:27:55-999 GET /ctv.xml?cmd=query_chan_info HTTP/1.1
+Host: 127.0.0.1:8246
+Accept: */*
+
+
+11:27:55-999 x_cmd_http_parser::_send_cmd rephead:
+HTTP/1.1 200 OK
+Content-Length: 145
+Content-Type: text/xml
+Server: Forcetech World Cup
+
+
+11:27:55-999 x_cmd_http_parser::_send_cmd repbody:
+<?xml version="1.0" encoding="utf-8"?><forcetv><result ret="1" reason="channel_not_exists" op_clock_used="0" op_clock_start="51" /></forcetv>
+
+
+11:27:56-001 x_tcp_handler::handle_input close, fd:80,error:0
+11:27:56-001 x_tcp_handler::handle_close fd:80
+11:27:56-001 x_vod_http_parser::~x_vod_http_parser fd:80, impl:x_cmd_http_parser, send_bytes:0
+11:27:56-002 x_tcp_handler::~x_tcp_handler
+11:28:00-588 recv n1ew connection:127.0.0.1:41762,fd:84
+11:28:00-588 x_tcp_handler::x_tcp_handler 
+11:28:00-588 x_tcp_handler::open fd:84 set sndbuf to 262144
+11:28:00-589 x_tcp_handler::handle_input recv data fd:84, ret:78
+11:28:00-589 x_tcp_handler::_check_ptl http head fd:84, data:
+GET /ctv.xml?cmd=stop_all_chan HTTP/1.1
+Host: 127.0.0.1:8246
+Accept: */*
+
+
+
+11:28:00-589 x_tcp_handler::_check_ptl http head fd:84, data:
+GET /ctv.xml?cmd=stop_all_chan HTTP/1.1
+Host: 127.0.0.1:8246
+Accept: */*
+
+
+11:28:00-589 x_vod_http_parser::x_vod_http_parser impl:x_cmd_http_parser
+11:28:00-589 x_tcp_handler::handle_input check_ptl ok, fd:84
+11:28:00-589 x_cmd_http_parser::handle_get fd:84 
+11:28:00-589 GET /ctv.xml?cmd=stop_all_chan HTTP/1.1
+Host: 127.0.0.1:8246
+Accept: */*
+
+
+11:28:00-589 x_cmd_http_parser::_send_cmd rephead:
+HTTP/1.1 200 OK
+Content-Length: 136
+Content-Type: text/xml
+Server: Forcetech World Cup
+
+
+11:28:00-589 x_cmd_http_parser::_send_cmd repbody:
+<?xml version="1.0" encoding="utf-8"?><forcetv><result ret="0" reason="success" op_clock_used="0" op_clock_start="4641" /></forcetv>
+
+
+11:28:00-591 x_tcp_handler::handle_input close, fd:84,error:0
+11:28:00-591 x_tcp_handler::handle_close fd:84
+11:28:00-591 x_vod_http_parser::~x_vod_http_parser fd:84, impl:x_cmd_http_parser, send_bytes:0
+11:28:00-591 x_tcp_handler::~x_tcp_handler
+11:30:21-037 recv n1ew connection:127.0.0.1:41844,fd:83
+11:30:21-037 x_tcp_handler::x_tcp_handler 
+11:30:21-037 x_tcp_handler::open fd:83 set sndbuf to 262144
+11:30:21-040 x_tcp_handler::handle_input recv data fd:83, ret:80
+11:30:21-040 x_tcp_handler::_check_ptl http head fd:83, data:
+GET /ctv.xml?cmd=query_chan_info HTTP/1.1
+Host: 127.0.0.1:8246
+Accept: */*
+
+
+11:30:21-040 x_tcp_handler::_check_ptl http head fd:83, data:
+GET /ctv.xml?cmd=query_chan_info HTTP/1.1
+Host: 127.0.0.1:8246
+Accept: */*
+
+
+11:30:21-041 x_vod_http_parser::x_vod_http_parser impl:x_cmd_http_parser
+11:30:21-041 x_tcp_handler::handle_input check_ptl ok, fd:83
+11:30:21-041 x_cmd_http_parser::handle_get fd:83 
+11:30:21-041 GET /ctv.xml?cmd=query_chan_info HTTP/1.1
+Host: 127.0.0.1:8246
+Accept: */*
+
+
+11:30:21-041 x_cmd_http_parser::_send_cmd rephead:
+HTTP/1.1 200 OK
+Content-Length: 149
+Content-Type: text/xml
+Server: Forcetech World Cup
+
+
+11:30:21-041 x_cmd_http_parser::_send_cmd repbody:
+<?xml version="1.0" encoding="utf-8"?><forcetv><result ret="1" reason="channel_not_exists" op_clock_used="0" op_clock_start="145093" /></forcetv>
+
+
+11:30:21-044 x_tcp_handler::handle_input close, fd:83,error:0
+11:30:21-044 x_tcp_handler::handle_close fd:83
+11:30:21-044 x_vod_http_parser::~x_vod_http_parser fd:83, impl:x_cmd_http_parser, send_bytes:0
+11:30:21-045 x_tcp_handler::~x_tcp_handler
+11:31:24-229 recv n1ew connection:127.0.0.1:41880,fd:84
+11:31:24-230 x_tcp_handler::x_tcp_handler 
+11:31:24-230 x_tcp_handler::open fd:84 set sndbuf to 262144
+11:31:24-231 x_tcp_handler::handle_input recv data fd:84, ret:78
+11:31:24-231 x_tcp_handler::_check_ptl http head fd:84, data:
+GET /ctv.xml?cmd=stop_all_chan HTTP/1.1
+Host: 127.0.0.1:8246
+Accept: */*
+
+
+
+11:31:24-231 x_tcp_handler::_check_ptl http head fd:84, data:
+GET /ctv.xml?cmd=stop_all_chan HTTP/1.1
+Host: 127.0.0.1:8246
+Accept: */*
+
+
+11:31:24-231 x_vod_http_parser::x_vod_http_parser impl:x_cmd_http_parser
+11:31:24-231 x_tcp_handler::handle_input check_ptl ok, fd:84
+11:31:24-231 x_cmd_http_parser::handle_get fd:84 
+11:31:24-231 GET /ctv.xml?cmd=stop_all_chan HTTP/1.1
+Host: 127.0.0.1:8246
+Accept: */*
+
+
+11:31:24-232 x_cmd_http_parser::_send_cmd rephead:
+HTTP/1.1 200 OK
+Content-Length: 138
+Content-Type: text/xml
+Server: Forcetech World Cup
+
+
+11:31:24-232 x_cmd_http_parser::_send_cmd repbody:
+<?xml version="1.0" encoding="utf-8"?><forcetv><result ret="0" reason="success" op_clock_used="0" op_clock_start="208284" /></forcetv>
+
+
+11:31:24-233 x_tcp_handler::handle_input close, fd:84,error:0
+11:31:24-233 x_tcp_handler::handle_close fd:84
+11:31:24-233 x_vod_http_parser::~x_vod_http_parser fd:84, impl:x_cmd_http_parser, send_bytes:0
+11:31:24-234 x_tcp_handler::~x_tcp_handler
+11:32:17-418 recv n1ew connection:127.0.0.1:41918,fd:83
+11:32:17-418 x_tcp_handler::x_tcp_handler 
+11:32:17-418 x_tcp_handler::open fd:83 set sndbuf to 262144
+11:32:17-419 x_tcp_handler::handle_input recv data fd:83, ret:78
+11:32:17-419 x_tcp_handler::_check_ptl http head fd:83, data:
+GET /ctv.xml?cmd=stop_all_chan HTTP/1.1
+Host: 127.0.0.1:8246
+Accept: */*
+
+
+11:32:17-419 x_tcp_handler::_check_ptl http head fd:83, data:
+GET /ctv.xml?cmd=stop_all_chan HTTP/1.1
+Host: 127.0.0.1:8246
+Accept: */*
+
+
+11:32:17-419 x_vod_http_parser::x_vod_http_parser impl:x_cmd_http_parser
+11:32:17-419 x_tcp_handler::handle_input check_ptl ok, fd:83
+11:32:17-420 x_cmd_http_parser::handle_get fd:83 
+11:32:17-420 GET /ctv.xml?cmd=stop_all_chan HTTP/1.1
+Host: 127.0.0.1:8246
+Accept: */*
+
+
+11:32:17-420 x_cmd_http_parser::_send_cmd rephead:
+HTTP/1.1 200 OK
+Content-Length: 138
+Content-Type: text/xml
+Server: Forcetech World Cup
+
+
+11:32:17-420 x_cmd_http_parser::_send_cmd repbody:
+<?xml version="1.0" encoding="utf-8"?><forcetv><result ret="0" reason="success" op_clock_used="0" op_clock_start="261472" /></forcetv>
+
+
+11:32:17-422 x_tcp_handler::handle_input close, fd:83,error:0
+11:32:17-422 x_tcp_handler::handle_close fd:83
+11:32:17-422 x_vod_http_parser::~x_vod_http_parser fd:83, impl:x_cmd_http_parser, send_bytes:0
+11:32:17-422 x_tcp_handler::~x_tcp_handler
+11:32:46-078 recv n1ew connection:127.0.0.1:41926,fd:80
+11:32:46-078 x_tcp_handler::x_tcp_handler 
+11:32:46-078 x_tcp_handler::open fd:80 set sndbuf to 262144
+11:32:46-082 x_tcp_handler::handle_input recv data fd:80, ret:80
+11:32:46-083 x_tcp_handler::_check_ptl http head fd:80, data:
+GET /ctv.xml?cmd=query_chan_info HTTP/1.1
+Host: 127.0.0.1:8246
+Accept: */*
+
+
+11:32:46-083 x_tcp_handler::_check_ptl http head fd:80, data:
+GET /ctv.xml?cmd=query_chan_info HTTP/1.1
+Host: 127.0.0.1:8246
+Accept: */*
+
+
+11:32:46-083 x_vod_http_parser::x_vod_http_parser impl:x_cmd_http_parser
+11:32:46-083 x_tcp_handler::handle_input check_ptl ok, fd:80
+11:32:46-083 x_cmd_http_parser::handle_get fd:80 
+11:32:46-084 GET /ctv.xml?cmd=query_chan_info HTTP/1.1
+Host: 127.0.0.1:8246
+Accept: */*
+
+
+11:32:46-084 x_cmd_http_parser::_send_cmd rephead:
+HTTP/1.1 200 OK
+Content-Length: 149
+Content-Type: text/xml
+Server: Forcetech World Cup
+
+
+11:32:46-084 x_cmd_http_parser::_send_cmd repbody:
+<?xml version="1.0" encoding="utf-8"?><forcetv><result ret="1" reason="channel_not_exists" op_clock_used="0" op_clock_start="290136" /></forcetv>
+
+
+11:32:46-087 x_tcp_handler::handle_input close, fd:80,error:0
+11:32:46-088 x_tcp_handler::handle_close fd:80
+11:32:46-088 x_vod_http_parser::~x_vod_http_parser fd:80, impl:x_cmd_http_parser, send_bytes:0
+11:32:46-092 x_tcp_handler::~x_tcp_handler
+11:33:07-887 recv n1ew connection:127.0.0.1:41942,fd:91
+11:33:07-887 x_tcp_handler::x_tcp_handler 
+11:33:07-887 x_tcp_handler::open fd:91 set sndbuf to 262144
+11:33:07-888 x_tcp_handler::handle_input recv data fd:91, ret:78
+11:33:07-889 x_tcp_handler::_check_ptl http head fd:91, data:
+GET /ctv.xml?cmd=stop_all_chan HTTP/1.1
+Host: 127.0.0.1:8246
+Accept: */*
+
+
+
+11:33:07-889 x_tcp_handler::_check_ptl http head fd:91, data:
+GET /ctv.xml?cmd=stop_all_chan HTTP/1.1
+Host: 127.0.0.1:8246
+Accept: */*
+
+
+11:33:07-889 x_vod_http_parser::x_vod_http_parser impl:x_cmd_http_parser
+11:33:07-889 x_tcp_handler::handle_input check_ptl ok, fd:91
+11:33:07-889 x_cmd_http_parser::handle_get fd:91 
+11:33:07-889 GET /ctv.xml?cmd=stop_all_chan HTTP/1.1
+Host: 127.0.0.1:8246
+Accept: */*
+
+
+11:33:07-889 x_cmd_http_parser::_send_cmd rephead:
+HTTP/1.1 200 OK
+Content-Length: 138
+Content-Type: text/xml
+Server: Forcetech World Cup
+
+
+11:33:07-889 x_cmd_http_parser::_send_cmd repbody:
+<?xml version="1.0" encoding="utf-8"?><forcetv><result ret="0" reason="success" op_clock_used="0" op_clock_start="311941" /></forcetv>
+
+
+11:33:07-891 x_tcp_handler::handle_input close, fd:91,error:0
+11:33:07-891 x_tcp_handler::handle_close fd:91
+11:33:07-891 x_vod_http_parser::~x_vod_http_parser fd:91, impl:x_cmd_http_parser, send_bytes:0
+11:33:07-891 x_tcp_handler::~x_tcp_handler
+11:34:18-052 recv n1ew connection:127.0.0.1:41992,fd:91
+11:34:18-052 x_tcp_handler::x_tcp_handler 
+11:34:18-052 x_tcp_handler::open fd:91 set sndbuf to 262144
+11:34:18-053 x_tcp_handler::handle_input recv data fd:91, ret:78
+11:34:18-053 x_tcp_handler::_check_ptl http head fd:91, data:
+GET /ctv.xml?cmd=stop_all_chan HTTP/1.1
+Host: 127.0.0.1:8246
+Accept: */*
+
+
+11:34:18-053 x_tcp_handler::_check_ptl http head fd:91, data:
+GET /ctv.xml?cmd=stop_all_chan HTTP/1.1
+Host: 127.0.0.1:8246
+Accept: */*
+
+
+11:34:18-054 x_vod_http_parser::x_vod_http_parser impl:x_cmd_http_parser
+11:34:18-054 x_tcp_handler::handle_input check_ptl ok, fd:91
+11:34:18-054 x_cmd_http_parser::handle_get fd:91 
+11:34:18-054 GET /ctv.xml?cmd=stop_all_chan HTTP/1.1
+Host: 127.0.0.1:8246
+Accept: */*
+
+
+11:34:18-054 x_cmd_http_parser::_send_cmd rephead:
+HTTP/1.1 200 OK
+Content-Length: 138
+Content-Type: text/xml
+Server: Forcetech World Cup
+
+
+11:34:18-054 x_cmd_http_parser::_send_cmd repbody:
+<?xml version="1.0" encoding="utf-8"?><forcetv><result ret="0" reason="success" op_clock_used="0" op_clock_start="382106" /></forcetv>
+
+
+11:34:18-055 x_tcp_handler::handle_input close, fd:91,error:0
+11:34:18-055 x_tcp_handler::handle_close fd:91
+11:34:18-055 x_vod_http_parser::~x_vod_http_parser fd:91, impl:x_cmd_http_parser, send_bytes:0
+11:34:18-056 x_tcp_handler::~x_tcp_handler
+11:34:31-391 recv n1ew connection:127.0.0.1:42016,fd:90
+11:34:31-392 x_tcp_handler::x_tcp_handler 
+11:34:31-392 x_tcp_handler::open fd:90 set sndbuf to 262144
+11:34:31-393 x_tcp_handler::handle_input recv data fd:90, ret:78
+11:34:31-395 x_tcp_handler::_check_ptl http head fd:90, data:
+GET /ctv.xml?cmd=stop_all_chan HTTP/1.1
+Host: 127.0.0.1:8246
+Accept: */*
+
+
+11:34:31-396 x_tcp_handler::_check_ptl http head fd:90, data:
+GET /ctv.xml?cmd=stop_all_chan HTTP/1.1
+Host: 127.0.0.1:8246
+Accept: */*
+
+
+11:34:31-396 x_vod_http_parser::x_vod_http_parser impl:x_cmd_http_parser
+11:34:31-396 x_tcp_handler::handle_input check_ptl ok, fd:90
+11:34:31-396 x_cmd_http_parser::handle_get fd:90 
+11:34:31-396 GET /ctv.xml?cmd=stop_all_chan HTTP/1.1
+Host: 127.0.0.1:8246
+Accept: */*
+
+
+11:34:31-396 x_cmd_http_parser::_send_cmd rephead:
+HTTP/1.1 200 OK
+Content-Length: 138
+Content-Type: text/xml
+Server: Forcetech World Cup
+
+
+11:34:31-396 x_cmd_http_parser::_send_cmd repbody:
+<?xml version="1.0" encoding="utf-8"?><forcetv><result ret="0" reason="success" op_clock_used="0" op_clock_start="395448" /></forcetv>
+
+
+11:34:31-398 x_tcp_handler::handle_input close, fd:90,error:0
+11:34:31-398 x_tcp_handler::handle_close fd:90
+11:34:31-398 x_vod_http_parser::~x_vod_http_parser fd:90, impl:x_cmd_http_parser, send_bytes:0
+11:34:31-398 x_tcp_handler::~x_tcp_handler
+11:34:38-850 recv n1ew connection:127.0.0.1:42020,fd:90
+11:34:38-850 x_tcp_handler::x_tcp_handler 
+11:34:38-850 x_tcp_handler::open fd:90 set sndbuf to 262144
+11:34:38-857 x_tcp_handler::handle_input recv data fd:90, ret:78
+11:34:38-857 x_tcp_handler::_check_ptl http head fd:90, data:
+GET /ctv.xml?cmd=stop_all_chan HTTP/1.1
+Host: 127.0.0.1:8246
+Accept: */*
+
+
+11:34:38-857 x_tcp_handler::_check_ptl http head fd:90, data:
+GET /ctv.xml?cmd=stop_all_chan HTTP/1.1
+Host: 127.0.0.1:8246
+Accept: */*
+
+
+11:34:38-857 x_vod_http_parser::x_vod_http_parser impl:x_cmd_http_parser
+11:34:38-857 x_tcp_handler::handle_input check_ptl ok, fd:90
+11:34:38-857 x_cmd_http_parser::handle_get fd:90 
+11:34:38-857 GET /ctv.xml?cmd=stop_all_chan HTTP/1.1
+Host: 127.0.0.1:8246
+Accept: */*
+
+
+11:34:38-857 x_cmd_http_parser::_send_cmd rephead:
+HTTP/1.1 200 OK
+Content-Length: 138
+Content-Type: text/xml
+Server: Forcetech World Cup
+
+
+11:34:38-857 x_cmd_http_parser::_send_cmd repbody:
+<?xml version="1.0" encoding="utf-8"?><forcetv><result ret="0" reason="success" op_clock_used="0" op_clock_start="402909" /></forcetv>
+
+
+11:34:38-861 x_tcp_handler::handle_input close, fd:90,error:0
+11:34:38-861 x_tcp_handler::handle_close fd:90
+11:34:38-861 x_vod_http_parser::~x_vod_http_parser fd:90, impl:x_cmd_http_parser, send_bytes:0
+11:34:38-861 x_tcp_handler::~x_tcp_handler
