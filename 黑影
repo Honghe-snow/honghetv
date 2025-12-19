@@ -1,4 +1,9 @@
 {
+  "spider": "https://pan.baidu.re/down.php/b45286a31b807c28e985585657e7fca6.jar",
+  "wallpaper": "https://wp.upx8.com/api.php",
+  "warningText": "资源来自网络，无盈利纯技术分享！[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
+  "logo": "https://pan.baidu.re/view.php/e9159e3344c2f572544faa1f61702110.jpg",
+
 "sites":[
 {"key":"解析","name":"️2K爱优腾芒","type":1,"api":"https://vs.okcdn100.top/api.php/provide/vod/","playUrl":"json:http://125.208.22.184:1666/api/?key=Lsthk1A7obu4Lmn4zk&url=","searchable":1,"quickSearch":1,"categories":["国产剧","动作片","冒险片","喜剧片","爱情片","动画片","记录片","灾难片","悬疑片","奇幻片","恐怖片","剧情片","战争片","武侠片","中国动漫","日本动漫","欧美动漫","海外动漫","韩剧","综艺","动漫","短剧"]},
 {"key": "情缘影视·暴风","name": "超级秒播","type": 1,"api": "https://app.bfzyapi.com/api.php/provide/vod/","playUrl": "","categories": ["国产剧","国产动漫","动作片","科幻片","剧情片","喜剧片","爱情片","恐怖片","战争片","伦理片","香港剧","台湾剧","日本剧","欧美剧","泰国剧","日本动漫","综艺频道","大陆综艺","港台综艺","日本综艺","新马泰综艺","纪录片"]},          
