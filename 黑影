@@ -13,6 +13,26 @@
 {"key":"腾讯弹幕","name":"2K腾讯内置","searchable":1,"type":3,"api":"http://47.122.84.123:8808/tvbox/gitee/zokzishi-master/xs/js/drpy2.min.js","ext":"https://gitee.com/charming-person/tv/raw/master/tjx.js"},
 {"key":"guoguo","name":"2K芒果内置","type":3,"api":"https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"changeable":0,"ext":"https://gitee.com/charming-person/tv/raw/master/bwmg.js"},
 {"key":"爱奇艺","name":"2K爱奇艺影","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","playUrl":"json:http://125.208.22.184:1666/api/?key=Lsthk1A7obu4Lmn4zk&url=","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/爱奇艺.js"},
+{
+      "jar": "https://gitee.com/zxmoyun/shared-warehouse/raw/master/jar/quanneng.jar",
+      "key": "bili综合",
+      "name": "星耀┃综合8K",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "cookie": "https://gitee.com/zxmoyun/shared-warehouse/raw/master/token/bili.txt",
+        "json": "https://125.208.22.159:8889/down/D77CEHX3DXyb.json"
+      },
+      "timeout": 20
+    },
+
 {"key":"天天","name":"2k天天","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg0939791h1l3888jig44gi291li"},
 {"key":"push_agent","name":"⚠️切勿相信广告⚠️","type":3,"api":"csp_PushGuard","playerType":"1","searchable":0}
 ],
