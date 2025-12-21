@@ -10,6 +10,15 @@
 {"key": "情缘影视·暴风","name": "超级秒播","type": 1,"api": "https://app.bfzyapi.com/api.php/provide/vod/","playUrl": "","categories": ["国产剧","国产动漫","动作片","科幻片","剧情片","喜剧片","爱情片","恐怖片","战争片","伦理片","香港剧","台湾剧","日本剧","欧美剧","泰国剧","日本动漫","综艺频道","大陆综艺","港台综艺","日本综艺","新马泰综艺","纪录片"]},          
 {"key":"ydapp","name":"2K全聚影视","type":1,"api":"https://gctf.tfdh.top/api.php/provide/vod","playUrl":"json:http://125.208.22.184:1666/api/?key=Lsthk1A7obu4Lmn4zk&url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["电影","电视剧","动漫","综艺"]},
 {"key":"新腾极4k","name":"4k臻彩腾讯","type":3,"api":"https://gitee.com/ltby1/one/raw/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"changeable":0,"ext":"http://14.103.129.80:999/暗黑4k奇迹/lib/暗黑4k奇迹.js"},{"key":"芒果弹幕","name":"4k臻彩芒果","type":3,"api":"https://gitee.com/ltby1/one/raw/master/lib/drpy2.min.js","ext":"http://14.103.129.80:999/暗黑4k奇迹/lib/暗黑4k奇迹mg.js"},
+{
+      "key": "云速",
+      "name": "☁️云速┃影视",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzfiJ2fHkCRZg4+8NFWs+b1X"
+    },
 {"key":"腾讯弹幕","name":"2K腾讯内置","searchable":1,"type":3,"api":"http://47.122.84.123:8808/tvbox/gitee/zokzishi-master/xs/js/drpy2.min.js","ext":"https://gitee.com/charming-person/tv/raw/master/tjx.js"},
 {"key":"guoguo","name":"2K芒果内置","type":3,"api":"https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"changeable":0,"ext":"https://gitee.com/charming-person/tv/raw/master/bwmg.js"},
 {"key":"爱奇艺","name":"2K爱奇艺影","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","playUrl":"json:http://125.208.22.184:1666/api/?key=Lsthk1A7obu4Lmn4zk&url=","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/爱奇艺.js"},
