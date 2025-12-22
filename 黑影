@@ -5,6 +5,29 @@
   "logo": "https://pan.baidu.re/view.php/e9159e3344c2f572544faa1f61702110.jpg",
 
 "sites":[
+{
+      "key": "优酷视频",
+      "name": "酷酷┃视频",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/优酷视频.js"
+    },
+    {
+      "key": "爱奇艺",
+      "name": "爱爱┃影视",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/爱奇艺.js"
+    },
+    {
+      "key": "1905",
+      "name": "珍珍影视",
+      "type": 3,
+      "api": "csp_Web1905",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
 {"key":"ydapp","name":"全聚┃影视","type":1,"api":"https://gctf.tfdh.top/api.php/provide/vod","playUrl":"json:http://shybot.top/v2/video/jx/?shykey=4595a71a4e7712568edcfa43949236b42fcfcb04997788ebe7984d6da2c6a51c&qn=max&url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["电影","电视剧","动漫","综艺"]},
 {"key":"解析","name":"️2K爱优腾芒","type":1,"api":"https://vs.okcdn100.top/api.php/provide/vod/","playUrl":"json:http://125.208.22.184:1666/api/?key=Lsthk1A7obu4Lmn4zk&url=","searchable":1,"quickSearch":1,"categories":["国产剧","动作片","冒险片","喜剧片","爱情片","动画片","记录片","灾难片","悬疑片","奇幻片","恐怖片","剧情片","战争片","武侠片","中国动漫","日本动漫","欧美动漫","海外动漫","韩剧","综艺","动漫","短剧"]},
 {"key": "情缘影视·暴风","name": "超级秒播","type": 1,"api": "https://app.bfzyapi.com/api.php/provide/vod/","playUrl": "","categories": ["国产剧","国产动漫","动作片","科幻片","剧情片","喜剧片","爱情片","恐怖片","战争片","伦理片","香港剧","台湾剧","日本剧","欧美剧","泰国剧","日本动漫","综艺频道","大陆综艺","港台综艺","日本综艺","新马泰综艺","纪录片"]},          
