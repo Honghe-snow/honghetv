@@ -6,6 +6,16 @@
 
 "sites":[
 {
+      "key": "hipy_js_ytgz4k",
+      "name": "🍉瓜子┃专线",
+      "type": 3,
+      "api": "https://gitee.com/hu-congrong/lxbsc/raw/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/hu-congrong/lxbsc/raw/main/js/瓜子.js"
+    },
+{
       "key": "优酷视频",
       "name": "酷酷┃视频",
       "type": 3,
