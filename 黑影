@@ -16,6 +16,16 @@
       "ext": "https://gitee.com/hu-congrong/lxbsc/raw/main/js/瓜子.js"
     },
 {
+      "key": "应用商店",
+      "name": "摸摸🐟｜应用市场",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "https://jihulab.com/moyuer/momoyu/-/raw/main/json/moyuyysc.json",
+      "jar": "https://jihulab.com/moyuer/momoyu/-/raw/main/jar/moyu应用市场.jar"
+    },
+{
 "key": "奇奇",
 "name": "奇奇┃APP",
 "type": 3,
