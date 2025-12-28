@@ -15,7 +15,13 @@
       "filterable": 1,
       "ext": "https://gitee.com/hu-congrong/lxbsc/raw/main/js/瓜子.js"
     },
-{"key":"小飒","name":"💒小飒┃4K","type":3,"api":"csp_XsayangGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
+{
+"key": "奇奇",
+"name": "奇奇┃APP",
+"type": 3,
+"api": "csp_AppGet",
+"ext": "http://103.236.61.192:8006|123456789abcdefg"
+}，
 {
       "key": "优酷视频",
       "name": "酷酷┃视频",
