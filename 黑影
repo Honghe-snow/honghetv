@@ -33,6 +33,25 @@
 "ext": "http://103.236.61.192:8006|123456789abcdefg"
 },
 {
+            "key": "番喜",
+            "name": "梵希视频",
+            "type": 3,
+            "api": "csp_qiao2",
+            "jar": "https://gitee.com/hu-congrong/ahb/raw/master/071.png",
+            "playerType": 2,
+            "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
+        },
+
+{
+            "key": "番薯",
+            "name": "红墅视频",
+            "type": 3,
+            "api": "csp_qiao2",
+            "jar": "https://gitee.com/hu-congrong/ahb/raw/master/071.png",
+            "playerType": 2,
+            "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"
+        },
+{
       "key": "优酷视频",
       "name": "酷酷┃视频",
       "type": 3,
