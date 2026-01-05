@@ -16,6 +16,13 @@
       "ext": "https://gitee.com/hu-congrong/lxbsc/raw/main/js/瓜子.js"
     },
 {
+"key": "仓鼠",
+"name": "仓鼠┃APP",
+"type": 3,
+"api": "csp_AppQi",
+"ext": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi430.txt|7sKhdca8HXGuyZ4x|120"
+},
+{
       "key": "应用商店",
       "name": "摸摸🐟｜应用市场",
       "type": 3,
