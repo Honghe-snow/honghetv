@@ -17,6 +17,16 @@
       "ext": "https://gitee.com/hu-congrong/lxbsc/raw/main/js/瓜子.js"
     },
 {
+             "key": "drpyS_瓜子[APP]",
+             "name": "🔶瓜子┃T4",
+             "type": 4,
+             "api": "https://zhxy.eu.org/api/瓜子[APP]",
+            "searchable": 2,
+            "filterable": 1,
+            "quickSearch": 1,
+            "ext": ""
+    },
+{
 "key": "仓鼠",
 "name": "仓鼠┃APP",
 "type": 3,
