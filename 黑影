@@ -5,16 +5,7 @@
   "logo": "https://pan.baidu.re/view.php/e9159e3344c2f572544faa1f61702110.jpg",
 
 "sites":[
-{
-      "key": "hipy_js_ytgz4k",
-      "name": "🍉瓜子┃专线",
-      "type": 3,
-      "api": "https://gitee.com/hu-congrong/lxbsc/raw/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/hu-congrong/lxbsc/raw/main/js/瓜子.js"
-    },
+{"key":"csp_豆瓣","name":"🌺豆瓣🌺","type": 3,"api":"csp_DouDouGuard","indexs": 1,"searchable": 0,"quickSearch": 0,"changeable": 0},
 {
              "key": "drpyS_瓜子[APP]",
              "name": "🔶瓜子┃T4",
