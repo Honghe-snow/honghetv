@@ -19,13 +19,7 @@
 {"key":"zy_猫眼视频💎","name":"💎猫眼视频🍏","type":1,"api":"https://api.maoyanapi.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"playerType":2, "playUrl":"https://jx.maoyanjx.top/player/?url=","categories": ["国产动漫","国产剧","韩国剧","伦理片","动作片","喜剧片","爱情片","科幻片","恐怖片","战争片","剧情片","伦理片","纪录片","香港剧","欧美剧","日本剧","台湾剧","泰国剧","海外剧","日本动漫","欧美动漫","大陆综艺","港台综艺","欧美综艺","日韩综艺","动画片","体育","短剧","网络电影"]},
 {"key":"APP_蜂蜜商店","name": "🏡蜂蜜商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "http://williamc.tplinkdns.com/iptv/js/market.json","jar": "http://williamc.tplinkdns.com/iptv/js/app.jar"},
 {"key":"api_魔都资源🎯","name":"🎯魔都资源🍏1","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://williamc.tplinkdns.com/iptv/js/api魔都.json","jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"},
-{
-"key": "奇奇",
-"name": "奇奇┃APP",
-"type": 3,
-"api": "csp_AppGet",
-"ext": "http://103.236.61.192:8006|123456789abcdefg"
-},
+{"key":"腾讯视频","name":"❤️问鼎专属腾讯｜4K","type":3,"api":"https://gitee.com/lieyuyun/contend-for-the-throne/raw/master/lib/drpy2.min.js","ext":"https://gitee.com/lieyuyun/contend-for-the-throne/raw/master/lib/腾讯视频.js"},
 {
             "key": "番喜",
             "name": "梵希视频",
