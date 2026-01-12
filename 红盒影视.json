@@ -1,6 +1,5 @@
 {
   "spider": "https://pan.baidu.re/down.php/b45286a31b807c28e985585657e7fca6.jar",
-"wallpaper": "https://wp.upx8.com/api.php",
   "warningText": "资源来自网络，无盈利纯技术分享！[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
   "logo": "https://pan.baidu.re/view.php/e9159e3344c2f572544faa1f61702110.jpg",
 
@@ -98,19 +97,6 @@
         "cookie": "https://gitee.com/zxmoyun/shared-warehouse/raw/master/token/bili.txt",
         "json": "https://125.208.22.159:8889/down/D77CEHX3DXyb.json"
       },
-      "timeout": 20
-    },
-{
-                        "key": "粉象世界",
-                                    "name": "🐘粉象┃APP",
-                                                "type": 3,
-                                                            "changeable": 0,
-                                                                        "api": "csp_Appfox",
-                                                                        "jar": "http://rihou.cc:88/jar/vox.jar;md5;41a3c02bba1cf6d07041fed327d072cc",
-                                "ext": {                                                                           "host": "http://121.40.131.51:2556/host.json",                         
-                                "ver": 2
-                           }
-        },
 {"key":"天天","name":"2k天天","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg0939791h1l3888jig44gi291li"},
 {"key":"push_agent","name":"⚠️切勿相信广告⚠️","type":3,"api":"csp_PushGuard","playerType":"1","searchable":0}
 ],
