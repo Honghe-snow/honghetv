@@ -6,13 +6,6 @@
 
 "sites":[
 {
-      "key": "豆瓣",
-      "name": "🎀豆瓣┃推荐🎀",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0
-    },
-{
              "key": "drpyS_瓜子[APP]",
              "name": "🔶瓜子┃T4",
              "type": 4,
