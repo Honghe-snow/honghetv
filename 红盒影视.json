@@ -1,5 +1,6 @@
 {
-  "spider": "https://pan.baidu.re/down.php/b45286a31b807c28e985585657e7fca6.jar",
+  "spider": "./spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
+   "wallpaper": "https://api.likepoems.com/img/bing",
   "warningText": "资源来自网络，无盈利纯技术分享！[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
   "logo": "https://pan.baidu.re/view.php/e9159e3344c2f572544faa1f61702110.jpg",
 
