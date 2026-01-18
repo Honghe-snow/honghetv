@@ -1,8 +1,8 @@
 {
-  "spider": "https://pan.baidu.re/down.php/b45286a31b807c28e985585657e7fca6.jar",
+  "spider": "https://9246.kstore.space/XYQ.jar",
   "wallpaper": "https://wp.upx8.com/api.php",
-  "warningText": "资源来自网络，无盈利纯技术分享！[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
-  "logo": "https://pan.baidu.re/view.php/5dfc76d8b1f2a21280735253375598f7.jpg",
+  "warningText": "由于更换服务器，请关注公众号:挺好分享，获取新接口",
+  "logo": "https://gitee.com/ztha001/th/raw/master/IMG_7090.GIF",
 "sites":[
 {"key":"csp_豆瓣","name":"🌺豆瓣🌺","type": 3,"api":"csp_DouDouGuard","indexs": 1,"searchable": 0,"quickSearch": 0,"changeable": 0},
 {
