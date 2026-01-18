@@ -7,6 +7,113 @@
       "api": "csp_Douban",
       "searchable": 0
     },
+
+      {
+"key": "腾讯视频",
+            "name": "👑｜藤藤｜4K",
+            "type": 3,
+            "api": "http://api.zkys.dpdns.org:1166/uploads/20260112/api/lib/js/drpy2.min.js",
+            "ext": "http://api.zkys.dpdns.org:1166/uploads/20260112/api/lib/js/腾讯视频.js"
+        },
+        {
+            "key": "芒果视频",
+            "name": "👑｜芒芒｜4K",
+            "type": 3,
+            "api": "http://api.zkys.dpdns.org:1166/uploads/20260112/api/lib/js/drpy2.min.js",
+            "ext": "http://api.zkys.dpdns.org:1166/uploads/20260112/api/lib/js/芒果视频.js"
+        },
+        {
+            "key": "爱奇艺",
+            "name": "👑丨艺艺丨HD",
+            "type": 3,
+            "api": "http://api.zkys.dpdns.org:1166/uploads/20260112/api/lib/js/drpy2.min.js",
+            "ext": "http://api.zkys.dpdns.org:1166/uploads/20260112/api/lib/js/爱奇艺.js"
+        },
+        {
+            "key": "drpy_js_优酷",
+            "name": "👑丨优酷丨HD",
+            "type": 3,
+            "api": "http://api.zkys.dpdns.org:1166/uploads/20260112/api/lib/js/drpy2.min.js",
+            "ext": "http://api.zkys.dpdns.org:1166/uploads/20260112/api/lib/js/优酷视频.js"
+        },
+        {
+            "key": "🔱｜vip线🏅",
+            "name": "👑｜振坤｜HD",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/hjys.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://api.zkys.dpdns.org:1166/uploads/20260112/api/lib/js/黄金影视.json"
+        },
+        {
+            "key": "Max",
+            "name": "👑｜聚合丨4K",
+            "type": 3,
+            "changeable": 0,
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "csp_AppYsV2",
+            "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/jars/vox.webp",
+            "ext": {
+                "api": "http://yjyi.juyongjiu.com:80/icciu_api.php/v1.vod",
+                "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
+                "apisignkey": "lvdoutv-1.0.0"
+            },
+            "categories": [
+                "直播",
+                "电影",
+                "电视剧",
+                "全网短剧",
+                "综艺",
+                "动漫",
+                "少儿",
+                "纪录片"
+            ]
+        },
+        {
+            "key": "立播",
+            "name": "👑｜立播｜4K",
+            "type": 4,
+            "api": "http://8088880.xyz:8080/video/libo?token=698d04ebe00a6369",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "醉挽清风",
+            "name": "👑｜醉挽丨4K",
+            "type": 4,
+            "api": "http://我不是.摸鱼儿.com/api/yyutx.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "金牌PY",
+            "name": "👑｜墨云｜HD",
+            "type": 3,
+            "api": "http://api.zkys.dpdns.org:1166/uploads/20260112/api/lib/py/JPYS.py",
+            "style": {
+                "type": "rect",
+                "ratio": 1.567
+            },
+            "ext": {
+                "site": "https://m.fjvtw.com,https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com,https://m.hhduc.com,https://www.hellorlgzf7sn.com"
+            }
+        },
+        {
+            "key": "hipy_js_ytgz4k",
+            "name": "👑｜瓜子丨HD",
+            "type": 3,
+            "api": "https://gitee.com/hu-congrong/lxbsc/raw/main/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitee.com/hu-congrong/lxbsc/raw/main/js/瓜子.js"
+        },
     {
       "key": "csp_Music",
       "name": "🎵MUSIC┃听歌",
