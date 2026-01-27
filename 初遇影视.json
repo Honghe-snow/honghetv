@@ -12,6 +12,12 @@
       "searchable": 0,
       "changeable": 1
     },
+   {
+      "name": "九灵1080",
+      "type": "1",
+      "url": "https://coffee.1ljx.com:32000/api/?key=36d3e7f8-f971-44a7-9063-5db4f218491d&url="
+    },
+  
     {
          "api" : "http://www.meowtv.cn/js/drpy2.min.js",
          "ext" : "http://www.meowtv.cn/js/meow.php?file=txsp",
