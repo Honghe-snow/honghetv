@@ -7,11 +7,6 @@
       "api": "csp_Douban",
       "searchable": 0
     },
-{
-      "name": "九灵1080",
-      "type": "1",
-      "url": "https://coffee.1ljx.com:32000/api/?key=36d3e7f8-f971-44a7-9063-5db4f218491d&url="
-    },
 
       {
 "key": "腾讯视频",
@@ -845,6 +840,11 @@
       "name": "HD⚡腾讯解析",
       "type": 1,
       "url": "http://shybot.top/v2/video/jx/?shykey=4595a71a4e7712568edcfa43949236b42fcfcb04997788ebe7984d6da2c6a51c&url="
+    },
+{
+      "name": "九灵1080",
+      "type": "1",
+      "url": "https://coffee.1ljx.com:32000/api/?key=36d3e7f8-f971-44a7-9063-5db4f218491d&url="
     },
     {
       "name": "4k芒果⚡专解",
