@@ -77,7 +77,15 @@
       "ext": "YUhSMGNEb3ZMekV5TXk0eU1EY3VNakkwTGpFek1EbzNNRE16TDJGd2FTNXdhSEEvYzJsMFpUMXRhV2hrY2lNakkyMXBhR1J5"
     }, 
 
-
+{
+      "key": "py_aidianying",
+      "name": "Ivdy影视",
+      "type": 3,
+      "api": "./lib/apiv1053aidianying.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0
+    },
 
     {
       "key": "热播影视",
