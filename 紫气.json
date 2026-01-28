@@ -4,6 +4,20 @@
   "logo": "https://gitlab.com/meoliren/tv/-/raw/main/mmexport1731975335138.jpg",
   "warningText": "资源来自网络，无盈利纯技术分享！[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
   "sites": [
+{
+      "key": "追影闸",
+      "name": "追影闸",
+      "type": 3,
+      "changeable": 1,
+      "jar": "http://14.103.129.80:999/奇迹云2kmax/jar/baipiaoya.app",
+      "api": "csp_AppGet",
+      "ext": {
+        "host": "http://14.103.129.80:999/奇迹云2kmax/lib/pgqj.json",
+        "datakey": "kj37zs29q22jk96t",
+        "ua": "okhttp/3.10.0",
+        "api": 2
+      }
+    },
     {
       "key": "drpyS_瓜子[APP]",
       "name": "🔶瓜子┃T4",
