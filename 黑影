@@ -4,18 +4,16 @@
   "warningText": "由于更换服务器，请关注公众号:挺好分享，获取新接口",
   "logo": "https://gitee.com/ztha001/th/raw/master/IMG_7090.GIF",
 "sites":[
-{"key":"南瓜", 
-"name":"🎃南瓜秒播", 
- "jar":"https://d.kstore.dev/download/8240/fix241213.jar", 
-"type": 3, 
-"searchable": 1, 
-"quickSearch":1, 
-"changeable": 1, 
-"api": "csp_NanGua", 
-"playerType": 1, 
-"filterable": 1, 
-"ext": "" 
- },
+{
+                        "key": "js_nangua",
+                        "name": "南瓜秒播",
+                        "type": 3,
+                        "api": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_libs/drpy2.min.js",
+                        "searchable": 1,
+                        "quickSearch": 1,
+                        "filterable": 1,
+                        "ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_js/南瓜影视[优].js"
+                },
 
 {"key":"guoguo","name":"2K芒果内置","type":3,"api":"https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"changeable":0,"ext":"https://gitee.com/charming-person/tv/raw/master/bwmg.js"},
 {"key":"爱奇艺","name":"2K爱奇艺影","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","playUrl":"json:http://125.208.22.184:1666/api/?key=Lsthk1A7obu4Lmn4zk&url=","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/爱奇艺.js"},
