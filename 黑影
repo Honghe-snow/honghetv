@@ -8,6 +8,7 @@
  "name": "☔️雨见影视",
  "type": 3,
  "api": "csp_XBPQ",
+"jar": "https://gitee.com/dentist_chen/tvbox/raw/panroda/Interface/jar/yydf.jar",
  "searchable": 1,
  "quickSearch": 1,
  "filterable": 1,
