@@ -115,7 +115,7 @@
 }
 "ijk": [
     {
-      "group": "杞В鐮�",
+      "group": "软解码",
       "options": [
         {
           "category": 4,
@@ -195,7 +195,7 @@
       ]
     },
     {
-      "group": "纭В鐮�",
+      "group": "硬解码",
       "options": [
         {
           "category": 4,
@@ -277,7 +277,7 @@
   ],
   "rules": [
     {
-      "name": "閲忓瓙闈炲嚒骞垮憡",
+      "name": "量子非凡广告",
       "hosts": [
         "lz",
         "vip.lz",
@@ -293,7 +293,7 @@
       ]
     },
     {
-      "name": "绱㈠凹骞垮憡",
+      "name": "索尼广告",
       "hosts": [
         "suonizy",
         "qrssv.com"
@@ -304,7 +304,7 @@
       ]
     },
     {
-      "name": "涔愯骞垮憡",
+      "name": "乐视广告",
       "hosts": [
         "leshiyun"
       ],
@@ -313,7 +313,7 @@
       ]
     },
     {
-      "name": "浼樿川骞垮憡",
+      "name": "优质广告",
       "hosts": [
         "yzzy",
         "playback"
@@ -326,7 +326,7 @@
       ]
     },
     {
-      "name": "蹇湅骞垮憡",
+      "name": "快看广告",
       "hosts": [
         "kuaikan",
         "vip.kuaikan"
@@ -338,7 +338,7 @@
       ]
     },
     {
-      "name": "360骞垮憡",
+      "name": "360广告",
       "hosts": [
         "lyhuicheng"
       ],
@@ -348,7 +348,7 @@
       ]
     },
     {
-      "name": "寮€婧愭鐗�",
+      "name": "开源棋牌",
       "hosts": [
         "askzycdn",
         "jkunbf",
@@ -361,7 +361,7 @@
       ]
     },
     {
-      "name": "鏆撮骞垮憡",
+      "name": "暴风广告",
       "hosts": [
         "bfengbf.com",
         "bfzy",
@@ -373,7 +373,7 @@
       ]
     },
     {
-      "name": "鐏北鍡呮帰",
+      "name": "火山嗅探",
       "hosts": [
         "huoshan.com"
       ],
@@ -382,7 +382,7 @@
       ]
     },
     {
-      "name": "鎶栭煶鍡呮帰",
+      "name": "抖音嗅探",
       "hosts": [
         "douyin.com"
       ],
@@ -391,7 +391,7 @@
       ]
     },
     {
-      "name": "鍐滄皯鍡呮帰",
+      "name": "农民嗅探",
       "hosts": [
         "toutiaovod.com"
       ],
