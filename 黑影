@@ -11,7 +11,7 @@
  "searchable": 1,
  "quickSearch": 1,
  "filterable": 1,
- "ext":".https://gitee.com/dentist_chen/tvbox/raw/panroda/Interface/json/雨见影视.json"},
+ "ext":"https://gitee.com/dentist_chen/tvbox/raw/panroda/Interface/json/雨见影视.json"},
 {"key":"nangua","name":"🎃┃南瓜┃秒播","type":3,"api":"csp_NanGua","playerType":2,"jar":"https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"},
 {"key":"橘皮","name":"🍊┃橘皮┃秒播","type":3,"api":"csp_Jpys","playerType":1,"jar":"https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"},
 {"key":"起点","name":"🏁┃起点┃超清","type":3,"api":"csp_AppYsV2","playerType":2,"jar":"https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg09397907492i87j2g8128687kgg1ih5hij8772225j4i54l2k91k151k138612h68842ji"},
