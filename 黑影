@@ -1,6 +1,6 @@
 {
-  "spider": "http://139.196.189.227:5212/f/J6WsK/danmu.jar",
-    "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
+  "spider": "https://gitee.com/ztha002/th/raw/master/ztha.jar",
+  "wallpaper": "https://wp.upx8.com/api.php",
   "warningText": "由于更换服务器，请关注公众号:挺好分享，获取新接口",
   "logo": "https://gitee.com/ztha001/th/raw/master/IMG_7090.GIF",
 "sites":[
