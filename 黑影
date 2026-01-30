@@ -5,7 +5,9 @@
   "logo": "https://gitee.com/ztha001/th/raw/master/IMG_7090.GIF",
 "sites":[
 {"key":"nangua","name":"🎃┃南瓜┃秒播","type":3,"api":"csp_NanGua","playerType":2,"jar":"https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"},
-
+{"key":"橘皮","name":"🍊┃橘皮┃秒播","type":3,"api":"csp_Jpys","playerType":1,"jar":"https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"},
+{"key":"起点","name":"🏁┃起点┃超清","type":3,"api":"csp_AppYsV2","playerType":2,"jar":"https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg09397907492i87j2g8128687kgg1ih5hij8772225j4i54l2k91k151k138612h68842ji"},
+{"key":"云云","name":"🥮┃云云┃超清","type":3,"api":"csp_Qiji","playerType":2,"jar":"https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg402i79425h2384j4g949j899hll9990i9kjl6l740h1342hjlg1848401g8610h9995i998j351gl38kklkj1hkhll757010k7hji6h377ih37k060g35161jhl3i5h0l2702g7299452l4297k5697g5390lk6935k2i9g48l8j2kh27l1g014k7j9475g8"},
 {"key":"guoguo","name":"2K芒果内置","type":3,"api":"https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"changeable":0,"ext":"https://gitee.com/charming-person/tv/raw/master/bwmg.js"},
 {"key":"爱奇艺","name":"2K爱奇艺影","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","playUrl":"json:http://125.208.22.184:1666/api/?key=Lsthk1A7obu4Lmn4zk&url=","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/爱奇艺.js"},
 {
