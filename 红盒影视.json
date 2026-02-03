@@ -6,6 +6,24 @@
 
 "sites":[
 {
+            "key": "家是本免扫2",
+            "name": "免扫丨4K2",
+            "type": 4,
+            "api": "http://sspa8.top:99/api.php?id=%E8%87%B3%E8%87%BB%E4%B8%93%E4%BA%AB&uid=suisui",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "家是本免扫3",
+            "name": "免扫丨4K3",
+            "type": 4,
+            "api": "http://sspa8.top:99/api.php?id=zzzx&uid=suisui",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+{
              "key": "drpyS_瓜子[APP]",
              "name": "🔶瓜子┃T4",
              "type": 4,
