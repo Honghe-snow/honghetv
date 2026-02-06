@@ -23,6 +23,15 @@
       "api": "http://8088880.xyz:8080/video/libo?token=8f32b5f2b5e44ba1"
     },
 {
+      "key": "移动4k源",
+      "name": "移动4k源",
+      "type": 3,
+      "jar": "https://gitee.com/tianwikeji/jar/raw/master/YD.jar",
+      "api": "csp_YDjisu",
+      "searchable": 1,
+      "changeable": 1
+    },
+{
             "key": "顾我",
             "name": "顾我APP",
             "type": 3,
