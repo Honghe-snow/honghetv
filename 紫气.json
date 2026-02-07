@@ -39,10 +39,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
+      "ext": 
         "danmu": true,
         "site": 0
-      },
       "timeout": 10
     },
 {
