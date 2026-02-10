@@ -1,0 +1,282 @@
+{
+  "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
+  "logo": "http://111.67.193.2:89/logo.jpg",
+  "lives": [
+    {
+      "name": "冰茶【点击此处切换直播源】",
+      "type": 0,
+      "url": "https://bc.188766.xyz/?url=https%3A%2F%2Flive.188766.xyz&json=true",
+      "ua": "bingcha/1.1"
+    }
+  ],
+  "headers": [
+    {
+      "host": "hlsztemgsplive.miguvideo.com",
+      "header": {
+        "User-Agent": "bingcha/1.1"
+      }
+    }
+  ],
+  "proxy": [
+    "raw.githubusercontent.com"
+  ],
+  "hosts": [
+    "hlsztemgsplive.miguvideo.com=hlsztemgsplive.miguvideo.com.b.cdn.chinamobile.com",
+    "push-rtmp-hs-spe-f5.douyincdn.com=source-fcdn-spe-push.s.bytefcdn.com",
+    "cdn9.163189.xyz=gcore.jsdelivr.net",
+    "cache.ott.fifalive.itv.cmvideo.cn=cache.ott.fifalive.itv.cmvideo.cn.e.cdn.chinamobile.com",
+    "studentlive.migucloud.com=base-v4v6-miguvideo.e.cdn.chinamobile.com"
+  ],
+  "sites": [
+    {
+      "key": "豆豆",
+      "name": "DG影院",
+      "type": 3,
+      "api": "./lib/douban_min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "荐片",
+      "name": "荐片",
+      "type": 3,
+      "api": "./lib/荐片.py",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
+    {
+      "key": "山有木兮",
+      "name": "山有木兮",
+      "type": 3,
+      "api": "./lib/山有木兮.py",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
+    {
+      "key": "厂长资源",
+      "name": "厂长资源",
+      "type": 3,
+      "api": "./lib/厂长资源.py",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
+    {
+      "key": "飞快TV",
+      "name": "飞快",
+      "type": 3,
+      "api": "./lib/飞快TV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "LIBVIO",
+      "name": "立播",
+      "type": 3,
+      "api": "./lib/LIBVIO.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "py_fei_fan_zi_yuan",
+      "name": "非凡",
+      "type": 3,
+      "api": "./lib/非凡资源.min.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "八戒影视",
+      "name": "八戒影视",
+      "type": 3,
+      "api": "./lib/八戒影视.py",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
+    {
+      "key": "麦田影院",
+      "name": "麦田影院",
+      "type": 3,
+      "api": "./lib/麦田影院.py",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
+    {
+      "key": "哇哇",
+      "name": "哇哇",
+      "type": 3,
+      "api": "./lib/哇哇.py",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
+    {
+      "key": "天空影视",
+      "name": "天空影视",
+      "type": 3,
+      "api": "./lib/天空影视.py",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
+    {
+      "key": "lingdu",
+      "name": "lingdu",
+      "type": 3,
+      "api": "./lib/lingdu.py",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
+    {
+      "key": "欣欣影视",
+      "name": "欣欣影视",
+      "type": 3,
+      "api": "./lib/欣欣影视.py",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
+    {
+      "key": "土豆浏览器",
+      "name": "土豆",
+      "type": 3,
+      "api": "./lib/土豆浏览器.py",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
+    {
+      "key": "小红影视",
+      "name": "小红影视",
+      "type": 3,
+      "api": "./lib/小红影视.py",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
+    {
+      "key": "两个BT",
+      "name": "两个BT",
+      "type": 3,
+      "api": "./lib/两个BT.py",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
+    {
+      "key": "永乐视频",
+      "name": "永乐视频",
+      "type": 3,
+      "api": "./lib/永乐视频.py",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
+    {
+      "key": "界影视",
+      "name": "界影视",
+      "type": 3,
+      "api": "./lib/界影视.py",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
+    {
+      "key": "瓜子影视",
+      "name": "瓜子影视",
+      "type": 3,
+      "jar": "./duo.jar",
+      "api": "csp_Guazi",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1
+    },
+    {
+      "key": "金牌影院",
+      "name": "金牌影院",
+      "type": 3,
+      "jar": "./duo.jar",
+      "api": "csp_Jinpai",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "星芽短剧",
+      "name": "星芽短剧",
+      "type": 3,
+      "api": "./lib/星芽短剧.py",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
+    {
+      "key": "甜圈短剧",
+      "name": "甜圈短剧",
+      "type": 3,
+      "api": "./lib/甜圈短剧.py",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
+    {
+      "key": "88js",
+      "name": "⚽ ┃八八┃看球",
+      "type": 3,
+      "jar": "./duo.jar",
+      "api": "csp_Kanqiu",
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    }
+  ]
+}
