@@ -39,6 +39,7 @@
 "searchable": 1,
 "changeable": 1,
 "api": "csp_AppGet",
+"jar": "https://gitee.com/hu-congrong/ahb/raw/master/071.png",
 "ext": "http://ys.qist.top/dtym.php|2SWSPFxugBLPPOKo"
 },
 {
