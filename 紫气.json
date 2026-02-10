@@ -31,7 +31,16 @@
       "searchable": 1,
       "changeable": 1
     },
- 
+
+ {
+"key": "旗星",
+"name": "旗星┃APP",
+"type": 3,
+"searchable": 1,
+"changeable": 1,
+"api": "csp_AppGet",
+"ext": "http://ys.qist.top/dtym.php|2SWSPFxugBLPPOKo"
+},
 {
       "key": "麒麟影院",
       "name": "麒麟影院",
