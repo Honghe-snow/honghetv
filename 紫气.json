@@ -32,6 +32,45 @@
       "changeable": 1
     },
 {
+      "key": "drpyS_立播[盘]",
+      "name": "✨盘-1|4K",
+      "type": 4,
+      "api": "http://115.191.55.109:9097/api/立播[盘]?pwd=47f318660fa5ca46",
+      "searchable": 1,
+      "filterable": 0,
+      "quickSearch": 1,
+      "title": "立播[盘]",
+      "author": "EylinSir",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_多多[盘]",
+      "name": "✨盘-2|4K",
+      "type": 4,
+      "api": "http://115.191.55.109:9097/api/多多[盘]?pwd=47f318660fa5ca46",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "多多[盘]",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_夸克影视[盘]",
+      "name": "✨盘-3|4K",
+      "type": 4,
+      "api": "http://115.191.55.109:9097/api/夸克影视[盘]?pwd=47f318660fa5ca46",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 0,
+      "title": "夸克影视[盘]",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+{
       "key": "量子",
       "name": "量子秒播",
       "type": 1,
