@@ -32,6 +32,17 @@
       "changeable": 1
     },
 {
+        "key": "悠悠DJ",
+        "name": "🎵悠悠丨DJ",
+        "type": 4,
+        "api": "https://catbox.n13.club/t9/djuu.php",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120
+    },
+{
             "key": "农民影视",
             "name": "农民✨蓝光秒播",
             "type": 3,
