@@ -39,7 +39,43 @@
                 "ua": "okhttp/3.10.0"
             }
         },
-    
+
+    {
+			"key": "T4-guazi",
+			"name": "影视-瓜子(T4)",
+			"type": 4,
+			"api": "https://catbox.n13.club/ai/%E7%93%9C%E5%AD%90%E5%BD%B1%E8%A7%86.php"
+		},
+		{
+			"key": "T4-lianyu",
+			"name": "影视-恋鱼(T4)",
+			"type": 4,
+			"api": "https://catbox.n13.club/t9/lianyu.php"
+		},
+		{
+			"key": "T4-jianpian2",
+			"name": "影视-荐片2(T4)",
+			"type": 4,
+			"api": "https://catbox.n13.club/t9/jianpian2.php"
+		},
+		{
+			"key": "T4-jumeng",
+			"name": "影视-聚梦(T4)",
+			"type": 4,
+			"api": "https://catbox.n13.club/t9/jumeng.php"
+		},
+		{
+			"key": "T4-jinpai111",
+			"name": "影视-金牌(T4)",
+			"type": 4,
+			"api": "https://catbox.n13.club/t9/jinpai.php"
+		},
+		{
+			"key": "T4-bulei111",
+			"name": "影视-布雷(T4)",
+			"type": 4,
+			"api": "https://catbox.n13.club/t9/bulei.php"
+		},
 {
       "key": "量子",
       "name": "量子秒播",
