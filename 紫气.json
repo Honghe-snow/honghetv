@@ -71,11 +71,11 @@
 			"api": "https://catbox.n13.club/t9/jinpai.php"
 		},
 		{
-			"key": "T4-bulei111",
-			"name": "影视-布雷(T4)",
-			"type": 4,
-			"api": "https://catbox.n13.club/t9/bulei.php"
-		},
+    "key": "T4-bulei111",
+    "name": "影视-布雷(T4)",
+    "type": 4,
+    "api": "https://api.pingping6.com/api.php/provide/vod/at/json"
+},
 {
       "key": "量子",
       "name": "量子秒播",
