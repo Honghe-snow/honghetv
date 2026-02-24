@@ -77,6 +77,17 @@
     "api": "https://wds.ecsxs.com/224261.json"
 },
 {
+      "name": "糖心影视",
+      "key": "TnewGr",
+      "type": 3,
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/lizaifu2026/df/refs/heads/main/bdb.png",
+      "api": "csp_TnewGrAmns",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+{
       "key": "量子",
       "name": "量子秒播",
       "type": 1,
