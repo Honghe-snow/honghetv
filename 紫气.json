@@ -71,10 +71,10 @@
 			"api": "https://catbox.n13.club/t9/jinpai.php"
 		},
 		{
-    "key": "T4-bulei111",
-    "name": "影视-布雷(T4)",
+    "key": "T4-chunfeng-1280",
+    "name": "影视-春风1280",
     "type": 4,
-    "api": "https://api.sdbili.top/api.php/provide/vod/at/json"
+    "api": "https://wds.ecsxs.com/224261.json"
 },
 {
       "key": "量子",
