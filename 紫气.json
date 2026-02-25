@@ -46,7 +46,7 @@
 "api":"https://raw.githubusercontent.com/Honghe-snow/honghetv/lib/华数.py",
 "changeable":1
 },
-{"key": "csp_Live2Vod_1","name": "┃🖥网络电视┃","type": 3,"api": "csp_Live2Vod","jar": "./jar/Live2Vod.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"🌈顺财$https://gh-proxy.net/https://raw.githubusercontent.com/lishuncai8881/TVBox/master/lives/直播.txt#🎆暮雨$https://4key.cn/FP#👑范明明$https://gh.llkk.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u#👑猫TV$http://rihou.cc:555/gggg.nzk#👑央视卫视$https://l.gmbbk.com/upload/13571357.txt#👑杂2$https://fel.forxhr.top:2022/down.php/9130cbef574b3d09b7c45feec3caca03.txt&&&http://3650000.xyz/api/360.php?cid=6"},
+{"key": "csp_Live2Vod_1","name": "┃🖥网络电视┃","type": 3,"api": "csp_Live2Vod","jar": "https://raw.githubusercontent.com/lishuncai8881/TVBox/refs/heads/main/jar/Live2Vod.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"🌈顺财$https://gh-proxy.net/https://raw.githubusercontent.com/lishuncai8881/TVBox/master/lives/直播.txt#🎆暮雨$https://4key.cn/FP#👑范明明$https://gh.llkk.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u#👑猫TV$http://rihou.cc:555/gggg.nzk#👑央视卫视$https://l.gmbbk.com/upload/13571357.txt#👑杂2$https://fel.forxhr.top:2022/down.php/9130cbef574b3d09b7c45feec3caca03.txt&&&http://3650000.xyz/api/360.php?cid=6"},
 {
             "key": "wsycj",
             "name": "4K采集┃测试",
