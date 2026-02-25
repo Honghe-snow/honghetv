@@ -40,13 +40,12 @@
             }
         },
 {
-        "name": "华数专线",
-        "type": 1,
-        "api": "csp_Wasu.py",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-    },
+"key":"华数",
+"name":"华数影视",
+"type":3,
+"api":"./lib/华数.py",
+"changeable":1
+},
 {
             "key": "wsycj",
             "name": "4K采集┃测试",
