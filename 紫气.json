@@ -40,6 +40,14 @@
             }
         },
 {
+        "name": "华数专线",
+        "type": 1,
+        "api": "csp_Wasu.py",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    },
+{
             "key": "wsycj",
             "name": "4K采集┃测试",
             "type": 1,
