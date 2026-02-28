@@ -138,6 +138,15 @@
             ]
         },
 
+  {
+"key":"锋云电视直播",
+"name":"锋云丨电视丨直播",
+"type":3,
+"searchable":0,
+"changeable":0,
+"api":"https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/zz.js",
+"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/cszb.json"
+},
     {
 			"key": "T4-guazi",
 			"name": "影视-瓜子(T4)",
