@@ -12,7 +12,34 @@
       "playerType": 1,
       "jar": "https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E",
       "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
-    },   
+    },
+   {
+      "key": "小羊",
+      "name": "🐑小羊┃app",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": {
+        "site": "https://xy4k.com/url.txt",
+        "dataKey": "7SDWjknU34zqFbVr",
+        "dataIv": "7SDWjknU34zqFbVr"
+      }
+    },
+{
+      "key": "火猫",
+      "name": "🔥火猫┃app",
+      "type": 3,
+      "api": "csp_AppNox",
+      "ext": {
+        "url": "https://jp5.ggtvb.cc",
+        "header": {
+          "content-type": "application/json",
+          "x-app-signature": "11:05:5B:0E:DD:14:6A:96:38:28:CB:29:7D:5F:04:57:3F:D6:EC:6A:C4:54:4F:4D:44:72:0A:C1:8E:DD:A9:58",
+          "x-app-package": "cc.xzsc.user",
+          "x-app-version-code": "12",
+          "x-app-version-name": "5.2"
+        }
+      }
+    },
 {
       "key": "移动4k源",
       "name": "移动4k源",
@@ -73,7 +100,7 @@
             "name": "优质｜真六",
             "type": 3,
       "jar": "https://cccimg.com/down.php/6bcb3de5f0d7c9b3d4f19cfe9a314ab2.jar",
-            "api": "csp_AppQi",
+            "api": "csp_AppGet",
             "playerType": 1,
             "ext": "jaHR0cHM6Ly9keXl6dHZhcHBhcGlnb29kZ3guNjguZ3k6MTI2ODkvY2l3azI4dnUzOGlvOC9hcGl1cmwudHh0fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkc3wxMDA="
         },
