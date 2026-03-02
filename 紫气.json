@@ -20,7 +20,7 @@
 "jar": "https://gitee.com/xuyicheng11/baipiaoya/raw/master/lib/白嫖鸭.jar",
       "api": "csp_AppGet",
       "ext": {
-        "site": "https://xy4k.com/url.txt",
+        "url": "https://xy4k.com/url.txt",
         "dataKey": "7SDWjknU34zqFbVr",
         "dataIv": "7SDWjknU34zqFbVr"
       }
