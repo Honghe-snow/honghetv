@@ -25,7 +25,13 @@
         "dataIv": "7SDWjknU34zqFbVr"
       }
     },
-{"key":"huomaoys","name":"火猫┃App","type":3,"api":"csp_Qiji","playerType":2,"ext":"7lj763gg402i7942553k9hj9lk5h8h86k4gg845kili63835585155k7k103470h1k955lhk9706ih80280ikij0g7l91jlhl565775ikjhj9lg422962ig23ili4845k6g492l0"},
+{"key":"huomaoys",
+"name":"火猫┃App",
+"type":3,
+"jar": "https://gitee.com/xuyicheng11/baipiaoya/raw/master/lib/白嫖鸭.jar",
+"api":"csp_Qiji",
+"playerType":2,
+"ext":"7lj763gg402i7942553k9hj9lk5h8h86k4gg845kili63835585155k7k103470h1k955lhk9706ih80280ikij0g7l91jlhl565775ikjhj9lg422962ig23ili4845k6g492l0"},
 {
       "key": "移动4k源",
       "name": "移动4k源",
