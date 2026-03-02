@@ -100,6 +100,7 @@
             "key": "百度",
             "name": "白嫖鸭丨百度丨4K",
             "type": 4,
+"jar": "https://gitee.com/xuyicheng11/baipiaoya/raw/master/lib/白嫖鸭.jar",
             "api": "http://110.42.34.135:8080/video/mogg?token=1047",
             "searchable": 1,
             "quickSearch": 1,
@@ -557,17 +558,7 @@
         "纪录片"
       ]
     },
-    {
-      "key": "ydapp2",
-      "name": "2K全聚影视",
-      "type": 1,
-      "api": "https://gctf.tfdh.top/api.php/provide/vod",
-      "playUrl": "json:http://125.208.22.184:1666/api/?key=Lsthk1A7obu4Lmn4zk&url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": ["电影", "电视剧", "动漫", "综艺"]
-    },
+    {"key": "南顾春衫","name": "♨️南顾春衫┃HD纯净","type": 3,"api": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/drpy/drpy2.min.js","ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/kuku.js"},
     {
       "key": "新腾极4k",
       "name": "4k臻彩腾讯",
