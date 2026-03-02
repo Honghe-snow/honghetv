@@ -18,6 +18,7 @@
       "name": "🐑小羊┃app",
       "type": 3,
       "api": "csp_AppGet",
+"jar": "https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E",
       "ext": {
         "site": "https://xy4k.com/url.txt",
         "dataKey": "7SDWjknU34zqFbVr",
@@ -28,6 +29,7 @@
       "key": "火猫",
       "name": "🔥火猫┃app",
       "type": 3,
+"jar": "https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E",
       "api": "csp_AppNox",
       "ext": {
         "url": "https://jp5.ggtvb.cc",
