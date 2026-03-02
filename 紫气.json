@@ -25,23 +25,7 @@
         "dataIv": "7SDWjknU34zqFbVr"
       }
     },
-{
-      "key": "火猫",
-      "name": "🔥火猫┃app",
-      "type": 3,
-"jar": "https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E",
-      "api": "csp_AppNox",
-      "ext": {
-        "url": "https://jp5.ggtvb.cc",
-        "header": {
-          "content-type": "application/json",
-          "x-app-signature": "11:05:5B:0E:DD:14:6A:96:38:28:CB:29:7D:5F:04:57:3F:D6:EC:6A:C4:54:4F:4D:44:72:0A:C1:8E:DD:A9:58",
-          "x-app-package": "cc.xzsc.user",
-          "x-app-version-code": "12",
-          "x-app-version-name": "5.2"
-        }
-      }
-    },
+{"key":"huomaoys","name":"火猫┃App","type":3,"api":"csp_Qiji","playerType":2,"ext":"7lj763gg402i7942553k9hj9lk5h8h86k4gg845kili63835585155k7k103470h1k955lhk9706ih80280ikij0g7l91jlhl565775ikjhj9lg422962ig23ili4845k6g492l0"},
 {
       "key": "移动4k源",
       "name": "移动4k源",
