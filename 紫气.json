@@ -644,6 +644,13 @@
       "type": 1,
       "url": "http://shybot.top/v2/video/jx/?shykey=4595a71a4e7712568edcfa43949236b42fcfcb04997788ebe7984d6da2c6a51c&qn=max&url="
     },
+{"name": "👉软件专解👈","type": 1,"url": "http://175.178.118.205:3302/api/?key=nZV75E7qb8s7tktEik&url=","ext": {"flag": ["JSGZ","JSXL","JSJP"],"header": {"User-Agent": "okhttp/4.9.1"}}},
+    {"name": "👉测试解析👈","type": 1,"url": "","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果"],"header": {"User-Agent": "okhttp/4.9.1"}}},
+    {"name": "夏夜4k","type": 1,"url": "http://8.155.50.80/xiayexk.php?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","YuMi-vip"],"header": {"User-Agent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36"}}},
+    {"name": "vipiw51lm","type": 1,"url": "http://121.40.174.45:299/api/?key=78A64684E18DC3Y&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","YuMi-vip"]}},
+    {"name": "火花","type": "1","url": "https://api.huohua.live/api/?key=v8GHObhk1dzFZ23Lom&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","YuMi-vip"],"header": {"User-Agent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36"}}},
+    {"name": "免费","type": 1,"url": "http://json.qyys.top/api/?key=ea785c759086631395396b41c43dc90b&url=","ext": {"flag": ["腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header": {"User-Agent": "okhttp/4.9.1"}}},
+    {"name": "ttdle自用解析","type":1,"url":"https://json.jinchanjiexi.net:1994/api/diy/?key=atE5tf8oLgkZRTPgVJ&url=","ext": {"flag": ["腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header": {"User-Agent": "okhttp/4.9.1"}}},
     {
       "name": "问鼎4k",
       "type": 1,
