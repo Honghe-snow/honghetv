@@ -15,33 +15,6 @@
     },
 {"key":"csp_appys","name":"4K盘","type":3,"jar": "http://yjy.lyyytv.cn/uploads/tvbox/fm.jar;md5;b40f328ddc5becefbfca81db7bdca250","api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms339.lyyytv.cn/api.php/app/"},
 {"name": "火花","type": "1","url": "https://api.huohua.live/api/?key=v8GHObhk1dzFZ23Lom&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","YuMi-vip"],"header": {"User-Agent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36"}}},
-    {"name": "免费","type": 1,"url": "http://json.qyys.top/api/?key=ea785c759086631395396b41c43dc90b&url=","ext": {"flag": ["腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header": {"User-Agent": "okhttp/4.9.1"}}},
-{"key": "采集之王","name": "泽霖采集之王","type": 3,"jar": "https://gitee.com/lujun189/ceshi/raw/master/1/jar/qiaoji.jar;md5;f32184d39cf75de2e832c17e7beffac3",
-"api": "./drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"order_num": 142,"ext": "https://tvbox.catvod.com/js/采集之王.js?type=url&params=https://tvbox.catvod.com/js/采集静态.json$1$1"},
-{"jar": "https://gitee.com/lujun189/ceshi/raw/master/1/jar/qiaoji.jar;md5;f32184d39cf75de2e832c17e7beffac3","key":"lanyingys","name":"橘子4K┃APP","type":3,"api":"csp_Xdai","playerType":2,"ext":"7lj763gg402i794256239kj6h5128l9jllk7jj50i18630285h4j17hikk1k560954845ig0j75l92972l18gliilll11lg8l26h3h07ggg6j3k83gjj65g537l41h16gjl3i1g7g026752gig5k640ji4gl113024k6lk6j22h09llhj7jk35l2384j"},
-{"jar": "https://gitee.com/lujun189/ceshi/raw/master/1/jar/qiaoji.jar;md5;f32184d39cf75de2e832c17e7beffac3","key":"永夜","name":"永夜┃App","type":3,"api":"csp_Xdai","playerType":2,"ext":"7lj763gg0939790i413gjh9kk011jijiggll990k9li73l224k770ik0j10l502j2j9l798lhj778hh33g018h94k5j400kij3567j7gji97kkk4118421g03lll"},
-{"jar": "https://gitee.com/lujun189/ceshi/raw/master/1/jar/qiaoji.jar;md5;f32184d39cf75de2e832c17e7beffac3","key":"主角","name":"主角┃APP","type":3,"api":"csp_Xdai","playerType":2,"ext":"7lj763gg402i794246398hi3h9128893l4gji44ii5i7312k5l0k02k6l41k5509558245g38450hhj13634k58gjjgi0iiig761450hligki9j4738814gh66861j54j1g0i393g36l3k2hil10"},
-{"jar": "https://gitee.com/lujun189/ceshi/raw/master/1/jar/qiaoji.jar;md5;f32184d39cf75de2e832c17e7beffac3","key":"huomaoys","name":"火猫┃App","type":3,"api":"csp_Qiji","playerType":2,"ext":"7lj763gg402i7942553k9hj9lk5h8h86k4gg845kili63835585155k7k103470h1k955lhk9706ih80280ikij0g7l91jlhl565775ikjhj9lg422962ig23ili4845k6g492l0"},
-{"jar": "https://gitee.com/lujun189/ceshi/raw/master/1/jar/qiaoji.jar;md5;f32184d39cf75de2e832c17e7beffac3","key":"柚子","name":"柚子┃APP","type":3,"api":"csp_Xdai","playerType":2,"ext":"7lj763gg402i7942553393i9g44g8j82k2g9jg54ih863325555955g5g1595i1741i70lk1i00hji87320gh6j1gkkg0jh4g8697h06ghh3jhl5339731hj7hh5595ilkkkjhh8k261236896432i458hkk4i756kh5k3773jl2j8gj958228h178060g6h72j974g8k1"},
-{"key": "爱盈","name": "盈盈┃app","type": 3,"jar": "https://7337.kstore.vip/kjtw.jar","api": "csp_AppQi","changeable": "1","quickSearch": 0,"filterable": 1,"ext": "https://rxysyyds.oss-cn-chengdu.aliyuncs.com/qiji.txt|sjvlwnhk6h9znl61|sjvlwnhk6h9znl61|305|okhttp/3.10.0"},
-   {
-      "key": "小羊",
-      "name": "🐑小羊┃app",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": {
-        "site": "https://xy4k.com/url.txt",
-        "dataKey": "7SDWjknU34zqFbVr",
-        "dataIv": "7SDWjknU34zqFbVr"
-      }
-    },
-{"key":"huomaoys",
-"name":"火猫┃App",
-"type":3,
-"jar": "https://gitee.com/xuyicheng11/baipiaoya/raw/master/lib/白嫖鸭.jar",
-"api":"csp_Qiji",
-"playerType":2,
-"ext":"7lj763gg402i7942553k9hj9lk5h8h86k4gg845kili63835585155k7k103470h1k955lhk9706ih80280ikij0g7l91jlhl565775ikjhj9lg422962ig23ili4845k6g492l0"},
 {
       "key": "移动4k源",
       "name": "移动4k源",
