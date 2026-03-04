@@ -14,6 +14,8 @@
       "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
     },
 {"key":"csp_appys","name":"4K盘","type":3,"jar": "http://yjy.lyyytv.cn/uploads/tvbox/fm.jar;md5;b40f328ddc5becefbfca81db7bdca250","api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms339.lyyytv.cn/api.php/app/"},
+{"name": "火花","type": "1","url": "https://api.huohua.live/api/?key=v8GHObhk1dzFZ23Lom&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","YuMi-vip"],"header": {"User-Agent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36"}}},
+    {"name": "免费","type": 1,"url": "http://json.qyys.top/api/?key=ea785c759086631395396b41c43dc90b&url=","ext": {"flag": ["腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header": {"User-Agent": "okhttp/4.9.1"}}},
 {"key": "采集之王","name": "泽霖采集之王","type": 3,"jar": "https://gitee.com/lujun189/ceshi/raw/master/1/jar/qiaoji.jar;md5;f32184d39cf75de2e832c17e7beffac3",
 "api": "./drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"order_num": 142,"ext": "https://tvbox.catvod.com/js/采集之王.js?type=url&params=https://tvbox.catvod.com/js/采集静态.json$1$1"},
 {"jar": "https://gitee.com/lujun189/ceshi/raw/master/1/jar/qiaoji.jar;md5;f32184d39cf75de2e832c17e7beffac3","key":"lanyingys","name":"橘子4K┃APP","type":3,"api":"csp_Xdai","playerType":2,"ext":"7lj763gg402i794256239kj6h5128l9jllk7jj50i18630285h4j17hikk1k560954845ig0j75l92972l18gliilll11lg8l26h3h07ggg6j3k83gjj65g537l41h16gjl3i1g7g026752gig5k640ji4gl113024k6lk6j22h09llhj7jk35l2384j"},
