@@ -42,6 +42,22 @@
             }
         },
 {
+            "key": "知秋",
+            "name": "知秋┃4K",
+            "type": 3,
+            "api": "csp_MYzhiqiu",
+            "jar": "https://gitee.com/M60m/abandoned/raw/master/blrHB.png",
+            "ext": "https://fishapi.wya6.com/fish/zhiqiu.php",
+            "categories": [
+        "电视剧",
+        "电影",
+        "动漫",
+        "综艺",
+        "少儿",
+        "纪录片"
+      ]
+        },
+{
             "key": "猎手影视",
             "name": "烈兽┃APP",
             "type": 3,
