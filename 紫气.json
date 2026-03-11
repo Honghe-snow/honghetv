@@ -576,6 +576,33 @@
         "纪录片"
       ]
     },
+{
+            "key": "csp_XBPQ",
+            "name": "📦米口｜测试",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "timeout": 12,
+            "jar": "https://img2.gelonghui.com/library/1fdce-37f3cc0f-eca7-4efa-ad79-b86d68bde3b5.jpg;md5;1fdce64a3b67359e8f6f9ea64a3326f5",
+            "ext": "{\"模板\":\"https://gitee.com/smallmi1007/mimi/raw/master/nox.json\",\"域名-c\":\"http://111.170.7.114:8081\",\"xas\":\"3D:D7:7B:07:B0:81:49:AF:90:5E:39:2B:B8:59:A9:99:89:EB:D5:35:6E:06:C0:A4:BE:44:B6:16:43:33:C4:C3\",\"xavn\":\"0.1.5\",\"xap\":\"com.muyuesg.app\",\"xavc\":\"15\"}"
+        },
+        {
+            "key": "csp_XBPQ2",
+            "name": "📦独家｜测试",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "timeout": 12,
+            "jar": "https://img2.gelonghui.com/library/1fdce-37f3cc0f-eca7-4efa-ad79-b86d68bde3b5.jpg;md5;1fdce64a3b67359e8f6f9ea64a3326f5",
+            "ext": "{\"模板\":\"https://gitee.com/smallmi1007/mimi/raw/master/nox.json\",\"域名-c\":\"https://xdsj.xywla.com\",\"xas\":\"7D:69:AF:92:9A:9F:A6:88:65:07:B2:DB:50:FC:CD:DD:2D:C2:9A:E4:01:9C:ED:56:12:2C:50:6D:E3:CD:38:F6\",\"xavn\":\"1.0.5\",\"xap\":\"com.xiaodoshijie.app\",\"xavc\":\"15\"}"
+        },
+        {
+            "key": "爱影视",
+            "name": "🏞️爱影｜1080P",
+            "type": 3,
+            "timeout": 15,
+            "api": "csp_AppGet",
+            "jar": "https://img2.gelonghui.com/library/28e33-d7f6e0ad-8de5-4829-b42c-bcdeaae1ed42.png;md5;28e33eb59669c994ca140064ad4a1eef",
+            "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q19.txt|fff32466kkfff616|122"
+        },
     {"key": "南顾春衫","name": "♨️南顾春衫┃HD纯净","type": 3,"api": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/drpy/drpy2.min.js","ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/kuku.js"},
     {
       "key": "新腾极4k",
