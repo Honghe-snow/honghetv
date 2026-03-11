@@ -424,6 +424,22 @@
       "ext": "http://williamc.tplinkdns.com/iptv/js/api魔都.json",
       "jar": "http://williamc.tplinkdns.com/iptv/js/HCCX.jar"
     },
+{
+            "key": "飞飞影视",
+            "name": "🦄飞飞影视|xbpq",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click()",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "分类url": "https://www.hkyszl.com/vodshow/{cateId}-{area}-{order}-{cate}-{lang}-{letter}---{catePg}---{year}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#动画片$35#短剧$36#动作电影$6#喜剧电影$7#爱情电影$8#科幻电影$9#恐怖电影$10#剧情电影$11#战争电影$12#记录电影$24#国产剧$13#港剧$14#台剧$15#日剧$16#泰剧$20#韩剧$21#伦理剧$18"
+            }
+        },
     {
       "key": "腾讯视频",
       "name": "❤️专属腾讯｜4K",
