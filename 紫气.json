@@ -266,6 +266,7 @@
       "key": "量子",
       "name": "量子秒播",
       "type": 1,
+"jar": "https://ghfast.top/https://raw.githubusercontent.com/lizaifu2026/df/refs/heads/main/bdb.png",
       "api": "http://cj.lziapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
