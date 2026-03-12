@@ -42,6 +42,19 @@
             }
         },
 {
+            "key": "仓鼠4K",
+            "name": "🤑仓鼠｜APP",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "host": "https://hk440cms.cs4k.top",
+                "datakey": "fL7sY4zN4kB3pG4p",
+                "api": 2
+            }
+        },
+{
             "key": "知秋",
             "name": "知秋┃4K",
             "type": 3,
