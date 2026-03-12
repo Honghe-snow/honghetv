@@ -25,6 +25,7 @@
       "changeable": 1
     },
 {"key": "T4-heimao", "name": "SW黑猫APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/黑猫APP.php"},
+{"key": "T4-guwo", "name": "SW顾我APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/顾我APP.php"},
 {
             "key": "顾我",
             "name": "顾誰APP",
