@@ -35,6 +35,7 @@
         "order_num": 0, 
         "ext": "https://ghp.ci/https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/魔方影视.js" 
       },
+{"key": "T4-shuzi", "name": "红盒数字APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/数字APP.php"},
 {"key": "T4-linghu", "name": "SW灵虎APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/灵虎APP.php"},
 {"key": "T4-heimao", "name": "SW黑猫APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/黑猫APP.php"},
 {"key": "T4-guwo", "name": "SW顾我APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/顾我APP.php"},
