@@ -26,23 +26,7 @@
     },
 {"key": "T4-heimao", "name": "SW黑猫APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/黑猫APP.php"},
 {"key": "T4-guwo", "name": "SW顾我APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/顾我APP.php"},
-{
-            "key": "顾我",
-            "name": "顾誰APP",
-            "type": 3,
-            "api": "csp_AppQi",
-            "changeable": 1,
-            "quickSearch": 1,
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/lizaifu2026/df/refs/heads/main/jiqimao.png;md5;6e8efa721c140e4466705d684e9db6a5",
-            "filterable": 1,
-            "ext": {
-                "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/pgqj.json",
-                "dataKey": "kj37zs29q22jk96t",
-                "dataIv": "kj37zs29q22jk96t",
-                "init": "initV122",
-                "ua": "okhttp/3.10.0"
-            }
-        },
+
 {"key": "T4-duanyou", "name": "SW段友APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/段友APP.php"},
 
 {
