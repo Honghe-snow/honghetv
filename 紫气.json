@@ -56,6 +56,19 @@
             }
         },
 {
+      "key": "py_仓鼠_APP",
+      "name": "🍄仓鼠┃App",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "host": "https://cs450appcms.cs4k.top/",
+        "datakey": "cD7wZ7iY6qN3sU1z",
+        "dataiv": "cD7wZ7iY6qN3sU1z"
+      }
+    },
+{
             "key": "知秋",
             "name": "知秋┃4K",
             "type": 3,
