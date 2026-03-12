@@ -45,6 +45,7 @@
             "key": "仓鼠4K",
             "name": "🤑仓鼠｜APP",
             "type": 3,
+"jar": "https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E",
             "searchable": 1,
             "changeable": 1,
             "api": "csp_AppGet",
