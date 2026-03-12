@@ -45,19 +45,17 @@
 {"key": "T4-wangzi", "name": "SW王子APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/王子APP.php"},
 
 {
-      "key": "py_仓鼠_APP",
-      "name": "🍄仓鼠┃App",
-      "type": 3,
+    "key": "py_仓鼠_APP",
+    "name": "🍄仓鼠┃App",
+    "type": 3,
 "jar": "https://gitee.com/M60m/abandoned/raw/master/blrHB.png",
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
+    "api": "csp_HBgetapp",
+    "ext": {
         "host": "https://cs450appcms.cs4k.top/",
-        "datakey": "cD7wZ7iY6qN3sU1z",
-        "dataiv": "cD7wZ7iY6qN3sU1z"
-      }
-    },
+        "key": "cD7wZ7iY6qN3sU1z",
+        "iv": "cD7wZ7iY6qN3sU1z"
+    }
+},
 {
             "key": "知秋",
             "name": "知秋┃4K",
