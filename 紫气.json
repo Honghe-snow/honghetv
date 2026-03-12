@@ -48,7 +48,7 @@
     "key": "py_仓鼠_APP",
     "name": "🍄仓鼠┃App",
     "type": 3,
-"jar": "https://gitee.com/M60m/abandoned/raw/master/blrHB.png",
+"jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;2e12265008ea7d3220be48b5e98d4c56",
     "api": "csp_HBgetapp",
     "ext": {
         "host": "https://cs450appcms.cs4k.top/",
