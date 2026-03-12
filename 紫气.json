@@ -46,6 +46,7 @@
       "key": "py_仓鼠_APP",
       "name": "🍄仓鼠┃App",
       "type": 3,
+"jar": "http://8.148.229.212:802/灵幻4k/jar/yunB.jar"
       "searchable": 1,
       "quickSearch": 1,
       "api": "csp_AppGet",
