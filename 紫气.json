@@ -30,6 +30,18 @@
       "jar": "https://img2.gelonghui.com/library/28e33-d7f6e0ad-8de5-4829-b42c-bcdeaae1ed42.png;md5;28e33eb59669c994ca140064ad4a1eef",
       "ext": "WQvB2Qw4Lp6LvWZcoDzAgWcdOv1mVLeY0zsSUm7bMIsicAsgOHNIjC8Yu9jjcHqnMDGY+94VxdIFzQm2fN7mCdhyQreUnNyGkNwiluieESzk83LDnj0Nwx0dwt1VZDTzYrWoXL55vf7YY1yjMID/C5SZN8uNA08bwHQzDwY8xEtGACOAb6Z/0z9n1NN1qApbyxoouOKKEsekOhSlAhE+czjC+tU+78MSRpA3l+n2+gA="
     },
+{
+  "key": "小羊4K_新版",
+  "name": "🐑小羊┃4K_新版",
+  "type": 3,
+  "api": "csp_AppQi",
+  "timeout": 15,
+  "ext": {
+    "url": "https://qjappcms.xy4k.com",
+    "dataKey": "abcdefghijklmnop",
+    "dataIv": "abcdefghijklmnop"
+  }
+},
     {
       "key": "csp_XBPQ2",
       "name": "M8┃独家",
