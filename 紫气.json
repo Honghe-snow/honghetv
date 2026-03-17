@@ -22,6 +22,52 @@
     },
 {"key":"csp_appys","name":"4K盘","type":3,"jar": "http://yjy.lyyytv.cn/uploads/tvbox/fm.jar;md5;b40f328ddc5becefbfca81db7bdca250","api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms339.lyyytv.cn/api.php/app/"},
 {
+      "key": "🌞腾腾4K解析_js",
+      "name": "免扫丨腾4K",
+      "type": 3,
+      "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/腾腾4K.js"
+    },
+    {
+      "key": "果果4K解析_js",
+      "name": "免扫丨果4K",
+      "type": 3,
+      "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/果果4K.js"
+    },
+    {
+      "key": "腾讯",
+      "name": "腾翼丨翔天",
+      "type": 3,
+      "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs//drpy2.min.js",
+      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/腾讯VIP.js"
+    },
+
+    {
+      "key": "优酷",
+      "name": "流光丨酷影",
+      "type": 3,
+      "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs//drpy2.min.js",
+      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/优酷.js"
+    },
+
+
+    {
+      "key": "爱奇艺",
+      "name": "爱奇艺｜视频",
+      "type": 3,
+      "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
+      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/爱奇艺.js"
+    },
+{
       "key": "追忆",
       "name": "追艺┃App",
       "type": 3,
