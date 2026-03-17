@@ -444,44 +444,6 @@
       "api": "http://192.140.163.220:9986/svip/lib/drpy2.min.js",
       "ext": "http://192.140.163.220:9986/svip/lib/哔哩影视[官].js"
     },
-
-  {
-    "key": "芒果视频",
-    "name": "芒芒｜4K",
-    "searchable": 1,
-    "quickSearch": 1,
-    "type": 3,
-    "api": "https://cdn.jsdelivr.net/npm/drpy2@latest/dist/drpy2.min.js",[[__LINK_ICON]](https://github.com/jsdelivr/jsdelivr?f_link_type=f_linkinlinenote&flow_extra=eyJpbmxpbmVfZGlzcGxheV9wb3NpdGlvbiI6MCwiZG9jX3Bvc2l0aW9uIjowLCJkb2NfaWQiOiI3NTJlZmQ1MjA4ODEzMDBhLTUzN2UzNWNhMzRjM2MyMTgifQ%3D%3D&search=1 "[__LINK_ICON]")
-    "ext": "https://cdn.jsdelivr.net/gh/dreamvip2022/drpy2@master/js/mgtv.js"
-  },
-  {
-    "key": "奇艺视频",
-    "name": "幽兰谣｜奇艺｜2K",
-    "searchable": 1,
-    "quickSearch": 1,
-    "type": 3,
-    "api": "https://cdn.jsdelivr.net/npm/drpy2@latest/dist/drpy2.min.js",[[__LINK_ICON]](https://github.com/jsdelivr/jsdelivr?f_link_type=f_linkinlinenote&flow_extra=eyJpbmxpbmVfZGlzcGxheV9wb3NpdGlvbiI6MCwiZG9jX3Bvc2l0aW9uIjowLCJkb2NfaWQiOiI3NTJlZmQ1MjA4ODEzMDBhLTUzN2UzNWNhMzRjM2MyMTgifQ%3D%3D&search=1 "[__LINK_ICON]")
-    "ext": "https://cdn.jsdelivr.net/gh/dreamvip2022/drpy2@master/js/iqiyi.js"
-  },
-  {
-    "key": "优酷视频",
-    "name": "幽兰谣｜优酷｜2K",
-    "searchable": 1,
-    "quickSearch": 1,
-    "type": 3,
-    "api": "https://cdn.jsdelivr.net/npm/drpy2@latest/dist/drpy2.min.js",[[__LINK_ICON]](https://github.com/jsdelivr/jsdelivr?f_link_type=f_linkinlinenote&flow_extra=eyJkb2NfcG9zaXRpb24iOjAsImRvY19pZCI6Ijc1MmVmZDUyMDg4MTMwMGEtNTM3ZTM1Y2EzNGMzYzIxOCIsImlubGluZV9kaXNwbGF5X3Bvc2l0aW9uIjowfQ%3D%3D&search=1 "[__LINK_ICON]")
-    "ext": "https://cdn.jsdelivr.net/gh/dreamvip2022/drpy2@master/js/youku.js"
-  },
-  {
-    "key": "瓜子影视",
-    "name": "幽兰谣｜瓜子｜蓝光",
-    "type": 3,
-    "api": "csp_Gz360",
-    "jar": "https://cdn.jsdelivr.net/gh/dreamvip2022/drpy2@master/libs/xf.jar",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-  },
     {
       "key": "腾讯视频",
       "name": "❤️专属腾讯｜4K",
