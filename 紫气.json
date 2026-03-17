@@ -437,6 +437,43 @@
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#动画片$35#短剧$36#动作电影$6#喜剧电影$7#爱情电影$8#科幻电影$9#恐怖电影$10#剧情电影$11#战争电影$12#记录电影$24#国产剧$13#港剧$14#台剧$15#日剧$16#泰剧$20#韩剧$21#伦理剧$18"
             }
         },
+{
+      "key": "芒果视频",
+      "name": "备用｜芒芒｜4K",
+      "searchable": 1,
+      "quickSearch": 1,
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/芒果视频.js"
+    },
+    {
+      "key": "奇艺视频",
+      "name": "幽兰谣｜奇艺｜2K",
+      "searchable": 1,
+      "quickSearch": 1,
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/爱奇艺视频.js"
+    },
+    {
+      "key": "优酷视频",
+      "name": "幽兰谣｜优酷｜2K",
+      "searchable": 1,
+      "quickSearch": 1,
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/优酷视频.js"
+    },
+    {
+      "key": "瓜子影视",
+      "name": "幽兰谣｜瓜子｜蓝光",
+      "type": 3,
+      "api": "csp_Gz360",
+      "jar": "./lib/xf.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "腾讯视频",
       "name": "❤️专属腾讯｜4K",
