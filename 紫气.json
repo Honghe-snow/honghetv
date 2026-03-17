@@ -444,7 +444,7 @@
       "quickSearch": 1,
       "type": 3,
       "api": "https://jk.nxbox.top/yly/yly/lib/drpy2.min.js",
-      "ext": "./lib/芒果视频.js"
+      "ext": "https://jk.nxbox.top/yly/lib/芒果视频.js"
     },
     {
       "key": "奇艺视频",
@@ -453,7 +453,7 @@
       "quickSearch": 1,
       "type": 3,
       "api": "https://jk.nxbox.top/yly/yly/lib/drpy2.min.js",
-      "ext": "./lib/爱奇艺视频.js"
+      "ext": "https://jk.nxbox.top/yly/lib/爱奇艺视频.js"
     },
     {
       "key": "优酷视频",
@@ -462,7 +462,7 @@
       "quickSearch": 1,
       "type": 3,
       "api": "https://jk.nxbox.top/yly/yly/lib/drpy2.min.js",
-      "ext": "./lib/优酷视频.js"
+      "ext": "https://jk.nxbox.top/yly/lib/优酷视频.js"
     },
     {
       "key": "瓜子影视",
