@@ -437,24 +437,44 @@
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#动画片$35#短剧$36#动作电影$6#喜剧电影$7#爱情电影$8#科幻电影$9#恐怖电影$10#剧情电影$11#战争电影$12#记录电影$24#国产剧$13#港剧$14#台剧$15#日剧$16#泰剧$20#韩剧$21#伦理剧$18"
             }
         },
-{
-      "key": "腾讯视频",
-      "name": "备用｜腾腾｜4K",
-      "searchable": 1,
-      "quickSearch": 1,
-      "type": 3,
-      "api": "https://jk.nxbox.top/yly/yly.json/lib/drpy2.min.js",
-      "ext": "https://jk.nxbox.top/yly/yly.json/lib/腾讯视频.js"
-    },
-    {
-      "key": "芒果视频",
-      "name": "备用｜芒芒｜4K",
-      "searchable": 1,
-      "quickSearch": 1,
-      "type": 3,
-      "api": "https://jk.nxbox.top/yly/yly.json/lib/drpy2.min.js",
-      "ext": "https://jk.nxbox.top/yly/yly.json/lib/芒果视频.js"
-    },
+
+  {
+    "key": "芒果视频",
+    "name": "芒芒｜4K",
+    "searchable": 1,
+    "quickSearch": 1,
+    "type": 3,
+    "api": "https://cdn.jsdelivr.net/npm/drpy2@latest/dist/drpy2.min.js",[[__LINK_ICON]](https://github.com/jsdelivr/jsdelivr?f_link_type=f_linkinlinenote&flow_extra=eyJpbmxpbmVfZGlzcGxheV9wb3NpdGlvbiI6MCwiZG9jX3Bvc2l0aW9uIjowLCJkb2NfaWQiOiI3NTJlZmQ1MjA4ODEzMDBhLTUzN2UzNWNhMzRjM2MyMTgifQ%3D%3D&search=1 "[__LINK_ICON]")
+    "ext": "https://cdn.jsdelivr.net/gh/dreamvip2022/drpy2@master/js/mgtv.js"
+  },
+  {
+    "key": "奇艺视频",
+    "name": "幽兰谣｜奇艺｜2K",
+    "searchable": 1,
+    "quickSearch": 1,
+    "type": 3,
+    "api": "https://cdn.jsdelivr.net/npm/drpy2@latest/dist/drpy2.min.js",[[__LINK_ICON]](https://github.com/jsdelivr/jsdelivr?f_link_type=f_linkinlinenote&flow_extra=eyJpbmxpbmVfZGlzcGxheV9wb3NpdGlvbiI6MCwiZG9jX3Bvc2l0aW9uIjowLCJkb2NfaWQiOiI3NTJlZmQ1MjA4ODEzMDBhLTUzN2UzNWNhMzRjM2MyMTgifQ%3D%3D&search=1 "[__LINK_ICON]")
+    "ext": "https://cdn.jsdelivr.net/gh/dreamvip2022/drpy2@master/js/iqiyi.js"
+  },
+  {
+    "key": "优酷视频",
+    "name": "幽兰谣｜优酷｜2K",
+    "searchable": 1,
+    "quickSearch": 1,
+    "type": 3,
+    "api": "https://cdn.jsdelivr.net/npm/drpy2@latest/dist/drpy2.min.js",[[__LINK_ICON]](https://github.com/jsdelivr/jsdelivr?f_link_type=f_linkinlinenote&flow_extra=eyJkb2NfcG9zaXRpb24iOjAsImRvY19pZCI6Ijc1MmVmZDUyMDg4MTMwMGEtNTM3ZTM1Y2EzNGMzYzIxOCIsImlubGluZV9kaXNwbGF5X3Bvc2l0aW9uIjowfQ%3D%3D&search=1 "[__LINK_ICON]")
+    "ext": "https://cdn.jsdelivr.net/gh/dreamvip2022/drpy2@master/js/youku.js"
+  },
+  {
+    "key": "瓜子影视",
+    "name": "幽兰谣｜瓜子｜蓝光",
+    "type": 3,
+    "api": "csp_Gz360",
+    "jar": "https://cdn.jsdelivr.net/gh/dreamvip2022/drpy2@master/libs/xf.jar",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+  },
     {
       "key": "腾讯视频",
       "name": "❤️专属腾讯｜4K",
