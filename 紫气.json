@@ -438,41 +438,22 @@
             }
         },
 {
+      "key": "腾讯视频",
+      "name": "备用｜腾腾｜4K",
+      "searchable": 1,
+      "quickSearch": 1,
+      "type": 3,
+      "api": "https://jk.nxbox.top/yly/yly.json/lib/drpy2.min.js",
+      "ext": "https://jk.nxbox.top/yly/yly.json/lib/腾讯视频.js"
+    },
+    {
       "key": "芒果视频",
       "name": "备用｜芒芒｜4K",
       "searchable": 1,
       "quickSearch": 1,
       "type": 3,
-      "api": "https://jk.nxbox.top/yly/yly/lib/drpy2.min.js",
-      "ext": "https://jk.nxbox.top/yly/lib/芒果视频.js"
-    },
-    {
-      "key": "奇艺视频",
-      "name": "幽兰谣｜奇艺｜2K",
-      "searchable": 1,
-      "quickSearch": 1,
-      "type": 3,
-      "api": "https://jk.nxbox.top/yly/yly/lib/drpy2.min.js",
-      "ext": "https://jk.nxbox.top/yly/lib/爱奇艺视频.js"
-    },
-    {
-      "key": "优酷视频",
-      "name": "幽兰谣｜优酷｜2K",
-      "searchable": 1,
-      "quickSearch": 1,
-      "type": 3,
-      "api": "https://jk.nxbox.top/yly/yly/lib/drpy2.min.js",
-      "ext": "https://jk.nxbox.top/yly/lib/优酷视频.js"
-    },
-    {
-      "key": "瓜子影视",
-      "name": "幽兰谣｜瓜子｜蓝光",
-      "type": 3,
-      "api": "csp_Gz360",
-      "jar": "https://jk.nxbox.top/yly/yly/lib/xf.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "api": "https://jk.nxbox.top/yly/yly.json/lib/drpy2.min.js",
+      "ext": "https://jk.nxbox.top/yly/yly.json/lib/芒果视频.js"
     },
     {
       "key": "腾讯视频",
