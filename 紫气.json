@@ -21,61 +21,6 @@
       "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
     },
 {"key":"csp_appys","name":"4K盘","type":3,"jar": "http://yjy.lyyytv.cn/uploads/tvbox/fm.jar;md5;b40f328ddc5becefbfca81db7bdca250","api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms339.lyyytv.cn/api.php/app/"},
-{
-      "key": "🌞腾腾4K解析_js",
-      "name": "免扫丨腾4K",
-      "type": 3,
-      "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/腾腾4K.js"
-    },
-    {
-      "key": "果果4K解析_js",
-      "name": "免扫丨果4K",
-      "type": 3,
-      "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/果果4K.js"
-    },
-    {
-      "key": "腾讯",
-      "name": "腾翼丨翔天",
-      "type": 3,
-      "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs//drpy2.min.js",
-      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/腾讯VIP.js"
-    },
-
-    {
-      "key": "优酷",
-      "name": "流光丨酷影",
-      "type": 3,
-      "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs//drpy2.min.js",
-      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/优酷.js"
-    },
-
-
-    {
-      "key": "爱奇艺",
-      "name": "爱奇艺｜视频",
-      "type": 3,
-      "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
-      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/爱奇艺.js"
-    },
-{
-      "key": "追忆",
-      "name": "追艺┃App",
-      "type": 3,
-      "timeout": 15,
-      "api": "csp_AppNox",
-      "jar": "https://img2.gelonghui.com/library/28e33-d7f6e0ad-8de5-4829-b42c-bcdeaae1ed42.png;md5;28e33eb59669c994ca140064ad4a1eef",
-      "ext": "WQvB2Qw4Lp6LvWZcoDzAgWcdOv1mVLeY0zsSUm7bMIsicAsgOHNIjC8Yu9jjcHqnMDGY+94VxdIFzQm2fN7mCdhyQreUnNyGkNwiluieESzk83LDnj0Nwx0dwt1VZDTzYrWoXL55vf7YY1yjMID/C5SZN8uNA08bwHQzDwY8xEtGACOAb6Z/0z9n1NN1qApbyxoouOKKEsekOhSlAhE+czjC+tU+78MSRpA3l+n2+gA="
-    },
     {
       "key": "csp_XBPQ2",
       "name": "M8┃独家",
