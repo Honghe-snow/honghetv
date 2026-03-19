@@ -47,8 +47,26 @@
 
 {"key": "T4-duanyou", "name": "SW段友APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/段友APP.php"},
 {"key": "T4-wangzi", "name": "SW王子APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/王子APP.php"},
-
-
+{
+            "key": "人人影视",
+            "name": "❤人人｜4K测试",
+            "type": 3,
+            "api": "https://gitee.com/cpu-iy/lib/raw/master/lib/人人影视.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1
+        },
+{
+            "key": "网盘",
+            "name": "❤网盘丨4K测试",
+            "type": 3,
+            "api": "https://gitee.com/cpu-iy/iy/raw/master/lib/观影.py",
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
 {
             "key": "知秋",
             "name": "知秋┃4K",
