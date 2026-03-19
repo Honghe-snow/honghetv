@@ -111,6 +111,11 @@
       "changeable": 0,
 "ext": "http://8.148.229.212:802/灵幻4k/lib/灵幻4kTX.js"
          },
+{      "key": "腾讯视频",      "name": "天运4k原画🌶️腾讯",      "type": 3,      "api": "http://8.148.229.212:802/天运4k/lib/drpy2.min.js",      "ext": "http://8.148.229.212:802/天运4k/lib/腾讯视频.js"    },  
+  {      "key": "芒果视频",      "name": "天运4k原画🌶️芒果",      "type": 3,      "api": "http://8.148.229.212:802/天运4k/lib/drpy2.min.js",      "ext": "http://8.148.229.212:802/天运4k/lib/天运4KMG.js"    },  
+  {      "key": "段友",      "name": "天运4k🌶️飞云",      "type": 3,      "searchable": 1,      "changeable": 1,      "api": "csp_AppGet",      "ext": {        "url": "https://shangjihuoke.com",        "dataKey": "8E2DC386FD452D05",        "dataIv": "8E2DC386FD452D05"      },      "jar": "http://8.148.229.212:802/天运4k/jar/天运4k.jar"    },  
+  {      "key": "魔方",      "name": "天运4k🌶️魔方",      "type": 3,      "searchable": 1,      "changeable": 1,      "api": "csp_AppGet",      "ext": {        "url": "https://www.alibaba31casaq.top/",        "dataKey": "1234567887654321",        "dataIv": "1234567887654321"      },      "jar": "http://8.148.229.212:802/天运4k/jar/天运4k.jar"    }, 
+   {      "key": "顾我",      "name": "天运4k🌶️一品",      "type": 3,      "api": "csp_AppQi",      "changeable": "1",      "quickSearch": 1,      "filterable": 1,      "ext": {        "site": "http://8.148.229.212:802/天运4k/lib/gw7.txt",        "dataKey": "ca94b06ca3c7d80e",        "dataIv": "ca94b06ca3c7d80e",        "ua": "okhttp/3.10.0"      },      "jar": "http://8.148.229.212:802/天运4k/jar/天运4k.jar"    },
     {
 
     "key": "芒果弹幕",
