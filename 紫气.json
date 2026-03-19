@@ -661,6 +661,11 @@
       "url": "http://125.208.23.251:1314/lunxun/?url="
     },
 {
+      "name": "九天解析",
+      "type": 1,
+"url": "http://101.201.171.207:9898/home/api?type=ys&uid=116998&key=bdlnrsyDFHMNOPQRST&url="
+    },
+{
       "name": "幽兰谣",
       "type": "1",
       "url": "https://coffee.1ljx.com:32000/api/?key=36d3e7f8-f971-44a7-9063-5db4f218491d&url="
