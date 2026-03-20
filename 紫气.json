@@ -68,6 +68,35 @@
             "filterable": 1
         },
 {
+      "key": "ffys",
+      "name": "官源4K",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "http://app.69mini.com/tvbox/nb.jpg;md5;1099f9cedab19f487ac8fc283d9ca447",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://49.235.181.92:3334/api.php/app/"
+    },
+    
+    
+{
+      "key": "hipy_js_腾云驾雾[官]",
+      "name": "QQ官-臻彩弹",
+      "type": 3,
+    "api": "https://sk.69mzf.com/store/drpy_libs/drpy2.min.js",
+    "ext": "https://sk.69mzf.com/store/js/主线1.js"
+    },
+    
+    
+   {
+      "key": "guoguo",
+      "name": "MG官-4K弹",
+      "type": 3,
+      "api": "https://sk.69mzf.com/store/drpy_libs/drpy2.min.js",
+      "ext": "https://sk.69mzf.com/store/js/主线3.js"
+    },
+{
             "key": "知秋",
             "name": "知秋┃4K",
             "type": 3,
