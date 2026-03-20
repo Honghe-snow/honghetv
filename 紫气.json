@@ -810,30 +810,30 @@
   ],
   "lives": [
     {
-      "name": "极限IPTV",
+      "name": "速云TV",
       "type": 0,
-      "url": "https://chuxinya.top/f/OMpoFv/CRR.txt",
+      "url": "https://pan.uvqzu.cn/f/zqYUY/01.%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD.txt",
       "timeout": 10
     },
     {
-      "name": "彩虹",
+      "name": "轮播",
       "type": 0,
-      "url": "https://chuxinya.top/f/2xxgH8/cr.txt",
+      "url": "https://pan.uvqzu.cn/f/vqwHL/02.%E8%BD%AE%E6%92%AD%E5%A4%A7%E6%9D%82%E7%83%A91.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "https://diyp8.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "抖音开通港澳台彩虹",
+      "name": "速云轮播2",
       "type": 0,
-      "url": "https://chuxinya.top/f/2xxgH8/cr.txt",
+      "url": "https://pan.uvqzu.cn/f/GeecQ/03.%E5%88%86%E7%B1%BB%E7%94%B5%E5%BD%B1.txt",
       "ua": "bingcha/1.1"
     },
     {
-      "name": "联系抖音群699303084684",
+      "name": "速云网络",
       "type": 0,
-      "url": "https://gitee.com/yuan301/tv/raw/master/A/tv.png",
+      "url": "https://pan.uvqzu.cn/f/ZarHl/05.%E8%BD%AE%E6%92%AD%E5%A4%A7%E6%9D%82%E7%83%A92.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.iill.top/logo/{name}.png",
       "ua": "okhttp/3.15,AptvPlayer/1.4.0",
