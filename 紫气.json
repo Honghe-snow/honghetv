@@ -47,6 +47,7 @@
 
 {"key": "T4-duanyou", "name": "SW段友APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/段友APP.php"},
 {"key": "T4-wangzi", "name": "SW王子APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/王子APP.php"},
+{"key": "360_spider","name": "360影视(爬)","api": "csp_SP360","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"playUrl":"https://jx.m3u8.tv/jiexi/?url=","jar":"http://127.0.0.1:9978/file/TVBox/Hk/Hk.jar"},
 {
             "key": "人人影视",
             "name": "❤人人｜4K测试",
