@@ -129,6 +129,35 @@
       "changeable": 0,
 "ext": "http://8.148.229.212:802/灵幻4k/lib/灵幻4kTX.js"
          },
+{
+      "key": "帧不戳",
+      "name": "🎬帧不戳4K✨资源秒播",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_lzxw",
+      "ext": {
+        "url": "https://zbc4kmcs.zbc4k.app",
+        "dataKey": "vE4kR7cF6jS6jH7a",
+        "dataIv": "vE4kR7cF6jS6jH7a"
+      }
+    },
+    {
+      "key": "yingtan",
+      "name": "🎬影探4K✨资源秒播",
+      "type": 4,
+      "api": "https://catbox.n13.club/18/影探影视.php"
+    },
+    {
+      "key": "影探",
+      "name": "🤠臻彩4K✨资源秒播",
+      "type": 3,
+      "api": "https://tvv.tw/https://raw.githubusercontent.com/tushen6/xxooo/refs/heads/main/TV/yingtan.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 {      "key": "腾讯视频",      "name": "天运4k原画🌶️腾讯",      "type": 3,      "api": "http://8.148.229.212:802/天运4k/lib/drpy2.min.js",      "ext": "http://8.148.229.212:802/天运4k/lib/腾讯视频.js"    },  
   {      "key": "芒果视频",      "name": "天运4k原画🌶️芒果",      "type": 3,      "api": "http://8.148.229.212:802/天运4k/lib/drpy2.min.js",      "ext": "http://8.148.229.212:802/天运4k/lib/天运4KMG.js"    },  
   {      "key": "段友",      "name": "天运4k🌶️飞云",      "type": 3,      "searchable": 1,      "changeable": 1,      "api": "csp_AppGet",      "ext": {        "url": "https://shangjihuoke.com",        "dataKey": "8E2DC386FD452D05",        "dataIv": "8E2DC386FD452D05"      },      "jar": "http://8.148.229.212:802/天运4k/jar/天运4k.jar"    },  
