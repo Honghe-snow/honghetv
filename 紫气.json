@@ -831,6 +831,287 @@
       "url": "https://pan.uvqzu.cn/f/GeecQ/03.%E5%88%86%E7%B1%BB%E7%94%B5%E5%BD%B1.txt",
       "ua": "bingcha/1.1"
     },
+{
+"name": "前缘接口",
+"type": 0,
+"url": "https://gitee.com/jin-xueling/cinematography/raw/master/json.txt",
+"timeout": 10,
+"playerType": 1,
+"ua": "okhttp/3.15",
+"epg": "https://diyp8.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+{
+"name": "壹米接口",
+"type": 0,
+"url": "https://gitee.com/yimi321/tv/raw/master/tv.png",
+"timeout": 10,
+"playerType": 1,
+"ua": "okhttp/3.15",
+"epg": "https://diyp8.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+{
+"name": "日后接口",
+"type": 0,
+"url": "http://rihou.cc:555/gggg.nzk",
+"timeout": 10,
+"playerType": 1,
+"ua": "okhttp/3.15",
+"epg": "https://diyp8.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+{
+"name": "DS9接口",
+"type": 0,
+"url": "https://d.kstore.dev/download/12441/ds9.txt",
+"timeout": 10,
+"playerType": 1,
+"ua": "okhttp/3.15",
+"epg": "https://diyp8.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+{
+"name": "云端接口",
+"type": 0,
+"url": "https://d.kstore.dev/download/11344/yunduan.txt",
+"timeout": 10,
+"playerType": 1,
+"ua": "okhttp/3.15",
+"epg": "https://diyp8.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+{
+"name": "测试接口",
+"type": 0,
+"url": "https://wget.la/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u",
+"timeout": 10,
+"playerType": 1,
+"ua": "okhttp/3.15",
+"epg": "https://diyp8.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+{
+"name": "月下接口",
+"type": 0,
+"url": "https://wget.la/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+"timeout": 10,
+"playerType": 1,
+"ua": "okhttp/3.15",
+"epg": "https://diyp8.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+{
+"name": "DG接口",
+"type": 0,
+"url": "http://1.94.31.214/live/live9/dgtv.txt",
+"timeout": 10,
+"playerType": 1,
+"ua": "okhttp/3.15",
+"epg": "https://diyp8.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+{
+"name": "天空接口",
+"type": 0,
+"url": "https://wget.la/https://raw.githubusercontent.com/nianxinmj/nxpz/refs/heads/main/lib/live.txt",
+"timeout": 10,
+"playerType": 1,
+"ua": "okhttp/3.15",
+"epg": "https://diyp8.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+{
+"name": "Wirili接口",
+"type": 0,
+"url": "https://wget.la/https://raw.githubusercontent.com/Wirili/IPTV/main/live.txt",
+"timeout": 10,
+"playerType": 1,
+"ua": "okhttp/3.15",
+"epg": "https://diyp8.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+{
+"name": "咪咕接口",
+"type": 0,
+"url": "https://wget.la/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+"timeout": 10,
+"playerType": 1,
+"ua": "okhttp/3.15",
+"epg": "https://diyp8.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+{
+"name": "电视多接口",
+"type": 0,
+"url": "https://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt",
+"timeout": 10,
+"playerType": 1,
+"ua": "okhttp/3.15",
+"epg": "https://diyp8.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+{
+"name": "Box接口",
+"type": 0,
+"url": "https://wget.la/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
+"timeout": 10,
+"playerType": 1,
+"ua": "okhttp/3.15",
+"epg": "https://diyp8.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+{
+"name": "易发接口",
+"type": 0,
+"url": "https://9730.kstore.space/%E9%A3%9B%E6%89%AC%E7%9B%B4%E6%92%AD.txt",
+"timeout": 10,
+"playerType": 1,
+"ua": "okhttp/3.15",
+"epg": "https://diyp8.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+{
+"name": "天浪接口",
+"type": 0,
+"url": "http://210.245.166.84:1299/live/live1.txt",
+"timeout": 10,
+"playerType": 1,
+"ua": "okhttp/3.15",
+"epg": "https://diyp8.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+{
+"name": "DSJ接口",
+"type": 0,
+"url": "https://dsj-1312694395.cos.ap-guangzhou.myqcloud.com/dsj10.1.txt",
+"timeout": 10,
+"playerType": 1,
+"ua": "okhttp/3.15",
+"epg": "https://diyp8.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+{
+"name": "风云接口",
+"type": 0,
+"url": "http://iptv.4666888.xyz/FYTV.txt",
+"timeout": 10,
+"playerType": 1,
+"ua": "okhttp/3.15",
+"epg": "https://diyp8.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+{
+"name": "TNT接口",
+"type": 0,
+"url": "https://wget.la/https://raw.githubusercontent.com/TianmuTNT/iptv/main/iptv.txt",
+"timeout": 10,
+"playerType": 1,
+"ua": "okhttp/3.15",
+"epg": "https://diyp8.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+{
+"name": "裤佬接口",
+"type": 0,
+"url": "https://wget.la/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u",
+"timeout": 10,
+"playerType": 1,
+"ua": "okhttp/3.15",
+"epg": "https://diyp8.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+{
+"name": "龙壹接口",
+"type": 0,
+"url": "http://210.245.166.84:1299/live/live.txt",
+"timeout": 10,
+"playerType": 1,
+"ua": "okhttp/3.15",
+"epg": "https://diyp8.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+{
+"name": "潇宇接口",
+"type": 0,
+"url": "https://ds65.tv1288.xyz",
+"timeout": 10,
+"playerType": 1,
+"ua": "okhttp/3.15",
+"epg": "https://diyp8.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+{
+"name": "拾光接口",
+"type": 0,
+"url": "https://wget.la/https://raw.githubusercontent.com/xmbjm/IPTV/master/output/user_result.m3u",
+"timeout": 10,
+"playerType": 1,
+"ua": "okhttp/3.15",
+"epg": "https://diyp8.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+{
+"name": "APTV接口",
+"type": 0,
+"url": "https://wget.la/https://github.com/Kimentanm/aptv/raw/master/m3u/iptv.m3u",
+"timeout": 10,
+"playerType": 1,
+"ua": "okhttp/3.15",
+"epg": "https://diyp8.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+{
+"name": "Guovin接口",
+"type": 0,
+"url": "https://wget.la/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+"timeout": 10,
+"playerType": 1,
+"ua": "okhttp/3.15",
+"epg": "https://diyp8.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+{
+"name": "网页接口",
+"type": 0,
+"url": "https://gongdian.top/tv/ku9/webview.txt",
+"js": "https://gongdian.top/tv/ku9/js/webview.js",
+"timeout": 10,
+"playerType": 1,
+"ua": "okhttp/3.15",
+"epg": "https://diyp8.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+{
+"name": "Web接口",
+"type": 0,
+"url": "https://pan.vma.cc/pan/down.php/350735607a786faaaa69aa5bbe3a3078.txt",
+"timeout": 10,
+"playerType": 1,
+"ua": "okhttp/3.15",
+"epg": "https://diyp8.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+{
+"name": "娱乐接口",
+"type": 0,
+"url": "https://wget.la/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/huyayqk.m3u",
+"timeout": 10,
+"playerType": 1,
+"ua": "okhttp/3.15",
+"epg": "https://diyp8.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},
+{
+"name": "虎牙一起看",
+"type": 0,
+"url": "https://wget.la/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/douyuyqk.m3u",
+"timeout": 10,
+"playerType": 1,
+"ua": "okhttp/3.15",
+"epg": "https://diyp8.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+},
     {
       "name": "速云网络",
       "type": 0,
