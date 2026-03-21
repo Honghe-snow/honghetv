@@ -352,21 +352,6 @@
 
     
     {
-      "key": "秒看",
-      "name": "☀秒看🔹4K源",
-      "type": 3,
-      "quickSearch": 1,
-      "jar": "https://gitee.com/tianwikeji/jar/raw/master/vo.jar",
-      "api": "csp_AppGet",
-      "ext": {
-        "site": "https://mk1080.top/get.txt",
-        "dataKey": "c60d88b2eep53za8",
-        "dataIv": "c60d88b2eep53za8",
-        "token": "4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa",
-        "ua": "okhttp/3.10.0"
-      }
-    },
-    {
       "key": "柠檬",
       "name": "红盒🔹兰光",
       "type": 3,
