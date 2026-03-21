@@ -356,7 +356,7 @@
       "name": "☀秒看🔹4K源",
       "type": 3,
       "quickSearch": 1,
-      "jar": "https://xiuxiu-pro.meitudata.com/posters/5199d8f8bcbe3c6d6938ded33cb90596.png",
+      "jar": "https://gitee.com/tianwikeji/jar/raw/master/vo.jar",
       "api": "csp_AppGet",
       "ext": {
         "site": "https://mk1080.top/get.txt",
@@ -562,7 +562,6 @@
       "filterable": 1,
       "categories": ["电影", "电视剧", "动漫", "综艺"]
     },
-    {"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"style":{ "type":"rect", "ratio":1.33 },"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"},
     {
       "key": "情缘影视·暴风",
       "name": "超级秒播",
