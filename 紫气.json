@@ -844,10 +844,12 @@
 
   {
     "name": "前缘接口",
+"type": 0,
     "url": "https://gitee.com/jin-xueling/cinematography/raw/master/json.txt"
   },
   {
     "name": "壹米接口",
+"type": 0,
     "url": "https://gitee.com/yimi321/tv/raw/master/tv.png"
   },
   {
