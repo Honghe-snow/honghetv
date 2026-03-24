@@ -30,7 +30,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },{"key":"木兮","name": "🍃┃爱木兮┃影视","type": 3,"api": "https://cnb.cool/junchao.tang/jtv/-/git/raw/main/py/山有木兮.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60},
+        },{"key":"木兮","name": "🍃┃爱木兮┃影视","type": 3,"jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png;md5;7f87f4a9f3d418ec3895f69286fb3443","api": "https://cnb.cool/junchao.tang/jtv/-/git/raw/main/py/山有木兮.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60},
 {"key":"csp_appys","name":"4K盘","type":3,"jar": "http://yjy.lyyytv.cn/uploads/tvbox/fm.jar;md5;b40f328ddc5becefbfca81db7bdca250","api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms339.lyyytv.cn/api.php/app/"},
     {
       "key": "csp_XBPQ2",
