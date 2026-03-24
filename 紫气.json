@@ -20,6 +20,17 @@
       "jar": "https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E",
       "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
     },
+{
+            "key": "仓鼠弹幕版",
+            "name": "🐹仓鼠┃弹幕",
+            "type": 3,
+            "api": "csp_CangShuGuard",
+            "ext": "{\"danmu\":true}",
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/D-i1QEtC.png;md5;a23597945658123f7fd45848c6d5bba1",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },{"key":"木兮","name": "🍃┃爱木兮┃影视","type": 3,"api": "https://cnb.cool/junchao.tang/jtv/-/git/raw/main/py/山有木兮.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60},
 {"key":"csp_appys","name":"4K盘","type":3,"jar": "http://yjy.lyyytv.cn/uploads/tvbox/fm.jar;md5;b40f328ddc5becefbfca81db7bdca250","api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms339.lyyytv.cn/api.php/app/"},
     {
       "key": "csp_XBPQ2",
