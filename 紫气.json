@@ -133,36 +133,15 @@
       "ext": "https://sk.69mzf.com/store/js/主线3.js"
     },
 {
-            "key": "知秋",
-            "name": "知秋┃4K",
-            "type": 3,
-            "api": "csp_MYzhiqiu",
-            "jar": "https://gitee.com/M60m/abandoned/raw/master/blrHB.png",
-            "ext": "https://fishapi.wya6.com/fish/zhiqiu.php",
-            "categories": [
-        "电视剧",
-        "电影",
-        "动漫",
-        "综艺",
-        "少儿",
-        "纪录片"
-      ]
-        },
-{"key": "zhiqiu", "name": "🐠摸鱼┃听风知秋", "type": 3,
-                "api": "csp_zhiqiu", "searchable": 1,"quickSearch":1,
-               "jar":"https://gitee.com/youngxiayang/YJL/raw/master/JAR/myDM.jar", 
-                "ext": "https://fishapi.wya6.com/fish/zhiqiu.php"},
-{
-            "key": "猎手影视",
-            "name": "烈兽┃APP",
-            "type": 3,
-            "api": "https://file.commonspace.one/py/lieshou.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
+        "key": "晚吟",
+        "name": "晚吟｜APP",
+        "type": 3,
+        "api": "csp_AppGet",
+        "searchable": 1,
+        "changeable": 1,
+        "ext": "AS489lHIPXXnFM64nq+j83AKsZBAWHJxiolcdAQhVx+XVHnaLVj3OiTSytruFyLqxsmm1AhgdalU+scPnz4hkUu01Ppy9Ttysn+LieUGod/lwmSMJ4CVW/EDO33YUhidr+lqJcnx7APcA2mG4Y+5AmEYH2Wol6qcFUo1sogtH+iYZ/YXtoPKCywF1JMyBjfj7Pn83+MTjKTUrb53bT4gJlw=",
+        "jar": "https://pubali.oss-cn-hangzhou.aliyuncs.com/20260320/125631_/1kDyuccNe5jH/fish03201256.php;md5;c86f495f6bf6f0164efa143c4b8469ec"
+    },
 
      {
             "key": "荐片PY",
