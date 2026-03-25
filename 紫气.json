@@ -40,16 +40,7 @@
       "searchable": 1,
       "changeable": 1
     },
-{
-    "name": "[直] 山有木兮",
-    "version": 1,
-    "remark": "🍃豆儿出品，不属精品！",
-    "webSite": "https://film.symx.club",
-    "codeID": "OpwROp7JEarNm4PJvnFpaiCVjAMTGa8k",
-    "order": "B",
-    "api": "vod/js/Zhi_symx.txt",
-    "type": 101
-  },
+
 {
             "name": "🌱春天|秒播",
             "key": "NewGr",
