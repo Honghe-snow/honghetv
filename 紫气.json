@@ -62,6 +62,29 @@
             "ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hNak14TWk5aGNHa3VjR2h3UDNOcGRHVTliM1ZuWlNNakkyOTFaMlU9"
         },
 {
+      "key": "hipy_js_腾云驾雾[官]",
+      "name": "星耀┃试用4K",
+      "type": 3,
+      "api": "http://125.208.22.184:6019/uploads/tvbox/jsguan/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "playerType": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "http://125.208.22.184:6019/uploads/tvbox/js/feihuiyuan.js"
+    },
+    {
+      "key": "lvdoub",
+      "name": "星耀试用┃蓝光2K",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://125.208.22.184:4567/api.php/app/"
+    },
+{
             "name": "🌱春天|秒播",
             "key": "NewGr",
             "type": 3,
