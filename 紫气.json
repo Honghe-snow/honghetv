@@ -89,6 +89,20 @@
             "jar": "http://139.224.213.240:60789/ZC4K.jar",
             "ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hNak14TWk5aGNHa3VjR2h3UDNOcGRHVTlhSFZpWVc0akl5Tm9kV0poYmc9PQ=="
         },
+{
+      "key": "雪花",
+      "name": "飘雪ᵍᵉᵗ┃App",
+      "type": 3,
+      "quickSearch": 1,
+      "jar": "http://rihou.cc:88/jar/vox.jar;md5;24ff47b48074c23e8a409da23aa2c0d1",
+      "api": "csp_AppGet",
+      "ext": {
+        "host": "https://ariesc.cn",
+        "datakey": "zxt1425157034123",
+        "token": "c90f002572499a060f3ab43580110f89ec51af6defd1d21b81537dccae49ac0c",
+        "ua": "okhttp/3.14.9"
+      }
+    },
         {
             "key": "3ouge",
             "name": "🏆4K-HDR①",
