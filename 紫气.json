@@ -76,7 +76,17 @@
             "quickSearch": 1,
             "changeable": 1
         },
-{"key": "Zhuiyitv","name": "追忆App","type": 3,"api": "csp_Zhuiyitv","searchable": 1,"changeable":0,"jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png;md5;7f87f4a9f3d418ec3895f69286fb3443"},
+{
+            "key": "红果",
+            "name": "红果｜短剧",
+            "type": 3,
+            "api": "https://wp.kayyw.com/f/YqgRHo/%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
 {"key": "T4-linghu", "name": "SW灵虎APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/灵虎APP.php"},
 {"key": "T4-heimao", "name": "SW黑猫APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/黑猫APP.php"},
 {"key": "T4-guwo", "name": "SW顾我APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/顾我APP.php"},
