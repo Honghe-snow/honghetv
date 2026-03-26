@@ -73,6 +73,101 @@
       "order_num": 0,
       "ext": "http://125.208.22.184:6019/uploads/tvbox/js/feihuiyuan.js"
     },
+{
+            "key": "yt",
+            "name": "多源4K",
+            "type": 3,
+            "jar": "http://139.224.213.240:60789/ZC4K.jar",
+            "api": "csp_ZC4K",
+            "ext": "YUhSMGNEb3ZMekV5TXk0eU1EY3VNakkwTGpFek1EbzNNRE16TDJGd2FTNXdhSEEvYzJsMFpUMXZkV2RsSXlNamIzVm5aUT09"
+        },
+{
+            "key": "duoduo",
+            "name": "星耀┃多多4K",
+            "type": 3,
+            "api": "csp_ZC4K",
+            "jar": "http://139.224.213.240:60789/ZC4K.jar",
+            "ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hNak14TWk5aGNHa3VjR2h3UDNOcGRHVTlhSFZpWVc0akl5Tm9kV0poYmc9PQ=="
+        },
+        {
+            "key": "3ouge",
+            "name": "🏆4K-HDR①",
+            "type": 3,
+            "api": "csp_ZC4K",
+            "jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/ZC4KK.jar",
+            "ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hNak14TWk5aGNHa3VjR2h3UDNOcGRHVTliM1ZuWlNNakkyOTFaMlU9"
+        },
+        {
+            "key": "labi1111",
+            "name": "🏆4K-HDR②",
+            "type": 3,
+            "jar": "http://139.224.213.240:60789/ZC4K.jar",
+            "api": "csp_ZC4K",
+            "ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hNak14TWk5aGNHa3VjR2h3UDNOcGRHVTliR0ZpYVNNakkyeGhZbWs9"
+        },
+        {
+            "key": "huban289",
+            "name": "🏆4K-HDR③",
+            "type": 3,
+            "jar": "http://139.224.213.240:60789/ZC4K.jar",
+            "api": "csp_ZC4K",
+            "ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hNak14TWk5aGNHa3VjR2h3UDNOcGRHVTlhSFZpWVc0akl5Tm9kV0poYmc9PQ=="
+        },
+        {
+            "key": "新腾极4k",
+            "name": "🍭随缘真4k",
+            "type": 3,
+            "api": "http://wang.qijiyun.vip/yun2k/drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 0,
+            "ext": "http://14.103.129.80:5656/奇迹云/lib/新真4ktx.jpg"
+        },
+        {
+            "key": "芒果弹幕",
+            "name": "🍭4k原画臻彩",
+            "type": 3,
+            "api": "https://gitee.com/ltby1/one/raw/master/lib/drpy2.min.js",
+            "ext": "http://14.103.129.80:5656/奇迹云/lib/新真mg4k.jpg"
+        },
+        {
+            "key": "木偶",
+            "name": "🍭4k测试牧影",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "jar": "http://14.103.129.80:5656/奇迹云/jar/yunok.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "sp": "Muou",
+                "cookie": "http://14.103.129.80:5656/奇迹云/lib/XXXXck.jpg",
+                "uc_cookie": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/jars/uc.png",
+                "baidu_cookie": "http://14.103.129.80:5656/奇迹云/lib/bd.txt"
+            },
+            "timeout": 25
+        },
+        {
+            "key": "至臻",
+            "name": "🍭4k测试至臻",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "jar": "http://14.103.129.80:5656/奇迹云/jar/yunok.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "sp": "ZhiZhen",
+                "cookie": "http://14.103.129.80:5656/奇迹云/lib/XXXXck.jpg",
+                "uc_cookie": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/jars/uc.png",
+                "baidu_cookie": "http://14.103.129.80:5656/奇迹云/lib/bd.txt"
+            },
+            "timeout": 25
+        },
     
 {
             "name": "🌱春天|秒播",
