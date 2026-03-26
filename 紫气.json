@@ -53,7 +53,13 @@
       "changeable": 0,
       "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
     },
-
+{
+      "key": "nm",
+      "name": "💥蜗牛┃秒播",//玉玉
+      "type": 3,
+      "jar": "https://gitee.com/woniuxs/woniu/raw/main/iiCeK2hicw6d;md5;7ee82ff7f6b078cf17f3475515bfa32f",
+      "api": "http://47.99.102.252/js/opennongmin.js"
+    },
 {
             "name": "🌱春天|秒播",
             "key": "NewGr",
