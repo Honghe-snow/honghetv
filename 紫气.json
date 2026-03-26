@@ -54,12 +54,13 @@
       "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
     },
 {
-      "key": "nm",
-      "name": "💥蜗牛┃秒播",//玉玉
-      "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734155068522/1214wudi.jar;md5;e3373285325c90d62408e42710d8d066",
-      "api": "http://47.99.102.252/js/opennongmin.js"
-    },
+            "key": "wangpan",
+            "name": "星耀┃百度4K",
+            "type": 3,
+            "api": "csp_ZC4K",
+            "jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/ZC4KK.jar",
+            "ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hNak14TWk5aGNHa3VjR2h3UDNOcGRHVTliM1ZuWlNNakkyOTFaMlU9"
+        },
 {
             "name": "🌱春天|秒播",
             "key": "NewGr",
