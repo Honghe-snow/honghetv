@@ -54,6 +54,27 @@
       "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
     },
 {
+      "key": "腾腾",
+      "name": "🐧腾腾┃JX",
+      "type": 3,
+      "api": "http://rihou.cc:88/js/drpy2.min.js",
+      "ext": "http://rihou.cc:88/js/腾腾.js"
+    },
+    {
+      "key": "奇奇",
+      "name": "🐴奇奇┃JX",
+      "type": 3,
+      "api": "http://rihou.cc:88/js/drpy2.min.js",
+      "ext": "http://rihou.cc:88/js/奇奇.js"
+    },
+{
+      "key": "酷酷",
+      "name": "😎酷酷┃JX",
+      "type": 3,
+      "api": "http://rihou.cc:88/js/drpy2.min.js",
+      "ext": "http://rihou.cc:88/js/酷酷.js"
+    },
+{
             "key": "wangpan",
             "name": "星耀┃百度4K",
             "type": 3,
