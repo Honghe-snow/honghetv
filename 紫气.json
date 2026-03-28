@@ -41,7 +41,53 @@
                 "dataIv": "mC6kG4mI1uM8tS4o"
             }
         },
-
+{
+            "key": "极影",
+            "name": "❤烈羽云｜4K测试",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://101.201.171.207:802/api.php/app/"
+        },
+        {
+            "key": "人人影视",
+            "name": "❤人人｜4K测试",
+            "type": 3,
+            "api": "https://gitee.com/cpu-iy/lib/raw/master/lib/人人影视.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1
+        },
+        {
+            "key": "藤藤",
+            "name": "❤藤藤｜4K测试",
+            "type": 3,
+            "api": "https://gitee.com/cpu-iy/lib/raw/master/lib/drpy2.min.js",
+            "ext": "https://gitee.com/cpu-iy/iy/raw/master/lib/藤藤.png"
+        },
+        {
+            "key": "茫茫",
+            "name": "❤茫茫｜4K测试",
+            "type": 3,
+            "api": "https://gitee.com/cpu-iy/lib/raw/master/lib/drpy2.min.js",
+            "ext": "https://gitee.com/cpu-iy/iy/raw/master/lib/茫茫.png"
+        },
+        {
+            "key": "云朵",
+            "name": "♨️云朵｜4k线路",
+            "type": 3,
+            "api": "csp_AppGet",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "url": "https://yd4kcms.yd4k.top",
+                "dataKey": "Tpmm9FD99lJ8Dexa",
+                "dataIv": "Tpmm9FD99lJ8Dexa"
+            }
+        },
 {
       "key": "移动4k源",
       "name": "移动4k源",
