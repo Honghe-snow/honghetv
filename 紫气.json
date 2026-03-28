@@ -54,6 +54,16 @@
       "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
     },
 {
+            "key": "xsa-极影",
+            "name": "猎云丨原画4K",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://101.201.171.207:802/api.php/app/"
+        },
+{
       "key": "腾腾",
       "name": "🐧腾腾┃JX",
       "type": 3,
