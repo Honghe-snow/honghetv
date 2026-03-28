@@ -57,6 +57,7 @@
             "key": "xsa-极影",
             "name": "猎云丨原画4K",
             "type": 3,
+"jar": "http://rihou.cc:88/jar/vox.jar;md5;24ff47b48074c23e8a409da23aa2c0d1",
             "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
