@@ -31,20 +31,10 @@
       "ext": "{\"模板\":\"https://gitee.com/smallmi1007/mimi/raw/master/nox.json\",\"域名-c\":\"https://xdsj.xywla.com\",\"xas\":\"7D:69:AF:92:9A:9F:A6:88:65:07:B2:DB:50:FC:CD:DD:2D:C2:9A:E4:01:9C:ED:56:12:2C:50:6D:E3:CD:38:F6\",\"xavn\":\"1.0.6\",\"xap\":\"com.xiaodoshijie.app\",\"xavc\":\"16\"}"
     },
 {
-            "key": "小羊",
-            "name": "♨️小羊｜4K线路",
-            "type": 3,
-            "api": "csp_AppQi",
-            "ext": {
-                "url": "https://qjappcms410.xy4k.com",
-                "dataKey": "mC6kG4mI1uM8tS4o",
-                "dataIv": "mC6kG4mI1uM8tS4o"
-            }
-        },
-{
             "key": "极影",
             "name": "❤烈羽云｜4K测试",
             "type": 3,
+"jar": "http://rihou.cc:88/jar/vox.jar;md5;24ff47b48074c23e8a409da23aa2c0d1",
             "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
@@ -65,6 +55,7 @@
             "key": "藤藤",
             "name": "❤藤藤｜4K测试",
             "type": 3,
+"jar": "http://rihou.cc:88/jar/vox.jar;md5;24ff47b48074c23e8a409da23aa2c0d1",
             "api": "https://gitee.com/cpu-iy/lib/raw/master/lib/drpy2.min.js",
             "ext": "https://gitee.com/cpu-iy/iy/raw/master/lib/藤藤.png"
         },
@@ -72,6 +63,7 @@
             "key": "茫茫",
             "name": "❤茫茫｜4K测试",
             "type": 3,
+"jar": "http://rihou.cc:88/jar/vox.jar;md5;24ff47b48074c23e8a409da23aa2c0d1",
             "api": "https://gitee.com/cpu-iy/lib/raw/master/lib/drpy2.min.js",
             "ext": "https://gitee.com/cpu-iy/iy/raw/master/lib/茫茫.png"
         },
@@ -79,6 +71,7 @@
             "key": "云朵",
             "name": "♨️云朵｜4k线路",
             "type": 3,
+"jar": "http://rihou.cc:88/jar/vox.jar;md5;24ff47b48074c23e8a409da23aa2c0d1",
             "api": "csp_AppGet",
             "searchable": 1,
             "changeable": 1,
