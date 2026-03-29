@@ -30,34 +30,7 @@
       "jar": "https://img2.gelonghui.com/library/1fdce-37f3cc0f-eca7-4efa-ad79-b86d68bde3b5.jpg;md5;1fdce64a3b67359e8f6f9ea64a3326f5",
       "ext": "{\"模板\":\"https://gitee.com/smallmi1007/mimi/raw/master/nox.json\",\"域名-c\":\"https://xdsj.xywla.com\",\"xas\":\"7D:69:AF:92:9A:9F:A6:88:65:07:B2:DB:50:FC:CD:DD:2D:C2:9A:E4:01:9C:ED:56:12:2C:50:6D:E3:CD:38:F6\",\"xavn\":\"1.0.6\",\"xap\":\"com.xiaodoshijie.app\",\"xavc\":\"16\"}"
     },
-{
-        "key": "https://www.mfys.vip",
-        "name": "💕魔方影视┃多线",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://tvbox.catvod.com/xs/spider.jar",
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 1,
-        "filterable": 1,
-        "timeout": 120,
-        "ext": {
-            "请求头": "手机",
-            "免嗅探": "开",
-            "分类数组": "<div class=\"module-items module-poster-items-base\">&&</div></a>",
-            "分类url": "https://www.mfys.vip/vodshow/{cateId}--------{catePg}---/",
-            "分类": "动漫$5#剧集$1#电影$3#综艺$2"
-        }
-    },
-{
-                        "key": "py_魔方",
-                        "name": "魔方影视(T3)",
-                        "type": 3,
-                        "api": "./js/py/plugin/app/魔方影视APP.py",
-                        "quickSearch": 1,
-                        "filterable": 1,
-                        "playerType": 2
-                },
+
 {
             "key": "极影",
             "name": "❤烈羽云｜4K测试",
