@@ -1002,7 +1002,7 @@
       "type": 1,
       "url": "http://shybot.top/v2/video/jx/?shykey=4595a71a4e7712568edcfa43949236b42fcfcb04997788ebe7984d6da2c6a51c&qn=max&url="
     },
-{"name": "👉软件专解👈","type": 1,"url": "http://175.178.118.205:3302/api/?key=nZV75E7qb8s7tktEik&url=","ext": {"flag": ["JSGZ","JSXL","JSJP"],"header": {"User-Agent": "okhttp/4.9.1"}}},
+{"name": "👉软件专解👈","type": 1,"url": "https://coffee.1ljx.com:32000/api/?key=36d3e7f8-f971-44a7-9063-5db4f218491d&url=","ext": {"flag": ["JSGZ","JSXL","JSJP"],"header": {"User-Agent": "okhttp/4.9.1"}}},
     {"name": "👉测试解析👈","type": 1,"url": "","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果"],"header": {"User-Agent": "okhttp/4.9.1"}}},
     {"name": "夏夜4k","type": 1,"url": "http://8.155.50.80/xiayexk.php?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","YuMi-vip"],"header": {"User-Agent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36"}}},
     {"name": "vipiw51lm","type": 1,"url": "http://121.40.174.45:299/api/?key=78A64684E18DC3Y&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","YuMi-vip"]}},
