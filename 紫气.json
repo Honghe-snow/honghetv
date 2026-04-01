@@ -331,13 +331,13 @@
 
 {"key":"⚡光速","name":"⚡光速","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/光速.py"},
 
-{"key":"🍱味道","name":"🍱味道-全聚合","type":3,"api":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/七味网.js","style":{"type":"rect","ratio":1},"changeable":1},
+{"key":"🍱味道","name":"🍱味道-全聚合","type":3,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734155068522/1214wudi.jar;md5;e3373285325c90d62408e42710d8d066","api":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/七味网.js","style":{"type":"rect","ratio":1},"changeable":1},
 
 {"key":"🦁永乐","name":"🦁永乐","type":3,"api":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/永乐.js","style":{"type":"rect","ratio":1},"changeable":1},
 
 {"key":"🙈华树","name":"🙈华树","type":3,"api":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/华树.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"playerType":2,"ext":"0"},
 
-{"key":"🦁虫ying","name":"🦁虫ying-全集云","type":3,"api":"./drpy_libs/drpy2.min.js","ext":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/虫ying.js"},
+
 
 {"key":"好莱屋","name":"好莱屋","type":3,"api":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/好莱屋.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
 
@@ -360,7 +360,7 @@
 {"name":"👉漫剧推荐","key":"MjHggg","type":3,"api":"csp_HgggAmns","indexs":1,"searchable":0,"filterable":0,"quickSearch":0,"changeable":0,"ext":"comic_series"},
 
 
-{"name":"🎬瓜子","key":"🎬瓜子","type":3,"api":"csp_GuaziAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"ext":{"sites":"","filters":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/guazi.json"}},
+{"name":"🎬瓜子","key":"🎬瓜子","type":3,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734155068522/1214wudi.jar;md5;e3373285325c90d62408e42710d8d066","api":"csp_GuaziAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"ext":{"sites":"","filters":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/guazi.json"}},
 
 {"key":"dushe","name":"dushe","type":3,"api":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/dushe.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
 
