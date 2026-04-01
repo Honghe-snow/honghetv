@@ -319,13 +319,97 @@
             "filterable": 1,
             "playerType": 2
         },
-{"key": "T4-linghu", "name": "SW灵虎APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/灵虎APP.php"},
-{"key": "T4-heimao", "name": "SW黑猫APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/黑猫APP.php"},
-{"key": "T4-guwo", "name": "SW顾我APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/顾我APP.php"},
+{"name":"🎭杜北","key":"🎭杜北","type":3,"api":"csp_DubkAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"ext":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/dubk.json"},
 
-{"key": "T4-duanyou", "name": "SW段友APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/段友APP.php"},
-{"key": "T4-wangzi", "name": "SW王子APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/王子APP.php"},
-{"key": "360_spider","name": "360影视(爬)","api": "csp_SP360","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"playUrl":"https://jx.m3u8.tv/jiexi/?url=","jar":"http://127.0.0.1:9978/file/TVBox/Hk/Hk.jar"},
+{"name":"🍑糖心aowu","key":"🍑糖心aowu","type":3,"api":"csp_TnewGrAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1},
+
+{"name":"🎪伊外","key":"🎪伊外","type":3,"api":"csp_YIysAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1},
+
+{"key":"🚬独播库","name":"🚬独播","type":3,"api":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/独播库.js","style":{"type":"rect","ratio":1},"changeable":1},
+
+{"key":"🌾咕噜","name":"🌾咕噜","type":3,"api":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/Appfox.js","ext":{"host":"http://www.yingsw.top","timeout":8,"key":"guluyinghua_123","sign":"679543610991810f19698c187e5e106e"}},
+
+{"key":"⚡光速","name":"⚡光速","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/光速.py"},
+
+{"key":"🍱味道","name":"🍱味道-全聚合","type":3,"api":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/七味网.js","style":{"type":"rect","ratio":1},"changeable":1},
+
+{"key":"🦁永乐","name":"🦁永乐","type":3,"api":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/永乐.js","style":{"type":"rect","ratio":1},"changeable":1},
+
+{"key":"🙈华树","name":"🙈华树","type":3,"api":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/华树.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"playerType":2,"ext":"0"},
+
+{"key":"🦁虫ying","name":"🦁虫ying-全集云","type":3,"api":"./drpy_libs/drpy2.min.js","ext":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/虫ying.js"},
+
+{"key":"好莱屋","name":"好莱屋","type":3,"api":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/好莱屋.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
+
+{"key":"🛳️亦凡","name":"🛳️亦凡","type":3,"api":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/爱一帆.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
+
+{"key":"cat光影","name":"✨光影","type":3,"api":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/cat_光影.js","style":{"type":"rect","ratio":1},"changeable":1},
+
+{"key":"花影","name":"💐花影","type":3,"api":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/cat_花花.js","style":{"type":"rect","ratio":1},"changeable":1},
+
+{"name":"🌿夏天aowu","key":"🌿夏天aowu","type":3,"api":"csp_NewGrAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"ext":"BG6DUQMDRsRW0hbHAYRFwFNSUoESx4PHgAPBksaHRRWXkcFLQEDFwIMCBhEXkBZVVteWx8XHEVIVT8zHlAtMRIyLDszASEtF0sAMj8ONj0BLCofKAo2PCc4ET8TQT0JFjArVzRYRVpEDRRKX1sTPx8LLwkgOCtUQBc1HAUXOC0SSiIoSU9HS1AWFhUuDANUXEYRAAQXFhAVHBYPGwcPC1NJRRUOBQwGABUtGhsWAEVIVRUBAhU4BRZUU0pJWwIYFxkEABcoCAQcAEVMRAcNBUsAEQ4YGh9JCw4VFVNJRQUfFz0YCRgGHxsACEVIVVRHXUcUDxUWBwQAGAEcVkhHVkNVSkcHABUFDwsMSl9bRktEQlVFDw=="},
+
+{"name":"🎯荐片","key":"🎯荐片","type":3,"api":"csp_JPianAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"ext":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/jpian.json"},
+
+{"name":"🐱喵喵短句aowu","key":"🐱喵喵短句aowu","type":3,"api":"csp_QmdjAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1},
+
+{"name":"💬豆瓣","key":"💬豆瓣","type":3,"api":"csp_GoConfigAmns","indexs":1,"searchable":0,"filterable":0,"quickSearch":0,"changeable":0},
+
+{"name":"👉短句推荐","key":"DjHggg","type":3,"api":"csp_HgggAmns","indexs":1,"searchable":0,"filterable":0,"quickSearch":0,"changeable":0,"ext":"short_play"},
+
+{"name":"👉漫剧推荐","key":"MjHggg","type":3,"api":"csp_HgggAmns","indexs":1,"searchable":0,"filterable":0,"quickSearch":0,"changeable":0,"ext":"comic_series"},
+
+{"name":"🔥热播","key":"🔥热播","type":3,"api":"csp_RbysAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"ext":"http://v.rbotv.cn"},
+
+{"name":"🎬瓜子","key":"🎬瓜子","type":3,"api":"csp_GuaziAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"ext":{"sites":"","filters":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/guazi.json"}},
+
+{"key":"dushe","name":"dushe","type":3,"api":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/dushe.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
+
+{"key":"📺zb","name":"📺zb播","type":3,"searchable":0,"api":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/live2vod.js","ext":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/feimaolive.json"},
+
+{"name":"☕韩小圈","key":"☕韩小圈","type":3,"api":"csp_HxqAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1},
+
+{"key":"☁️云看","name":"☁️云看","type":3,"api":"./drpy_libs/drpy2.min.js","ext":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/云看.js"},
+
+{"key":"🙌聚合短句","name":"🙌短句合集","type":3,"api":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/聚合短句.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":""},
+
+{"key":"👾喜福聚合","name":"👾短句聚合","type":3,"api":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/喜福短句.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
+
+{"name":"⭐星星短句","key":"⭐星星短句","type":3,"api":"csp_XydjAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1},
+
+{"name":"🎦豪堪短句","key":"🎦豪堪短句","type":3,"api":"csp_HHkkAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1},
+
+{"name":"📺盒马短句","key":"📺盒马短句","type":3,"api":"csp_HemaAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1},
+
+{"name":"🎞️拜拜短句","key":"🎞️拜拜短句","type":3,"api":"csp_BddjAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1},
+
+{"name":"🍩甜圈短句","key":"🍩甜圈短句","type":3,"api":"csp_TQdjAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1},
+
+{"key":"星芽","name":"✨星芽短句","type":3,"api":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/星芽短句.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
+
+{"key":"红果","name":"🍎红果短句","type":3,"api":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/红果短句.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
+
+{"key":"🦄动漫","name":"🦄动漫","type":3,"api":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/moefun.js"},
+
+{"name":"🎉Bili","key":"🎉Bili","type":3,"api":"csp_BiliAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"ext":{"json":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/bili.json","cookie":""}},
+
+{"key":"⚾体育","name":"🪷体育值播","type":3,"api":"./drpy_libs/drpy2.min.js","ext":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/体育z播[优].js"},
+
+{"key":"戏曲大全","name":"🎭戏曲","type":3,"api":"./js/drpy2.min.js","ext":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/戏曲大全.js"},
+
+{"key":"🎵世纪","name":"🎵世纪","type":3,"api":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/世纪音乐.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
+
+{"key":"☁️云音乐","name":"☁️云音乐","type":3,"api":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/网易云音乐.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
+
+{"key":"🍁枫叶音乐","name":"🍁枫叶","type":3,"api":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/枫叶音乐.py","style":{"type":"rect","ratio":1.33},"changeable":1},
+
+{"key":"🎵爱听音乐","name":"🎵爱听","type":3,"api":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/爱听音乐.py","style":{"type":"rect","ratio":1.33},"changeable":1},
+
+{"key":"☁️网易云","name":"☁️网易云","type":3,"api":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/网易云.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
+
+{"key":"🐟HIFI","name":"🐟HIFI.","type":3,"api":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/HIFI.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
+
+{"key":"🐶酷狗","name":"🐶酷狗","type":3,"api":"./drpy_libs/drpy2.min.js","ext":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/酷狗.js"},
 {
             "key": "人人影视",
             "name": "❤人人｜4K测试",
