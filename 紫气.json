@@ -359,7 +359,6 @@
 
 {"name":"👉漫剧推荐","key":"MjHggg","type":3,"api":"csp_HgggAmns","indexs":1,"searchable":0,"filterable":0,"quickSearch":0,"changeable":0,"ext":"comic_series"},
 
-{"name":"🔥热播","key":"🔥热播","type":3,"api":"csp_RbysAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"ext":"http://v.rbotv.cn"},
 
 {"name":"🎬瓜子","key":"🎬瓜子","type":3,"api":"csp_GuaziAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"ext":{"sites":"","filters":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/guazi.json"}},
 
