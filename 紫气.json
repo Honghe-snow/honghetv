@@ -355,8 +355,6 @@
 
 {"name":"💬豆瓣","key":"💬豆瓣","type":3,"api":"csp_GoConfigAmns","indexs":1,"searchable":0,"filterable":0,"quickSearch":0,"changeable":0},
 
-{"name":"👉短句推荐","key":"DjHggg","type":3,"api":"csp_HgggAmns","indexs":1,"searchable":0,"filterable":0,"quickSearch":0,"changeable":0,"ext":"short_play"},
-
 {"name":"👉漫剧推荐","key":"MjHggg","type":3,"api":"csp_HgggAmns","indexs":1,"searchable":0,"filterable":0,"quickSearch":0,"changeable":0,"ext":"comic_series"},
 
 
