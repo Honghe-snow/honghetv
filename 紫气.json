@@ -368,7 +368,7 @@
 
 {"name":"☕韩小圈","key":"☕韩小圈","type":3,"api":"csp_HxqAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1},
 
-{"key":"☁️云看","name":"☁️云看","type":3,"api":"./drpy_libs/drpy2.min.js","ext":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/云看.js"},
+{"key":"☁️云看","name":"☁️云看","type":3,"api":".https://gitee.com/pengdejiang998/bb/raw/drpy_libs/drpy2.min.js","ext":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/云看.js"},
 
 {"key":"🙌聚合短句","name":"🙌短句合集","type":3,"api":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/聚合短句.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":""},
 
