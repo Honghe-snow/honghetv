@@ -32,6 +32,20 @@
     },
 {"key":"csp_奇优","name":"🧼┃奇优┃影院","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"jar":"https://raw.liucn.cc/box/libs/jar/HCCX.jar","ext": "https://raw.liucn.cc/box/libs/hccx/奇优影院.json"},
 {"key":"奇优影院","name":"奇优｜影视","type":3,"jar":"https://raw.liucn.cc/box/libs/jar/HCCX.jar","api":"csp_XBPQ","ext":{"主页url":"http://www.qiyoudy1.com","分类":"电影&电视剧&动漫&综艺","分类值":"1&2&3&4","分类url": "http://www.qiyoudy1.com/list/{cateId}_{catePg}.html","数组":"stui-vodlist__box\">&&</a >","副标题":"text-right\">&&</span>","搜索模式":"1","搜索url":"/search.php;post;searchword={wd}","搜索数组":"class=\"thumb\">&&</a >","搜索副标题":"text-right\">&&</span>","影片年代":"年份：&&</p >","影片地区":"地区：</span>&&</span>","影片类型":"类型：</span>&&</span>","导演":"导演：&&</p >","主演":"主演：&&</p >","简介":">讲述了&&<","线路数组":"<a data-toggle=\"tab&&/a>","线路标题":">&&<","播放数组":"<ul class=\"stui-content&&</ul>"}},
+{
+            "key": "藤藤",
+            "name": "欢迎使用兔兔追剧",
+            "type": 3,
+            "api": "https://gitee.com/cpu-iy/lib/raw/master/lib/drpy2.min.js",
+            "ext": "https://gitee.com/q309972108/tv/raw/master/tv/lib/腾讯.js"
+        },
+{
+            "key": "茫茫",
+            "name": "🔰芒果4K",
+            "type": 3,
+            "api": "https://gitee.com/cpu-iy/lib/raw/master/lib/drpy2.min.js",
+            "ext": "https://gitee.com/q309972108/tv/raw/master/tv/lib/芒果.js"
+        },
 
 {
             "key": "极影",
