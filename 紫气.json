@@ -40,6 +40,20 @@
             "ext": "https://gitee.com/q309972108/tv/raw/master/tv/lib/腾讯.js"
         },
 {
+      "key": "hajim-哔哩-哔了视频",
+      "name": "哔哩💯哔哩4K",
+      "type": 3,
+      "api": "https://gitee.com/xiayede/tvbox/raw/master/drpy2.min.js",
+      "ext": "https://163647792873472.abvod.cn/哔哩.js"
+    },
+{
+      "key": "山有｜木兮Symx",
+      "name": "山山✅有4K",
+      "type": 3,
+      "api": "https://gitee.com/M60m/abandoned/raw/master/js/木兮.py",
+      "ext": "https://film.symx.club"
+    },
+{
             "key": "茫茫",
             "name": "🔰芒果4K",
             "type": 3,
