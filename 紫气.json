@@ -45,15 +45,7 @@
       "type": 3,
       "api": "https://gitee.com/xiayede/tvbox/raw/master/drpy2.min.js",
       "ext": "https://163647792873472.abvod.cn/哔哩.js"
-    },
-{
-      "key": "山有｜木兮Symx",
-      "name": "山山✅有4K",
-      "type": 3,
-"jar": "https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E",
-      "api": "https://gitee.com/M60m/abandoned/raw/master/js/木兮.py",
-      "ext": "https://film.symx.club"
-    },
+},
 {
             "key": "茫茫",
             "name": "🔰芒果4K",
@@ -317,17 +309,7 @@
             "changeable": 1,
             "ext": "BG6DUQMDRsRW0hbHAYRFwFNSUoESx4PHgAPBksaHRRWXkcFLQEDFwIMCBhEXkBZVVteWx8XHEVIVT8zHlAtMRIyLDszASEtF0sAMj8ONj0BLCofKAo2PCc4ET8TQT0JFjArVzRYRVpEDRRKX1sTPx8LLwkgOCtUQBc1HAUXOC0SSiIoSU9HS1AWFhUuDANUXEYRAAQXFhAVHBYPGwcPC1NJRRUOBQwGABUtGhsWAEVIVRUBAhU4BRZUU0pJWwIYFxkEABcoCAQcAEVMRAcNBUsAEQ4YGh9JCw4VFVNJRQUfFz0YCRgGHxsACEVIVVRHXUcUDxUWBwQAGAEcVkhHVkNVSkcHABUFDwsMSl9bRktEQlVFDw=="
         },
-        {
-            "name": "🍑糖心|秒播",
-            "key": "TnewGr",
-            "type": 3,
-            "api": "csp_TnewGrAmns",
-              "jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png;md5;7f87f4a9f3d418ec3895f69286fb3443",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
+        
         {
             "name": "🎪伊外|秒播",
             "key": "YIys",
