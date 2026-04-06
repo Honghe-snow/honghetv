@@ -40,6 +40,15 @@
             "searchable": 1
         },
 {
+            "key": "zhiqiu",
+            "name": "霆锋4k",
+            "type": 3,
+			"jar": "https://lz.shurongshequ.com/d/dy/wz/1/fish03231947.jar?sign=nGRp9wD9qYKFK_Qi6V9KMEv1JmOGydAXNvpcqEHrik8=:0;md5;cea625320475f5ffe5630c3429f07562",
+            "api": "csp_zhiqiu",
+            "searchable": 1,
+            "ext": "https://fishapi.wya6.com/fish/zhiqiu.php"
+        },
+{
             "key": "藤藤",
             "name": "欢迎使用兔兔追剧",
             "type": 3,
