@@ -48,6 +48,57 @@
             "searchable": 1,
             "ext": "https://fishapi.wya6.com/fish/zhiqiu.php"
         },
+{"key":"csp_T4_短剧","name":"T4┃[短]短剧","type":4,"api":"https://api.uumnet.com/tvbox/php/nxduanju.php","playUrl":"","searchable":1,"quickSearch":1,"filterable":1},
+{
+            "key": "guanfang",
+            "name": "爱优腾芒",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2,
+            "ext": "http://114.66.55.28:4816/api.php/app/"
+        },
+{
+            "key": "奇奇",
+            "name": "壹度免解析4K①",
+            "type": 3,
+            "jar": "https://gitee.com/cpu-iy/lib/raw/master/lib/ok.png",
+            "api": "csp_AweSomeGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "ext": {
+                "sp": "QiQi"
+            }
+        },
+        {
+      "key": "盘他",
+      "name": "壹度-移动免扫4K",
+      "type": 3,
+      "api": "csp_PantaGuard",
+      "jar": "http://oss4liview.moji.com/thd_file/2026/01/07/162a9f322707c5252f810292feb0ff5a.jpg;md5;fc225992985593c318fb0755980c6c5f",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },
+        {
+            "key": "段友",
+            "name": "壹度免解析4K②",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://shangjihuoke.com",
+                "dataKey": "8E2DC386FD452D05",
+                "dataIv": "8E2DC386FD452D05"
+            },
+            "jar": "https://gitee.com/xuyicheng11/baipiaoya/raw/master/lib/白嫖鸭.jar"
+        },
 {
             "key": "藤藤",
             "name": "欢迎使用兔兔追剧",
