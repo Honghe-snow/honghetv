@@ -32,16 +32,7 @@
     },
 {"key":"csp_奇优","name":"🧼┃奇优┃影院","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"jar":"https://raw.liucn.cc/box/libs/jar/HCCX.jar","ext": "https://raw.liucn.cc/box/libs/hccx/奇优影院.json"},
 
-{
-            "key": "厌离",
-            "name": "鸭梨4k",
-            "type": 3,
-            "jar": "https://lz.shurongshequ.com/d/dy/wz/1/fish03231947.jar?sign=nGRp9wD9qYKFK_Qi6V9KMEv1JmOGydAXNvpcqEHrik8=:0;md5;cea625320475f5ffe5630c3429f07562",
-            "api": "csp_AppGet",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "AQ8xy13uUB+vU0X5VQoLoHQ0PbaWVadAyXpMKT4lGXmz4P8/XgMiirPtAaVdXwlAm5uF7AEvL3DXQh1rGvz8VkkK/iJRxAipX1t/HMeh8FiNDuXLu5Z6IRNARKpTACYVrIClJSw/mWpypTq/VHPWokB3OA8LPPKPaOao8P8nVbJ8xyA50XNWEVFnl2cVRf3xMlAzAZVOwhnDWXYRcDjo8oE="
-        },
+
 {
             "key": "极影",
             "name": "❤烈羽云｜4K测试",
