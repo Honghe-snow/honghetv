@@ -21,29 +21,11 @@
       "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
     },
 {"key":"csp_appys","name":"4K盘","type":3,"jar": "http://yjy.lyyytv.cn/uploads/tvbox/fm.jar;md5;b40f328ddc5becefbfca81db7bdca250","api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms339.lyyytv.cn/api.php/app/"},
-    {
-      "key": "csp_XBPQ2",
-      "name": "M8┃独家",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "timeout": 12,
-      "jar": "https://img2.gelonghui.com/library/1fdce-37f3cc0f-eca7-4efa-ad79-b86d68bde3b5.jpg;md5;1fdce64a3b67359e8f6f9ea64a3326f5",
-      "ext": "{\"模板\":\"https://gitee.com/smallmi1007/mimi/raw/master/nox.json\",\"域名-c\":\"https://xdsj.xywla.com\",\"xas\":\"7D:69:AF:92:9A:9F:A6:88:65:07:B2:DB:50:FC:CD:DD:2D:C2:9A:E4:01:9C:ED:56:12:2C:50:6D:E3:CD:38:F6\",\"xavn\":\"1.0.6\",\"xap\":\"com.xiaodoshijie.app\",\"xavc\":\"16\"}"
-    },
+    
 {"key":"csp_奇优","name":"🧼┃奇优┃影院","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"jar":"https://raw.liucn.cc/box/libs/jar/HCCX.jar","ext": "https://raw.liucn.cc/box/libs/hccx/奇优影院.json"},
 
 
-{
-            "key": "极影",
-            "name": "❤烈羽云｜4K测试",
-            "type": 3,
-"jar": "http://rihou.cc:88/jar/vox.jar;md5;24ff47b48074c23e8a409da23aa2c0d1",
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://101.201.171.207:802/api.php/app/"
-        },
+
         {
             "key": "人人影视",
             "name": "❤人人｜4K测试",
@@ -70,16 +52,7 @@
             "api": "https://gitee.com/cpu-iy/lib/raw/master/lib/drpy2.min.js",
             "ext": "https://gitee.com/cpu-iy/iy/raw/master/lib/茫茫.png"
         },
-{
-            "key": "晚吟",
-            "name": "婉茵4k",
-            "type": 3,
-            "jar": "https://lz.shurongshequ.com/d/dy/wz/1/fish03231947.jar?sign=nGRp9wD9qYKFK_Qi6V9KMEv1JmOGydAXNvpcqEHrik8=:0;md5;cea625320475f5ffe5630c3429f07562",
-            "api": "csp_AppGet",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "AbJhoE7SW3YVasqvc+pa+G72k+T3ir+2g1NBGIr+WR241wHaXGkPxuTLLy/TnbCftRxStwIpuUfPUpBcYPV+K2fsqe0kFfcGsbLIlXYQBHlHKm77Wg95LgvthL3VdHlpTUAGhCRuKuxGxVbRa1xSwGKcNPw2vOF7dCBBcULoQo9PMTTlPX67HJl7U9L7SErLLQIoKQ6HQPrL6OMRrrbzSZI="
-        },
+
         {
             "key": "云朵",
             "name": "♨️云朵｜4k线路",
