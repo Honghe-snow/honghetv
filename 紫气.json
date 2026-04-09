@@ -588,48 +588,7 @@
 "api":"https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/zz.js",
 "ext":"https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/cszb.json"
 },
-    {
-			"key": "T4-guazi",
-			"name": "影视-瓜子(T4)",
-			"type": 4,
-			"api": "https://catbox.n13.club/ai/%E7%93%9C%E5%AD%90%E5%BD%B1%E8%A7%86.php"
-		},
-		{
-			"key": "T4-lianyu",
-			"name": "影视-恋鱼(T4)",
-			"type": 4,
-			"api": "https://catbox.n13.club/t9/lianyu.php"
-		},
-		{
-			"key": "T4-jianpian2",
-			"name": "影视-荐片2(T4)",
-			"type": 4,
-			"api": "https://catbox.n13.club/t9/jianpian2.php"
-		},
-		{
-			"key": "T4-jumeng",
-			"name": "影视-聚梦(T4)",
-			"type": 4,
-			"api": "https://catbox.n13.club/t9/jumeng.php"
-		},
-		{
-			"key": "T4-jinpai111",
-			"name": "影视-金牌(T4)",
-			"type": 4,
-			"api": "https://catbox.n13.club/t9/jinpai.php"
-		},
-	
-{
-      "name": "糖心影视",
-      "key": "TnewGr",
-      "type": 3,
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/lizaifu2026/df/refs/heads/main/bdb.png",
-      "api": "csp_TnewGrAmns",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+    
 {
       "key": "量子",
       "name": "量子秒播",
@@ -1034,6 +993,25 @@
             "type": 1,
             "url": "http://niubi.69mini.com/api/?key=h28y9WWIgO2BU25bpW&url="
         },
+{"name":"开心果解析","type":1,"url":"http://116.62.133.86:56682/api/?key=oDE5dyA0Xosa3OtRzV&url="},
+
+{"name":"星月蓝光","type":1,"url":"http://125.208.22.184:1667/api/?key=LYFNmrDBRZH9w2v0Z9&url="},
+
+{"name":"岁岁解析","type":1,"url":"http://sspa8.top:8100/api/?key=智云&url="},
+
+{"name":"4K - API解析","type":1,"url":"http://niubi.69mini.com/api/?key=h28y9WWIgO2BU25bpW&url="},
+
+{"name":"4K - API解析1","type":1,"url":"https://niubi.69mini.com/api/?key=PyaZGiJuIU40t26d1WD&url="},
+
+{"name":"YYNB解析","type":1,"url":"https://json.cfysoft.cc/api/?key=5249e5bb3cb34032040224799dae6d45&url="},
+
+{"name":"YYNB解析2","type":1,"url":"https://json.cfysoft.cc/api/?key=6294df9ba1f2c6da489bd78fdd9f6d46&url="},
+
+{"name":"麒麟解析","type":1,"url":"https://api.jxapi.cc/api/?key=466fb6f21cb027e0f53b7b19baf82c83&url="},
+
+{"name":"geturl","type":1,"url":"http://1.94.244.214:8889/geturl?url="},
+
+{"name":"极光解析","type":1,"url":"http://43.136.135.116:23000/api/?key=d7lRcyoMSTm1POVTyJ&url="},
 {
       "name": "☑💯飞2",
       "type": "1",
