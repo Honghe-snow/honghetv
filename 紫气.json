@@ -61,6 +61,7 @@
       "key": "csp_appys_臻彩",
       "name": "4K｜网盘解析",
       "type": 3,
+"jar": "http://yp2.mftv.top/zz4k666.jar",
       "api": "./lib/AppYsV2.js",
       "searchable": 1,
       "quickSearch": 1,
