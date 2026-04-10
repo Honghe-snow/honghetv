@@ -725,6 +725,14 @@
 "url": "http://101.201.171.207:9898/home/api?type=ys&uid=116998&key=bdlnrsyDFHMNOPQRST&url="
     },
 {
+        "name": "免费4k画质",
+        "url": "http://zq0143yimmi.xian.zxtongshuo.cn/4kapi/qq.php?url=",
+        "type": "1",
+        "status": "normal",
+        "type_text": "Type 1",
+        "status_text": "正常"
+      },
+{
       "name": "幽兰谣",
       "type": "1",
       "url": "https://coffee.1ljx.com:32000/api/?key=36d3e7f8-f971-44a7-9063-5db4f218491d&url="
