@@ -58,21 +58,61 @@
             "filterable": 1
         },
         {
-            "key": "藤藤",
-            "name": "❤藤藤｜4K测试",
-            "type": 3,
-"jar": "http://rihou.cc:88/jar/vox.jar;md5;24ff47b48074c23e8a409da23aa2c0d1",
-            "api": "https://gitee.com/cpu-iy/lib/raw/master/lib/drpy2.min.js",
-            "ext": "https://gitee.com/cpu-iy/iy/raw/master/lib/藤藤.png"
-        },
-        {
-            "key": "茫茫",
-            "name": "❤茫茫｜4K测试",
-            "type": 3,
-"jar": "http://rihou.cc:88/jar/vox.jar;md5;24ff47b48074c23e8a409da23aa2c0d1",
-            "api": "https://gitee.com/cpu-iy/lib/raw/master/lib/drpy2.min.js",
-            "ext": "https://gitee.com/cpu-iy/iy/raw/master/lib/茫茫.png"
-        },
+      "key": "huban",
+      "name": "🍁鲁班|4K①",
+      "type": 3,
+      "api": "csp_ZC4K",
+      "jar": "http://yp2.mftv.top/zz4k666.jar",
+      "ext": "YUhSMGNEb3ZMMnRyTWk1dFpuUjJMblJ2Y0M5aGNHa3VjR2h3UDNOcGRHVTlhSFZpWVc0akl5Tm9kV0poYmc9PQ=="
+    },
+    {
+      "key": "labi",
+      "name": "🍁鲁班|4K②",
+      "type": 3,
+      "api": "csp_ZC4K",
+      "jar": "http://yp2.mftv.top/zz4k666.jar",
+      "ext": "YUhSMGNEb3ZMMnRyTWk1dFpuUjJMblJ2Y0M5aGNHa3VjR2h3UDNOcGRHVTliR0ZpYVNNakkyeGhZbWs9"
+    },
+    {
+      "key": "shayang",
+      "name": "🍁鲁班|4K③",
+      "type": 3,
+      "api": "csp_ZC4K",
+      "jar": "http://yp2.mftv.top/zz4k666.jar",
+      "ext": "YUhSMGNEb3ZMMnRyTWk1dFpuUjJMblJ2Y0M5aGNHa3VjR2h3UDNOcGRHVTljMmhoZVdGdVp5TWpJM05vWVhsaGJtYz0="
+    },
+    {
+      "key": "ouge",
+      "name": "🍁鲁班|4K④",
+      "type": 3,
+      "api": "csp_ZC4K",
+      "jar": "http://yp2.mftv.top/zz4k666.jar",
+      "ext": "YUhSMGNEb3ZMMnRyTWk1dFpuUjJMblJ2Y0M5aGNHa3VjR2h3UDNOcGRHVTliM1ZuWlNNakkyOTFaMlU9"
+    },
+    {
+      "key": "labi2",
+      "name": "🍁鲁班|4K⑤",
+      "type": 3,
+      "api": "csp_ZC4K",
+      "jar": "http://yp2.mftv.top/zz4k666.jar",
+      "ext": "YUhSMGNEb3ZMMnRyTWk1dFpuUjJMblJ2Y0M5aGNHa3VjR2h3UDNOcGRHVTliR0ZpYVRJakl5TnNZV0pwTWc9PQ=="
+    },
+    {
+      "key": "muou",
+      "name": "🍁鲁班|4K⑥",
+      "type": 3,
+      "api": "csp_ZC4K",
+      "jar": "http://yp2.mftv.top/zz4k666.jar",
+      "ext": "YUhSMGNEb3ZMMnRyTWk1dFpuUjJMblJ2Y0M5aGNHa3VjR2h3UDNOcGRHVTliWFZ2ZFNNakkyMTFiM1U9"
+    },
+    {
+      "key": "pansou",
+      "name": "🍁鲁班|4K⑦",
+      "type": 3,
+      "api": "csp_ZC4K",
+      "jar": "http://yp2.mftv.top/zz4k666.jar",
+      "ext": "YUhSMGNEb3ZMMnRyTXk1dFpuUjJMblJ2Y0M5aGNHa3VjR2h3UDNOcGRHVTljR0Z1YzI5MVl5TWpJM0JoYm5OdmRXTT0="
+    },
 
         {
             "key": "云朵",
