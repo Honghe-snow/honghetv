@@ -894,6 +894,173 @@
             "type": 1,
             "url": "https://zy.qiaoji8.com/gouzi.php?url=94b07e0b2c0e8244&url="
         },
+{
+      "name": "智家",
+      "type": "1",
+      "url": "http://speedtest.110966.xyz:5080/ry3_jx2.php?http://210.16.170.113:8845/api/index?parsesId=4&appid=10000&videoUrl=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "4K",
+      "type": 1,
+      "url": "http://shenmijx.vip.cpolar.cn/公开/玉弟哥哥.php?url=",
+      "ext": {
+        "flag": [
+          "臻彩4k",
+          "臻彩4k2",
+          "原彩4k",
+          "qq",
+          "腾讯",
+          "腾讯视频",
+          "mgtv",
+          "imgo",
+          "芒果"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "4K ",
+      "type": "1",
+      "url": "http://shenmijx.vip.cpolar.cn/公开/降妖宝杖.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "4K  ",
+      "type": "1",
+      "url": "http://shenmijx.vip.cpolar.cn/公开/火焰之山.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "VIP",
+      "type": "1",
+      "url": "http://1.94.244.214:8889/geturl?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "VIP ",
+      "type": 1,
+      "url": "http://php.xuan666.icu/高兴/api84.php?url="
+    },
+    {
+      "name": "3",
+      "type": 1,
+      "url": "http://php.xuan666.icu/高兴/api85.php?url="
+    },
+    {
+      "name": "4",
+      "type": 1,
+      "url": "http://php.xuan666.icu/高兴/api86.php?url="
+    },
+    {
+      "name": "5",
+      "type": 1,
+      "url": "http://php.xuan666.icu/高兴/api87.php?url="
+    },
+    {
+      "name": "6",
+      "type": 1,
+      "url": "http://php.xuan666.icu/高兴/api88.php?url="
+    },
+    {
+      "name": "7",
+      "type": 1,
+      "url": "http://php.xuan666.icu/高兴/api89.php?url="
+    },
         {
             "name": "臻享",
             "type": 1,
