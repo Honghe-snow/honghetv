@@ -58,15 +58,12 @@
             "filterable": 1
         },
         {
-      "key": "csp_appys_臻彩",
-      "name": "4K｜网盘解析",
+      "key": "huban",
+      "name": "🍁鲁班|4K①",
       "type": 3,
-"jar": "http://yp2.mftv.top/zz4k666.jar",
-      "api": "./lib/AppYsV2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cms1688.lyyytv.cn/api.php/app/"
+      "api": "csp_ZC4K",
+      "jar": "http://yp2.mftv.top/zz4k666.jar",
+      "ext": "YUhSMGNEb3ZMMnRyTWk1dFpuUjJMblJ2Y0M5aGNHa3VjR2h3UDNOcGRHVTlhSFZpWVc0akl5Tm9kV0poYmc9PQ=="
     },
     {
       "key": "labi",
