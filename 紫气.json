@@ -20,7 +20,6 @@
       "jar": "https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E",
       "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
     },
-{"key":"极光TV","name":"极光TV","type":3,"jar": "https://raw.liucn.cc/box/libs/jar/XBPQ.jar","api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":{"分类url":"https://www.jiguangtv.com/"}},
     
 {"key":"csp_奇优","name":"🧼┃奇优┃影院","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"jar":"https://raw.liucn.cc/box/libs/jar/HCCX.jar","ext": "https://raw.liucn.cc/box/libs/hccx/奇优影院.json"},
 
