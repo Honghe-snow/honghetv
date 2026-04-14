@@ -22,26 +22,21 @@
     },
     
 {"key":"csp_奇优","name":"🧼┃奇优┃影院","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"jar":"https://raw.liucn.cc/box/libs/jar/HCCX.jar","ext": "https://raw.liucn.cc/box/libs/hccx/奇优影院.json"},
+
 {
-      "key": "csp_T4_乌云影视",
-      "name": "T4┃乌云",
-      "type": 4,
-      "api": "https://api.uumnet.com/tvbox/php/wooyun.php",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_T4_布布影视",
-      "name": "T4┃布布",
-      "type": 4,
-      "api": "https://api.uumnet.com/tvbox/php/bubu.php",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+            "key": "ttys",
+            "name": "🔥腾讯视频VIP定制|4K①",
+            "type": 3,
+            "api": "https:\/\/gitee.com\/yuyu10588\/tt\/raw\/t\/t\/drpy2.min.js",
+            "ext": "http://49.232.165.72:1234/js/qq.js"},//备用http://gc.gt.tc/c/txsp.txt
+      
+        {
+            "key": "机哥剧圈",
+            "name": "🔥芒果VIP定制|4K②",
+            "type": 3,
+            "api": "https:\/\/gitee.com\/yuyu10588\/tt\/raw\/t\/t\/drpy2.min.js",
+            "ext": "http://49.232.165.72:1234/js/mg.js"},//备用http://gc.gt.tc/c/mgzy.txt
+ {"key":"南瓜","name":"南瓜┃秒播APP","type":3,"api":"csp_NanGua","jar":"http://tv.laohu.cool/lh250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3","playerType":2,"ext":"7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"},
 
 {
       "key": "tx",
