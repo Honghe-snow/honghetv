@@ -37,6 +37,8 @@
             "api": "https:\/\/gitee.com\/yuyu10588\/tt\/raw\/t\/t\/drpy2.min.js",
             "ext": "http://49.232.165.72:1234/js/mg.js"},//备用http://gc.gt.tc/c/mgzy.txt
  {"key":"南瓜","name":"南瓜┃秒播APP","type":3,"api":"csp_NanGua","jar":"http://tv.laohu.cool/lh250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3","playerType":2,"ext":"7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"},
+{"key":"腾讯视频","name":"👑┃腾讯┃4K（官）","type":3,"api":"https://gitee.com/yuyu10588/tt/raw/t/t/drpy2.min.js","ext":"https://gitee.com/hy1188/gf199/raw/master/lib/qq2.js"},
+//备用https://jkou.xiaoyys.top/lib/腾讯视频.js
 
 {
       "key": "tx",
