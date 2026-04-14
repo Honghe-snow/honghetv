@@ -22,6 +22,26 @@
     },
     
 {"key":"csp_奇优","name":"🧼┃奇优┃影院","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"jar":"https://raw.liucn.cc/box/libs/jar/HCCX.jar","ext": "https://raw.liucn.cc/box/libs/hccx/奇优影院.json"},
+{
+      "key": "csp_T4_乌云影视",
+      "name": "T4┃乌云",
+      "type": 4,
+      "api": "https://api.uumnet.com/tvbox/php/wooyun.php",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_T4_布布影视",
+      "name": "T4┃布布",
+      "type": 4,
+      "api": "https://api.uumnet.com/tvbox/php/bubu.php",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 
 {
       "key": "tx",
