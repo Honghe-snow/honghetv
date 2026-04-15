@@ -27,6 +27,7 @@
 	"name": "追梦[4K]",
 	"type": 4,
 	"api": "http://189.1.224.165:8080/video/zhuimeng_4k",
+"jar": "http://yp2.mftv.top/zz4k666.jar",
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1,
