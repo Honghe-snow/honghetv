@@ -22,20 +22,7 @@
     },
     
 {"key":"csp_奇优","name":"🧼┃奇优┃影院","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"jar":"https://raw.liucn.cc/box/libs/jar/HCCX.jar","ext": "https://raw.liucn.cc/box/libs/hccx/奇优影院.json"},
-{
-	"key": "zhuimeng_4k",
-	"name": "追梦[4K]",
-	"type": 4,
-	"api": "http://189.1.224.165:8080/video/zhuimeng_4k",
-"jar": "http://yp2.mftv.top/zz4k666.jar",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"changeable": 0,
-	"header": {
-		"token": "7bd1ad4490f4b8cb"
-	}
-},
+
 {
 	"key": "shenshou",
 	"name": "神兽[4K]",
