@@ -40,7 +40,13 @@
         }, 
 {"key":"csp_奇优","name":"🧼┃奇优┃影院","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"jar":"https://raw.liucn.cc/box/libs/jar/HCCX.jar","ext": "https://raw.liucn.cc/box/libs/hccx/奇优影院.json"},
 
-
+{
+            "key": "三扣",
+            "name": "鲁班🍁|4K",
+            "type": 3,
+            "api": "csp_App3Q",
+            "jar": "https://gitee.com/s-7/tv/raw/0/XM.jar"
+        },
 
 {
             "key": "ttys",
