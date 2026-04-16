@@ -377,7 +377,34 @@
             "api": "csp_Wcai",
             "ext": "https://zjuys.com/"
         },
-
+{
+      "key": "csp_XYQHikerNm",
+      "name": "🔰八戒",
+      "type": 3,
+      "api": "https://oh-1333249859.cos.ap-guangzhou.myqcloud.com/q309972108/oh/jss/%E5%85%AB%E6%88%92%E5%BD%B1%E8%A7%86.py",
+       "jar": "https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "searchable": 1,
+      "searchable": 1,
+      "changeable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+{
+            "key": "橘子",
+            "name": "橘子|4K",
+            "type": 3,
+            "api": "https://gitee.com/s-7/tv/raw/0/Fei.py",
+            "ext": "https://dmc.yy-fun.cc/feiapp"
+        },
+{
+"key": "闪影",
+            "name": "闪影",
+            "type": 3,
+            "changeable": 0,
+            "api": "https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/tvbox/py/AppV2.py",
+            "searchTop": true,
+            "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
+        },
 {"key":"🚬独播库","name":"🚬独播","type":3,"api":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/独播库.js","style":{"type":"rect","ratio":1},"changeable":1},
 
 {"key":"🌾咕噜","name":"🌾咕噜","type":3,"api":"https://d.kstore.dev/download/7322/vodd/shiguang20260320/Appfox.js","ext":{"host":"http://www.yingsw.top","timeout":8,"key":"guluyinghua_123","sign":"679543610991810f19698c187e5e106e"}},
