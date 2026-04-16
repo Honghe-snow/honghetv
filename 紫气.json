@@ -68,6 +68,87 @@
             "ext": "https://qj4.catbb.xyz|eecbio48dsq13kkk|122|okhttp/3.10.0|Lavf/58.12.100"
         },
 {
+            "key": "枫叶",
+            "name": "鲁班🌺|4K",
+            "type": 3,
+            "api": "https://gitee.com/s-7/tv/raw/0/FY.js"
+        },
+        {
+            "key": "短剧汪",
+            "name": "鲁班🌸|4K",
+            "type": 3,
+            "api": "https://gitee.com/s-7/tv/raw/0/AppGet.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "host": "https://qiqi-1311265976.cos.ap-nanjing.myqcloud.com/qijiapp0.txt",
+                "key": "whosyoudaddy5477",
+                "init": "V122",
+                "api": "2",
+                "ua": "okhttp/3.10.0"
+            }
+        },
+        {
+            "key": "爱影",
+            "name": "鲁班🌼|4K",
+            "type": 3,
+            "api": "https://gitee.com/s-7/tv/raw/0/AppGet.js",
+            "ext": {
+                "host": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q22.txt",
+                "key": "nzEqOYYH3QzHuEPl",
+                "init": "V122",
+                "api": 2,
+                "ua": "okhttp/3.10.0"
+            }
+        },
+        {
+            "key": "企鹅",
+            "name": "鲁班🏵️|4K",
+            "type": 3,
+            "api": "https://gitee.com/s-7/tv/raw/0/0.js",
+            "ext": "https://gitee.com/s-7/tv/raw/0/qq.png"
+        },
+        {
+            "key": "皮皮",
+            "name": "鲁班🌹|4K",
+            "type": 3,
+            "api": "https://gitee.com/s-7/tv/raw/0/ppx.py",
+            "ext": "http://38.55.237.41:8762"
+        },
+        {
+            "key": "布布",
+            "name": "鲁班🌷|4K",
+            "type": 3,
+            "api": "https://gitee.com/s-7/tv/raw/0/BB.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+        {
+            "key": "星河",
+            "name": "鲁班💐|4K",
+            "type": 3,
+            "jar": "https://gitee.com/s-7/tv/raw/0/XM.jar",
+            "api": "csp_AppGet",
+            "ext": "http://117.50.204.35:8090|ca94b06ca3c7d80e|122|okhttp/3.10.0|Lavf/58.12.100"
+        },
+        {
+            "key": "奇奇",
+            "name": "鲁班🥀|4K",
+            "type": 3,
+            "api": "https://oh-1333249859.cos.ap-guangzhou.myqcloud.com/q309972108/oh/jss/AppGet.js",
+            "searchable": 1,
+            "ext": {
+                "host": "http://110.42.67.221:8003",
+                "key": "123456789abcdefg",
+                "init": "V122",
+                "api": 2,
+                "ua": "okhttp/3.10.0"
+            }
+        },
+{
             "key": "ttys",
             "name": "🔥腾讯视频VIP定制|4K①",
             "type": 3,
