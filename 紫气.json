@@ -39,7 +39,19 @@
             }
         }, 
 {"key":"csp_奇优","name":"🧼┃奇优┃影院","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"jar":"https://raw.liucn.cc/box/libs/jar/HCCX.jar","ext": "https://raw.liucn.cc/box/libs/hccx/奇优影院.json"},
-
+{
+            "key": "秒看",
+            "name": "鲁班🌵|4K",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "site": "https://mk1080.top/get.txt",
+                "dataKey": "c60d88b2eep53za8",
+                "dataIv": "c60d88b2eep53za8",
+                "token": "b008fad37a80ead49addf97984b154387fddd3fe42a81a79671281b6082bcd80",
+                "ua": "okhttp/3.14.9"
+            }
+        },
 {
             "key": "三扣",
             "name": "鲁班🍁|4K",
