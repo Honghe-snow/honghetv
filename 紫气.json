@@ -47,7 +47,14 @@
             "api": "csp_App3Q",
             "jar": "https://gitee.com/s-7/tv/raw/0/XM.jar"
         },
-
+{
+            "key": "四叶草",
+            "name": "鲁班🍀|4K",
+            "type": 3,
+            "jar": "https://gitee.com/s-7/tv/raw/0/XM.jar",
+            "api": "csp_AppGet",
+            "ext": "https://qj4.catbb.xyz|eecbio48dsq13kkk|122|okhttp/3.10.0|Lavf/58.12.100"
+        },
 {
             "key": "ttys",
             "name": "🔥腾讯视频VIP定制|4K①",
