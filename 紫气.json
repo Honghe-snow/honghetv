@@ -21,7 +21,23 @@
       "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
     },
 
-    
+   {
+            "name": "🍊橘汁|秒播",
+            "key": "Juzhi",
+            "type": 3,
+            "jar": "http://mytv6688.xyz/aowu/Juzhi_spider.jar",
+            "api": "csp_Juzhi",
+            "playerType": 2,
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "host": "",
+                "site": "https://vip.123pan.cn/1848463092/cct/az5.txt",
+                "version": "3.0.1.9"
+            }
+        }, 
 {"key":"csp_奇优","name":"🧼┃奇优┃影院","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"jar":"https://raw.liucn.cc/box/libs/jar/HCCX.jar","ext": "https://raw.liucn.cc/box/libs/hccx/奇优影院.json"},
 
 
