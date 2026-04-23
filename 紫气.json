@@ -47,6 +47,100 @@
 {"key":"csp_奇优","name":"🧼┃奇优┃影院","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"jar":"https://raw.liucn.cc/box/libs/jar/HCCX.jar","ext": "https://raw.liucn.cc/box/libs/hccx/奇优影院.json"},
 {"key":"1905","name":"💡1905｜影视","type":3, "jar": "http://yp2.mftv.top/zz4k666.jar","api":"csp_Web1905","searchable":1,"quickSearch":0,"filterable":0},
 {
+            "key": "木偶[盘]",
+            "name": "❤木偶｜4K测试",
+            "type": 4,
+            "api": "http://115.191.55.109:9097/api/木偶[盘]?pwd=50721480be241243",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "title": "木偶[盘]",
+            "类型": "影视",
+            "lang": "ds",
+            "ext": ""
+        },
+        {
+            "key": "欧哥[盘]",
+            "name": "❤欧哥｜4K测试",
+            "type": 4,
+            "api": "http://115.191.55.109:9097/api/欧哥[盘]?pwd=50721480be241243",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 0,
+            "title": "欧哥[盘]",
+            "lang": "ds",
+            "ext": ""
+        },
+        {
+            "key": "至臻[盘]",
+            "name": "❤至臻｜4K测试",
+            "type": 4,
+            "api": "http://115.191.55.109:9097/api/至臻[盘]?pwd=50721480be241243",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 0,
+            "title": "至臻[盘]",
+            "lang": "ds",
+            "ext": ""
+        },
+        {
+            "key": "三秋影视",
+            "name": "❤三秋｜4K测试",
+            "type": 3,
+            "api": "csp_App3Q"
+        },
+        {
+            "key": "人人影视",
+            "name": "❤人人｜4K测试",
+            "type": 3,
+            "api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/人人影视.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_T4_摸鱼",
+            "name": "❤️摸鱼｜4K测试",
+            "type": 4,
+            "api": "http://我不是.摸鱼儿.com/api/feng/moyu.php?token=moyu996",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "藤藤",
+            "name": "❤藤藤｜4K测试",
+            "type": 3,
+            "api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+            "ext": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/藤藤.png"
+        },
+        {
+            "key": "茫茫",
+            "name": "❤茫茫｜4K测试",
+            "type": 3,
+            "api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+            "ext": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/茫茫.png"
+        },
+        {
+            "key": "哔哩视频",
+            "name": "❤哔哩｜4K测试",
+            "type": 3,
+            "api": "csp_BiliYS",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": {
+                "cookie": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/blc.png"
+            }
+        },
+{
             "key": "秒看",
             "name": "鲁班🌵|4K",
             "type": 3,
