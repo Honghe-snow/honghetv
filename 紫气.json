@@ -46,6 +46,16 @@
         }, 
 {"key":"csp_奇优","name":"🧼┃奇优┃影院","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"jar":"https://raw.liucn.cc/box/libs/jar/HCCX.jar","ext": "https://raw.liucn.cc/box/libs/hccx/奇优影院.json"},
 {"key":"1905","name":"💡1905｜影视","type":3, "jar": "http://yp2.mftv.top/zz4k666.jar","api":"csp_Web1905","searchable":1,"quickSearch":0,"filterable":0},
+{
+      "key": "柯南",
+      "name": "⭕柯南影视",
+      "type": 3,
+      "api": "http://199525.xyz:5080/%E6%9C%A8%E5%AD%90%E6%9D%8E/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://199525.xyz:5080/%E6%9C%A8%E5%AD%90%E6%9D%8E/js/%E6%9F%AF%E5%8D%97%E5%BD%B1%E9%99%A2.js"
+    },
 
 {
             "key": "木偶[盘]",
