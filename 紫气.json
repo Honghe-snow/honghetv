@@ -39,6 +39,16 @@
             }
         },
 {
+      "key": "瓜子app",
+      "name": "🍉瓜子┃3K",
+      "type": 3,
+      "api": "http://183.136.134.152:250/lib/drpy2.min.js",
+      "ext": "http://183.136.134.152:250/lib/guazi.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+{
             "key": "原3Q",
             "name": "布布",
             "type": 3,      
