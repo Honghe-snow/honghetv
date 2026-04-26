@@ -39,11 +39,10 @@
             }
         },
 {
-      "key": "瓜子app",
-      "name": "🍉瓜子┃3K",
+      "key": "瓜子影视",
+      "name": "☀瓜子🔹官源",
       "type": 3,
-      "api": "http://183.136.134.152:250/lib/drpy2.min.js",
-      "ext": "http://183.136.134.152:250/lib/guazi.js",
+      "api": "csp_Gz360",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
