@@ -42,6 +42,7 @@
       "key": "观影",
       "name": "观影秒播",
       "type": 3,
+"jar": "https://gitee.com/s-7/tv/raw/0/XM.jar"
       "api": "csp_AppQi",
       "searchable": 1,
       "changeable": 1,
