@@ -39,20 +39,6 @@
             }
         },
 {
-      "key": "观影",
-      "name": "观影秒播",
-      "type": 3,
-"jar": "https://gitee.com/s-7/tv/raw/0/XM.jar"
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "http://110.42.67.221:9002",
-        "dataKey": "FTgP4Gq8zPiqbt7M",
-        "dataIv": "FTgP4Gq8zPiqbt7M"
-      }
-    },
-{
             "key": "原3Q",
             "name": "布布",
             "type": 3,      
