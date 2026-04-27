@@ -38,7 +38,19 @@
                 "version": "3.0.1.9"
             }
         },
-{"key": "瓜子影视", "name": "🍉瓜子┃蓝光┃无广", "type": 3, "api": "csp_Gz360", "jar": "https://hub.gitmirror.com/raw.githubusercontent.com/leexuben/TV-BOX/refs/heads/main/tvbox/摸鱼儿/jars/瓜子影视.jar", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+{
+      "key": "观影",
+      "name": "观影秒播",
+      "type": 3,
+      "api": "csp_AppQi",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "http://110.42.67.221:9002",
+        "dataKey": "FTgP4Gq8zPiqbt7M",
+        "dataIv": "FTgP4Gq8zPiqbt7M"
+      }
+    },
 {
             "key": "原3Q",
             "name": "布布",
