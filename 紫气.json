@@ -70,7 +70,6 @@
             "key": "4K影视",
             "name": "🏆观影┃app",
             "type": 3,
-"jar": "https://gitee.com/s-7/tv/raw/0/XM.jar"
             "api": "csp_AppQi",
             "searchable": 1,
             "changeable": 1,
@@ -84,7 +83,6 @@
       "key": "星空",
       "name": "🍿星空┃4K",
       "type": 3,
-"jar": "https://gitee.com/s-7/tv/raw/0/XM.jar"
       "searchable": 1,
       "changeable": 1,
       "api": "csp_AppGet",
