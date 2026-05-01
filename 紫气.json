@@ -37,6 +37,16 @@
         "version": "3.0.1.9"
       }
     },
+{
+      "key": "瓜子影视",
+      "name": "🍉瓜子┃app",
+      "type": 3,
+      "api": "csp_Gz360",
+     "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
             "key": "猫头鹰",
             "name": "🦉麻雀┃秒播",
