@@ -39,7 +39,7 @@
     },
     {
             "key": "猫头鹰",
-            "name": "🦉猫头鹰┃秒播",
+            "name": "🦉麻雀┃秒播",
             "type": 3,
             "api": "./lib/get.js",
             "searchable": 1,
@@ -53,7 +53,7 @@
         },
         {
             "key": "蓝鹰",
-            "name": "🦅蓝鹰┃秒播",
+            "name": "🦅小鸟┃秒播",
             "type": 3,
             "api": "./lib/get.js",
             "searchable": 1,
