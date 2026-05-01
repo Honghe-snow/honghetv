@@ -67,32 +67,6 @@
         },
 
     {
-            "key": "4K影视",
-            "name": "🏆观影┃app",
-            "type": 3,
-            "api": "csp_AppQi",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "url": "http://110.42.67.221:9002",
-                "dataKey": "FTgP4Gq8zPiqbt7M",
-                "dataIv": "FTgP4Gq8zPiqbt7M"
-            }
-        },
-    {
-      "key": "星空",
-      "name": "🍿星空┃4K",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://xk9.xkgzs.xyz",
-        "dataKey": "106jkcdnkldzckjk",
-        "dataIv": "106jkcdnkldzckjk"
-      }
-    },
-    {
       "key": "原3Q",
       "name": "布布",
       "type": 3,
