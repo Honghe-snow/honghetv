@@ -38,14 +38,12 @@
       }
     },
 {
-      "key": "瓜子影视",
-      "name": "🍉瓜子┃app",
+      "key": "WexGuaZi",
+      "name": "💥瓜子┃秒播💥",
       "type": 3,
-      "api": "csp_Gz360",
-     "jar": "http://8.148.229.212:802/貔貅4k/jar/tx.jar",
+      "api": "csp_WexGuaZiGuard",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "changeable": 1
     },
     {
             "key": "猫头鹰",
