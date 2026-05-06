@@ -51,7 +51,9 @@
 {
       "key": "zyys",
       "name": "💖分享自营",
-      "type":3,"api":"csp_XBPQ","ext":"https://notabug.org/ygfxz/6/raw/main/XBPQ/小鹿影视.json"},
+      "type":3,
+"jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar",
+"api":"csp_XBPQ","ext":"https://notabug.org/ygfxz/6/raw/main/XBPQ/小鹿影视.json"},
     {
             "key": "猫头鹰",
             "name": "🦉麻雀┃秒播",
