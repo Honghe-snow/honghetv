@@ -41,8 +41,8 @@
   "key": "lissav",
   "name": "lissav｜线路",
   "type": 3,
-  "api": "csp_AppEyFishGuard",
-  "jar": "https://gitee.com/xy5688/jar/raw/master/AppEyFishGuard.jar",
+  "api": "csp_AppEyFishGuard"
+"jar": "http://mytv6688.xyz/aowu/Juzhi_spider.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
