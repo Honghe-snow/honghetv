@@ -83,15 +83,14 @@
       "jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar",
       "ext": "https://raw.liucn.cc/box/libs/hccx/奇优影院.json"
     },
-    {
-      "key": "1905",
-      "name": "💡1905｜影视",
+   {
+      "key": "柠檬",
+      "name": "柠檬4K",
       "type": 3,
-     "jar": "http://8.148.229.212:802/貔貅4k/jar/tx.jar",
-      "api": "csp_Web1905",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
+      "api": "csp_Nmvod",
+      "jar": "http://cdn.qiaoji8.com/fix250304.jar;md5;9d8407a76b2abeeaabdd147b1b93799f",
+      "playerType": 2,
+      "ext": "eaHR0cHM6Ly9ubXZvZC5jbjozMTY2L3dlYmNsb3VkL3JlbGF5LnBocD91cmw9"
     },
     {
       "key": "柯南",
