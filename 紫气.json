@@ -83,15 +83,6 @@
       "jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar",
       "ext": "https://raw.liucn.cc/box/libs/hccx/奇优影院.json"
     },
-   {
-      "key": "柠檬",
-      "name": "柠檬4K",
-      "type": 3,
-      "api": "csp_Nmvod",
-      "jar": "http://mytv6688.xyz/aowu/Juzhi_spider.jar",
-      "playerType": 2,
-      "ext": "eaHR0cHM6Ly9ubXZvZC5jbjozMTY2L3dlYmNsb3VkL3JlbGF5LnBocD91cmw9"
-    },
     {
       "key": "柯南",
       "name": "⭕柯南影视",
