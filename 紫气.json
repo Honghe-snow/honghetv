@@ -38,35 +38,6 @@
       }
     },
 {"key":"muxi_night","name":"木兮[采]-不夜版","type":4,"api":"https://199525.xyz:1111/video/muxi_night","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"header":{"token":"JT"}},
-{
-      "key": "余白影视get",
-      "name": "🔰余白4K",
-      "type": 3,
-"jar":"http://47.120.41.246:8025/vip/jar/xiaomi.php"
-      "api": "./js/AppGet改.py",
-      "ext": {
-        "host": "http://103.236.72.182:1517",
-        "datakey": "KsmJgfp3MVQFKWRa",
-        "token": "f0b066d896dddfe6b568152586e179a25cbf3e933cd9292638401e581381cf38",
-        "from": "4K>2k"
-        }
-    },
-
-{
-            "key": "秒看",
-            "name": "秒看｜APP",
-            "type": 3,
-"jar":"http://47.120.41.246:8025/vip/jar/xiaomi.php"
-            "api": "csp_AppGet",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": "https://mk1080.top/get.txt",
-                "dataKey": "c60d88b2eep53za8",
-                "dataIv": "c60d88b2eep53za8",
-                "token": "4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa"
-            }
-        },
 
     {
             "key": "猫头鹰",
