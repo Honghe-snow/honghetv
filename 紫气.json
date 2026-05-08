@@ -42,6 +42,7 @@
       "key": "余白影视get",
       "name": "🔰余白4K",
       "type": 3,
+"jar":"http://47.120.41.246:8025/vip/jar/xiaomi.php"
       "api": "./js/AppGet改.py",
       "ext": {
         "host": "http://103.236.72.182:1517",
@@ -55,6 +56,7 @@
             "key": "秒看",
             "name": "秒看｜APP",
             "type": 3,
+"jar":"http://47.120.41.246:8025/vip/jar/xiaomi.php"
             "api": "csp_AppGet",
             "searchable": 1,
             "changeable": 1,
