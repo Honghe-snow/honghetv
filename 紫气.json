@@ -54,6 +54,13 @@
             "filterable": 1,
             "changeable": 1
         },
+{
+            "key": "爱看剧",
+            "name": "🌹爱追剧",
+            "type": 3,
+            "api": "https://d.kstore.dev/download/17135/自用/AppToV5.py",
+            "ext": "http://43.248.117.123:4680"
+        },
     {
             "key": "猫头鹰",
             "name": "🦉麻雀┃秒播",
