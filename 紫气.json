@@ -37,6 +37,13 @@
         "version": "3.0.1.9"
       }
     },
+{
+            "key": "皮皮虾",
+            "name": "皮皮虾4K",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/ppx.py",
+            "ext": "http://154.94.224.98:8762"
+        },
     {
             "key": "猫头鹰",
             "name": "🦉麻雀┃秒播",
