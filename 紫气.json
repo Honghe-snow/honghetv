@@ -39,10 +39,20 @@
     },
 {
             "key": "皮皮虾",
-            "name": "皮皮虾4K",
+            "name": "🌺琵琶4K",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/ppx.py",
             "ext": "http://154.94.224.98:8762"
+        },
+{
+            "key": "剧爸爸",
+            "name": "🌺聚吧",
+            "type": 3,
+            "api": "https://d.kstore.dev/download/17135/自用/剧爸爸.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
         },
     {
             "key": "猫头鹰",
