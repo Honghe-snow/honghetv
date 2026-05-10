@@ -37,7 +37,7 @@
         "version": "3.0.1.9"
       }
     },
-{     "key": "永乐影视",     "name": "✨星空|永乐影视✨",     "type": 3,     "api": "csp_XBPQ",      "searchable": 1,     "quickSearch": 1,     "filterable": 1,     "ext": "https://gitee.com/wei-shang-xiang-restaurant_0/lib/raw/master/永乐影视.json"        },
+{     "key": "永乐影视",     "name": "✨星空|永乐影视✨",     "type": 3,     "api": "csp_XBPQ",      "searchable": 1,     "quickSearch": 1,     "filterable": 1,    "jar": "https://gitee.com/wei-shang-xiang-restaurant_0/lib/raw/master/仰望星空.jar",     "ext": "https://gitee.com/wei-shang-xiang-restaurant_0/lib/raw/master/永乐影视.json"        },
 {
       "key": "TVB影视",
       "name": "✨星空|TVB影视✨",
