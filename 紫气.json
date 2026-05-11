@@ -49,23 +49,7 @@
       "filterable": 1,
       "ext": "https://gitee.com/wei-shang-xiang-restaurant_0/lib/raw/master/tvb.json"
     },
-{ 
-      "key": "✨YY影视✨", 
-      "name": "⚡️YY影视┃秒播", 
-      "type": 3, 
-"jar": "https://gitee.com/wei-shang-xiang-restaurant_0/lib/raw/master/仰望星空.jar",
-      "api": "csp_XBPQ", 
-      "ext": { 
-          "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>", 
-        "线路标题": "红盒专线", 
-        "副标题": "裁缝在线+module-item-note&&</div>", 
 
-
-        "分类url": "https://qogeza.cn/vod/{cateId}/", 
-       "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$20#战争片$12#喜剧片$7#电视剧$35#体育$6#爱情片$8#科幻片$9#恐怖片$10#战争片$11#电视剧$2#国产剧$25#香 
-
-港剧$15#泰国剧$14#韩国剧$16#台湾剧$22#日本剧$23#欧美剧$24#海外剧$13#综艺$3#动漫$4" 
-      } 
     },
 {
             "key": "皮皮虾",
