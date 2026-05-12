@@ -44,6 +44,7 @@
             "name": "🔥热播|秒播",
             "key": "Rbys",
             "type": 3,
+"jar": "http://mytv6688.xyz/aowu/Juzhi_spider.jar;md5;27b8475e6cfcd63457beb28b7f99dcd7",
             "api": "csp_RbysAmns",
             "searchable": 1,
             "filterable": 1,
