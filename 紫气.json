@@ -41,17 +41,12 @@
             }
         },
 {
-            "name": "🔥热播|秒播",
-            "key": "Rbys",
-            "type": 3,
-"jar": "http://mytv6688.xyz/aowu/Juzhi_spider.jar;md5;27b8475e6cfcd63457beb28b7f99dcd7",
-            "api": "csp_RbysAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "http://v.rbotv.cn"
-        },
+      "key": "四叶草",
+      "name": "🍀芭蕾┃1080P",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/sss.txt|wNCwbXzr0Bm6cS2C|V122|okhttp/3.10.0"
+    },
 {     "key": "永乐影视",     "name": "✨星空|永乐影视✨",     "type": 3,     "api": "csp_XBPQ",      "searchable": 1,     "quickSearch": 1,     "filterable": 1,    "jar": "https://gitee.com/wei-shang-xiang-restaurant_0/lib/raw/master/仰望星空.jar",     "ext": "https://gitee.com/wei-shang-xiang-restaurant_0/lib/raw/master/永乐影视.json"        },
 {
       "key": "TVB影视",
