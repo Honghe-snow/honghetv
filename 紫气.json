@@ -53,6 +53,14 @@
       "api": "csp_AppGet",
       "ext": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/sss.txt|wNCwbXzr0Bm6cS2C|V122|okhttp/3.10.0"
     },
+{
+            "key": "GZ",
+            "name": "🦋 瓜子APP.py",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/瓜子APP.py",
+            "category": "综合",
+            "searchable": 1
+        },
 {     "key": "永乐影视",     "name": "✨星空|永乐影视✨",     "type": 3,     "api": "csp_XBPQ",      "searchable": 1,     "quickSearch": 1,     "filterable": 1,    "jar": "https://gitee.com/wei-shang-xiang-restaurant_0/lib/raw/master/仰望星空.jar",     "ext": "https://gitee.com/wei-shang-xiang-restaurant_0/lib/raw/master/永乐影视.json"        },
 {
       "key": "TVB影视",
