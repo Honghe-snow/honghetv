@@ -57,6 +57,7 @@
       "key": "四叶草",
       "name": "🍀芭蕾┃1080P",
       "type": 3,
+"jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/ZC4KK.jar",
       "api": "csp_AppGet",
       "ext": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/sss.txt|wNCwbXzr0Bm6cS2C|V122|okhttp/3.10.0"
     },
@@ -84,6 +85,7 @@
             "key": "皮皮虾",
             "name": "🌺琵琶4K",
             "type": 3,
+"jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/ZC4KK.jar",
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/ppx.py",
             "ext": "http://154.94.224.98:8762"
         },
@@ -175,6 +177,7 @@
       "key": "木偶[盘]",
       "name": "❤木偶｜4K测试",
       "type": 4,
+"jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/ZC4KK.jar",
       "api": "http://115.191.55.109:9097/api/木偶[盘]?pwd=50721480be241243",
       "searchable": 1,
       "filterable": 1,
@@ -188,6 +191,7 @@
       "key": "欧哥[盘]",
       "name": "❤欧哥｜4K测试",
       "type": 4,
+"jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/ZC4KK.jar",
       "api": "http://115.191.55.109:9097/api/欧哥[盘]?pwd=50721480be241243",
       "searchable": 1,
       "filterable": 1,
@@ -200,6 +204,7 @@
       "key": "至臻[盘]",
       "name": "❤至臻｜4K测试",
       "type": 4,
+"jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/ZC4KK.jar",
       "api": "http://115.191.55.109:9097/api/至臻[盘]?pwd=50721480be241243",
       "searchable": 1,
       "filterable": 1,
@@ -212,12 +217,14 @@
       "key": "三秋影视",
       "name": "❤三秋｜4K测试",
       "type": 3,
+"jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/ZC4KK.jar",
       "api": "csp_App3Q"
     },
     {
       "key": "人人影视",
       "name": "❤人人｜4K测试",
       "type": 3,
+"jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/ZC4KK.jar",
       "api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/人人影视.py",
       "searchable": 1,
       "quickSearch": 1,
@@ -238,6 +245,7 @@
       "key": "藤藤",
       "name": "❤藤藤｜4K测试",
       "type": 3,
+"jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/ZC4KK.jar",
       "api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "ext": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/藤藤.png"
     },
@@ -269,6 +277,7 @@
       "key": "秒看",
       "name": "鲁班🌵|4K",
       "type": 3,
+"jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/ZC4KK.jar",
       "api": "csp_AppGet",
       "ext": {
         "site": "https://mk1080.top/get.txt",
@@ -297,6 +306,7 @@
       "key": "枫叶",
       "name": "鲁班🌺|4K",
       "type": 3,
+"jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/ZC4KK.jar",
       "api": "https://gitee.com/s-7/tv/raw/0/FY.js"
     },
     {
