@@ -1489,9 +1489,9 @@
   ],
   "parses": [
     {
-      "name": "4K智家",
+      "name": "MAX",
       "type": 1,
-      "url": "http://125.208.23.251:1314/lunxun/?url="
+      "url": "https://jx.fxynet.cn/api/?key=ec228e0982745d722ea4aee6868b80e5&url="
     },
 {"name":"九天1","type":1,"url":"http://103.236.72.179:5677/index.php?url="},  
  {"name":"九天2","type":1,"url":"https://nojx.wtto.cc/proxy?key=jntm&url="},
