@@ -66,6 +66,35 @@
       "api": "https://ghfast.top/https://raw.githubusercontent.com/Honghe-snow/honghetv/main/%E5%89%A7OK.py"
     },
 {
+            "key": "咕噜画",
+            "name": "轱辘| APP",
+            "type": 3,
+            "changeable": 0,
+            "api": "https://17264.kstore.space/Appfox.min.js",
+            "ext": {
+                "host": "http://www.yingsw.top",
+                "timeout": 8,
+                "key": "guluyinghua_123",
+                "sign": "679543610991810f19698c187e5e106e"
+            }
+        },
+{
+            "key": "咕噜99",
+            "name": "轱辘丨APP",
+            "type": 3,
+            "api": "csp_App99",
+            "ext": {
+                "host": "http://103.45.132.22:19987/app/bn/",
+                "LoginPath": "/app/log",
+                "appkey": "c8bfc16ffbad60f311c5c3ad7aaf2b7c",
+                "versionName": "1.9.8",
+                "name": "咕噜咕噜",
+                "package": "com.xiatianxiansheng.gulugulu",
+                "buildNumber": "2001",
+                "buildSignature": "8370FB5A96B50F39CC0FAEDE68759DFF6B0F0B6C6376331D8F22D171331DC96C"
+            }
+        },
+{
       "key": "四叶草",
       "name": "🍀芭蕾┃1080P",
       "type": 3,
