@@ -95,6 +95,16 @@
             }
         },
 {
+    "key": "jd4k_online",
+    "name": "JD4K在线解析",
+    "type": 3,
+    "api": "https://raw.githubusercontent.com/bgl838922550-blip/dreambyjs/refs/heads/main/examples/juok3-mini-library.js",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 0,
+    "playerType": 1
+},
+{
       "key": "四叶草",
       "name": "🍀芭蕾┃1080P",
       "type": 3,
