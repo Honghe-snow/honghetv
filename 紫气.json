@@ -41,7 +41,7 @@
             }
         },
 {
-key": "Emby4",
+            "key": "Emby4",
             "name": "4k‑高码测试‑4",
             "type": 4,
             "api": "http://zb.fanhuays.top:88/线路/emby/E4.php",
