@@ -40,6 +40,14 @@
                 "pub": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB"
             }
         },
+key": "Emby4",
+            "name": "4k‑高码测试‑4",
+            "type": 4,
+            "api": "http://zb.fanhuays.top:88/线路/emby/E4.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
 {
      "key": "杰米",
       "name": "杰米影视",
