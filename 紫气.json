@@ -88,24 +88,7 @@
       "type": 3,
       "api": "https://ghfast.top/https://raw.githubusercontent.com/Honghe-snow/honghetv/main/jimi.py"
     },
-{
-      "key": "Emby1",
-      "name": "🐽依依｜4K①",
-      "type": 4,
-      "api": "http://111.231.104.229:5578/Emby7/Emby7.php?ck=66133d17",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "Emby2",
-      "name": "🐽依依｜4K②",
-      "type": 4,
-      "api": "http://111.231.104.229:5578/Emby5/Emby5.php?ck=d0fe076e",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+
 {
        "key": "九天",
       "name": "九天影创",
