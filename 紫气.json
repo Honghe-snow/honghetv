@@ -89,28 +89,6 @@
       "api": "https://ghfast.top/https://raw.githubusercontent.com/Honghe-snow/honghetv/main/jimi.py"
     },
 {
-            "key": "py_哔哩视频",
-            "name": "🌾哔哩py",
-            "type": 3,
-            "api": "https://8877.kstore.space/jar/哔哩视频.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "B站",
-            "name": "🅱️4K哔哩",
-            "type": 3,
-            "jar": "https://raw.gitcode.com/u013624795/jk/blobs/eaae9789fd0f5a9fec29a12fca4ca8fe71981dfa/spider.jar",
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-{
       "key": "Emby1",
       "name": "🐽依依｜4K①",
       "type": 4,
