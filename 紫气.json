@@ -109,6 +109,15 @@
       "api": "https://ghfast.top/https://raw.githubusercontent.com/Honghe-snow/honghetv/main/%E5%89%A7OK.py"
     },
 {
+            "key": "py_轱辘",
+            "name": "轱辘py",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/Honghe-snow/honghetv/main/%E8%BD%B1%E8%BE%98.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+{
             "key": "咕噜画",
             "name": "轱辘| APP",
             "type": 3,
