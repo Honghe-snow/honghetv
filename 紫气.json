@@ -136,6 +136,15 @@
             "filterable": 1
         },
 {
+            "key": "帧不戳py",
+            "name": "帧不戳py",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/Honghe-snow/honghetv/refs/heads/main/%E5%B8%A7%E4%B8%8D%E6%88%B3.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+{
             "key": "咕噜画",
             "name": "轱辘| APP",
             "type": 3,
