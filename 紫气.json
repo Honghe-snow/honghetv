@@ -154,6 +154,15 @@
             "filterable": 1
         },
 {
+            "key": "红果py2",
+            "name": "红果py2",
+            "type": 3,
+            "api": "https://d.kstore.dev/download/9239/%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%E6%9C%80%E7%BB%88%E7%89%88.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+{
             "key": "咕噜画",
             "name": "轱辘| APP",
             "type": 3,
