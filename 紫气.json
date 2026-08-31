@@ -145,6 +145,15 @@
             "filterable": 1
         },
 {
+            "key": "红果py",
+            "name": "红果py",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/Honghe-snow/honghetv/main/%E7%BA%A2%E6%9E%9C.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+{
             "key": "咕噜画",
             "name": "轱辘| APP",
             "type": 3,
