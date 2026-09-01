@@ -74,6 +74,15 @@
      "ext": "https://qp.69mini.com/api.php/app/"
     },
 {
+            "key": "陌兮py",
+            "name": "陌兮py",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/refs/heads/main/py/%E5%B1%B1%E6%9C%89%E6%9C%A8%E5%85%AE.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+{
             "key": "Emby4",
             "name": "4k‑高码测试‑4",
             "type": 4,
