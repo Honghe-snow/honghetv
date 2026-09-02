@@ -1,6 +1,8 @@
 {
-  "spider": "http://183.136.134.152:250/xsxs(1).jar",
-  "wallpaper": "https://gitee.com/zhouyadong7033/box/raw/master/JS/Y3.webp",
+  "spider": "https://github.com/ls125781003/tbapi1/raw/main/WEX/spider.jar",
+  "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
+  "logo": "https://github.com/franksun1211/TVBOX/raw/main/sun.jpg",
+  "notice": "红荷2026🍎",
   "warningText": "欢迎使用九天风云TV，祝您观影愉快，只提供学习之用，下载后24小时后删除",
   "lives": [
     {
