@@ -85,13 +85,14 @@
             "filterable": 1
         },
 {
-  "key": "js_看客TV",
-  "name": "看客TVjs",
-  "type": 4,
-  "api": "https://ghfast.top/https://raw.githubusercontent.com/woshishiq1/drpys/refs/heads/main/spider/js/%E7%9C%8B%E5%AE%A2TV%5B%E4%BC%98%5D.js",
-  "searchable": 1,
-  "quickSearch": 1
-},
+            "key": "喜福TV",
+            "name":"喜福py",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/LIUJEI/TB/refs/heads/master/TS/%E5%96%9C%E7%A6%8F.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
 {
             "key": "陌兮py",
             "name": "陌兮py",
