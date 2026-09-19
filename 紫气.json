@@ -79,6 +79,7 @@
             "key": "py看客TV",
             "name": "看客py",
             "type": 3,
+"jar": "https://gitee.com/KYSY1/dyy/raw/master/bh2601251.jar",
             "api": "https://ghfast.top/https://raw.githubusercontent.com/woshishiq1/hipy-drpy2/refs/heads/main/loleis/py/%5B%E8%A7%86%5D%E7%9C%8B%E5%AE%A2TV.py",
             "searchable": 1,
             "quickSearch": 1,
