@@ -76,6 +76,28 @@
      "ext": "https://qp.69mini.com/api.php/app/"
     },
 {
+      "key": "py_瓜子",
+      "name": "☀呱子🔹影拭",
+      "type": 3,
+      "api": "https://7337.kstore.vip/xw/py/瓜娃子.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "py_瓜瓜子",
+      "name": "☀呱瓜🔹影拭",
+      "type": 3,
+      "api": "https://7337.kstore.vip/xw/py/瓜子.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+{
             "key": "py看客TV",
             "name": "看客py",
             "type": 3,
