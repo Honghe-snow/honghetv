@@ -22,6 +22,12 @@
             "quickSearch": 1,
             "filterable": 1
         },
+{
+            "key": "蓝光秒播",
+            "name": "蓝秒TV",
+            "type": 3,
+            "api": "https://pan.szfx.top/down.php/a248e40581382b39bd1429fe3edfc19a.js"
+        },
     {
             "key": "橘汁",
             "name": "橘汁",
