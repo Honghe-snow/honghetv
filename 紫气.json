@@ -24,9 +24,15 @@
         },
 {
             "key": "蓝光秒播",
-            "name": "蓝秒TV",
+            "name": "蓝秒①",
             "type": 3,
             "api": "https://pan.szfx.top/down.php/a248e40581382b39bd1429fe3edfc19a.js"
+        },
+{
+            "key": "蓝秒TV",
+            "name": "蓝秒②",
+            "type": 3,
+            "api": "https://fastlink.cokey.xyz/f/AAvgsm/4K%E5%BD%B1%E8%A7%86.py"
         },
     {
             "key": "橘汁",
