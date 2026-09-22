@@ -935,4 +935,74 @@ class Spider(BaseSpider):
 
             return {
                 "list": vids,
-                "page
+                "page": pg,
+                "pagecount": max(pagecount, 1),
+                "limit": self.page_size,
+                "total": total,
+            }
+        except Exception as exc:
+            self._log("searchContent error:", exc)
+            return {"list": [], "page": 1, "pagecount": 1,
+                    "limit": self.page_size, "total": 0}
+
+    # ========== 播放解析接口 ==========
+    def playerContent(self, flag, id, vipFlags):
+        try:
+            raw = _safe(id)
+            if "$" in raw:
+                raw = raw.rsplit("$", 1)[-1]
+
+            vid, _, link_id = raw.partition("@")
+            if not vid:
+                return {"parse": 0, "url": "", "header": self.headers, "msg": "参数错误"}
+
+            params = {"id": vid}
+            if link_id:
+                params["link_id"] = link_id
+
+            data = self.api("movie/detail", params)
+            d = data.get("data") or {}
+            if not d:
+                return {"parse": 0, "url": "", "header": self.headers, "msg": "获取播放信息失败"}
+
+            headers = {
+                "User-Agent": UA,
+                "Referer": "https://" + self.domains.current + "/",
+            }
+
+            line_idx = self._line_index(d, flag)
+            url = self._pick_site(d, line_idx) or self._pick_site(d, 0)
+            if not url:
+                return {"parse": 0, "url": "", "header": headers, "msg": "暂无可用播放地址"}
+
+            # 站内直链无需二次解析
+            return {"parse": 0, "url": url, "header": headers}
+        except Exception as exc:
+            self._log("playerContent error:", exc)
+            return {"parse": 0, "url": "", "header": self.headers, "msg": "播放异常"}
+
+    @staticmethod
+    def _line_index(d, flag):
+        """播放器传入的线路名(flag) -> play_links 下标。"""
+        f = _safe(flag)
+
+        names = [_safe(pl.get("name")) for pl in (d.get("play_links") or [])]
+        if f and f in names:
+            return names.index(f)
+
+        pb2 = d.get("playback_v2") or {}
+        vnames = [_safe(l.get("name")) for l in (pb2.get("video_lines") or [])]
+        if f and f in vnames:
+            return vnames.index(f)
+
+        return 0
+
+    @staticmethod
+    def _pick_site(d, line_idx=0):
+        """站内直链：按 line_idx 选第 N 条 play_link；越界回落首条可用。"""
+        site_lines = [pl for pl in (d.get("play_links") or [])
+                      if _safe(pl.get("m3u8_url")).startswith("http")]
+        if not site_lines:
+            return ""
+        pl = site_lines[line_idx] if 0 <= line_idx < len(site_lines) else site_lines[0]
+        return _safe(pl.get("m3u8_url"))
