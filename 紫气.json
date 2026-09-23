@@ -40,6 +40,16 @@
             "type": 3,
             "api": "https://mpimg.cn/down.php/9a77fbfdf66962bb95202e05bc5d551f.py"
         },
+{
+            "key": "极影",
+            "name": "幻影4k",
+            "type": 3,
+            "api": "https://fastlink.cokey.xyz/f/5lO2Fd/%E6%9E%81%E5%BD%B1.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://cmsyun2.qijiyun.vip/api.php/app/"
+        },
      {
             "key": "范特TV",
             "name":"范特.py",
