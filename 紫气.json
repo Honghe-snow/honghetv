@@ -238,6 +238,23 @@
             "changeable": 1
         },
 {
+            "key": "Acfun",
+            "name": "杂视天下",
+            "type": 3,
+            "api": "https://fastlink.cokey.xyz/f/XB4Oik/Acfun.py"
+        },
+        {
+            "key": "布布",
+            "name": "阿布天下",
+            "type": 3,
+            "api": "https://pan.szfx.top/down.php/254f42dd986cccf7bec7c7f069ef5346.py",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+{
             "key": "爱看剧",
             "name": "🌹爱追剧",
             "type": 3,
