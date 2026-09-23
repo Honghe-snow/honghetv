@@ -205,6 +205,16 @@
             "quickSearch": 1,
             "filterable": 1
         },
+{
+      "key": "梨园",
+      "name": "🎭｜戏曲｜梨园",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://image-c.weimobwmc.com/ol-OlSf/983ec95b8248461cad620063864b21cd.jpg"
+    },
 
 {
       "key": "猎手影视",
