@@ -885,12 +885,14 @@
       "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q19.txt|fff32466kkfff616|122"
     },
     {
-      "key": "南顾春衫",
-      "name": "♨️南顾春衫┃HD纯净",
-      "type": 3,
-      "api": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/drpy/drpy2.min.js",
-      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/kuku.js"
-    },
+            "key": "梨园TV",
+            "name": "梨园js",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/OK/JS/lyxxq.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
     {
       "key": "新腾极4k",
       "name": "4k臻彩腾讯",
