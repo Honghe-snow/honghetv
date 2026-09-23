@@ -884,6 +884,40 @@
       "jar": "https://img2.gelonghui.com/library/28e33-d7f6e0ad-8de5-4829-b42c-bcdeaae1ed42.png;md5;28e33eb59669c994ca140064ad4a1eef",
       "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q19.txt|fff32466kkfff616|122"
     },
+{
+            "key": "戏曲多多",
+            "name": "多多｜戏曲",
+            "type": 3,
+            "api": "csp_AppLY",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "py酷猫看戏曲",
+            "name": "酷猫看·戏曲",
+            "type": 3,
+            "api": "http://zb.fanhuays.top:88/线路/py线路/酷猫看.py",
+            "searchable": 1,
+            "changeable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py梨园",
+            "name": "梨园·戏曲",
+            "type": 3,
+            "api": "http://zb.fanhuays.top:88/线路/py线路/梨园戏曲.py",
+            "searchable": 1,
+            "changeable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
     {
             "key": "梨园TV",
             "name": "梨园js",
