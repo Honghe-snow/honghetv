@@ -454,24 +454,6 @@
       "filterable": 1,
       "playerType": 2
     },
-{
-      "key": "哔哩合集",
-      "name": "💻古城┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "https://gitee.com/monosodium-glutamate/wjwj/raw/master/lib/%E5%93%94%E5%93%A9%E5%90%88%E9%9B%86.json",
-        "cookie": "SESSDATA=8f3ff69f%2C1794310143%2C53c01%2A52CjBX4vniMP8UbH-FHHxtImWyVMCf_NkAmIFpLXuK3B9TH1uSPOG3A5ST5nKXpP5b06gSVmx2Q2FWY0xPY19yaGxqOUNoRnZuLVhselJhVXU5UWlQb093RnprU2xpLVk5bmpwWjZ6bEhLZWt2RTIwbVpHaFJsYXJVeGtGRnFMcTd1OHRoZ24zN2ZRIIEC; bili_jct=27dfcc874d1a3c0fe39b9651ca436394; DedeUserID=3546629682497943; DedeUserID__ckMd5=b11f007e7707c2a6; sid=pey664gw; b_lsid=922FAEA2_19E263F56EF;"
-      }
-    },
     {
       "key": "还行",
       "name": "☀橘得┃App",
@@ -731,24 +713,6 @@
         "编码": "UTF-8",
         "分类url": "https://www.hkyszl.com/vodshow/{cateId}-{area}-{order}-{cate}-{lang}-{letter}---{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#动画片$35#短剧$36#动作电影$6#喜剧电影$7#爱情电影$8#科幻电影$9#恐怖电影$10#剧情电影$11#战争电影$12#记录电影$24#国产剧$13#港剧$14#台剧$15#日剧$16#泰剧$20#韩剧$21#伦理剧$18"
-      }
-    },
-    {
-      "key": "哔哩合集",
-      "name": "💻味精┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "https://gitee.com/monosodium-glutamate/wjwj/raw/master/lib/%E5%93%94%E5%93%A9%E5%90%88%E9%9B%86.json",
-        "cookie": "SESSDATA=8f3ff69f%2C1794310143%2C53c01%2A52CjBX4vniMP8UbH-FHHxtImWyVMCf_NkAmIFpLXuK3B9TH1uSPOG3A5ST5nKXpP5b06gSVmx2Q2FWY0xPY19yaGxqOUNoRnZuLVhselJhVXU5UWlQb093RnprU2xpLVk5bmpwWjZ6bEhLZWt2RTIwbVpHaFJsYXJVeGtGRnFMcTd1OHRoZ24zN2ZRIIEC; bili_jct=27dfcc874d1a3c0fe39b9651ca436394; DedeUserID=3546629682497943; DedeUserID__ckMd5=b11f007e7707c2a6; sid=pey664gw; b_lsid=922FAEA2_19E263F56EF;"
       }
     },
     {
