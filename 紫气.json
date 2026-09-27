@@ -41,14 +41,6 @@
             "api": "https://mpimg.cn/down.php/9a77fbfdf66962bb95202e05bc5d551f.py"
         },
 {
-            "key": "WexkuihuatvGuard",
-            "name": "油葵TV",
-            "type": 3,
-            "api": "csp_WexkuihuatvGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-{
             "key": "极影",
             "name": "幻影4k",
             "type": 3,
