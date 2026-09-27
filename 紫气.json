@@ -67,6 +67,15 @@
             "filterable": 1
         },
 {
+            "key": "WexkuihuatvGuard",
+            "name": "油葵TV",
+            "type": 3,
+            "api": "csp_WexkuihuatvGuard",
+"jar":"https://mpimg.cn/down.php/ea7a1ae7d5b3a88329515f918385276a.jar",
+            "searchable": 1,
+            "changeable": 1
+        },
+{
       "key": "py_瓜子",
       "name": "☀呱子🔹影拭",
       "type": 3,
