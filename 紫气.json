@@ -99,6 +99,15 @@
             "filterable": 1
         },
 {
+            "key": "云朵TV",
+            "name":"云儿.py",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/Honghe-snow/honghetv/main/%E9%9F%B5%E5%84%BF.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+{
             "key": "喜福TV",
             "name":"喜福py",
             "type": 3,
