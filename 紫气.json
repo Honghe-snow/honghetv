@@ -76,6 +76,60 @@
             "changeable": 1
         },
 {
+      "key": "蔬菜",
+      "name": "❤主01┃3840",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/46da6-aa33493f-1c1d-4f35-9990-0be4bdbf0c64.png",
+      "ext": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt|88689667dce61725"
+    },
+    {
+      "key": "干饭",
+      "name": "❤主02┃3840",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/46da6-aa33493f-1c1d-4f35-9990-0be4bdbf0c64.png",
+      "ext": "https://www.douy32mf.top|1234567887654321"
+    },
+    {
+      "key": "咕噜咕噜4K_修复版_可搜索_带直播",
+      "name": "❤主03┃3840",
+      "type": 3,
+      "api": "./lib/咕噜咕噜4K_修复版_可搜索_带直播.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+     {
+      "key": "Yidong4K",
+      "name": "❤主04┃3840",
+      "type": 3,
+      "jar": "./custom.jar",
+      "api": "csp_Yidong4K"
+    },
+       {
+      "key": "枫叶影视",
+      "name": "❤主05┃3840",
+      "type": 3,
+      "api": "csp_FengYe",
+      "jar": "https://s3plus.meituan.net/opapisdk/op_ticket_1_5677168484_1786692332313_Ea3QGT2Q.zip;md5;2698d595a4b0a782e4f3e1242e5e6511",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://www.vip1949.com/"
+    },
+     {
+      "key": "移动",
+      "name": "❤主06┃3840",
+      "type": 3,
+      "api": "csp_Yidong4K",
+      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/6f1e49c30e53b2af23c1598713e5e808.jpg;md5;367b30616fb382b237c4b9105e41d5f2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 60
+    },
+{
       "key": "py_瓜子",
       "name": "☀呱子🔹影拭",
       "type": 3,
