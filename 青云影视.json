@@ -113,7 +113,7 @@
       "key": "Yidong4K",
       "name": "🍓4k4",
       "type": 3,
-      "jar": "./custom.jar",
+      "jar": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/custom.jar",
       "api": "csp_Yidong4K"
     },
        {
