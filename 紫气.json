@@ -476,16 +476,6 @@
       "ext": "https://d.kstore.dev/download/7322/vodd/shiguang20260320/feimaolive.json"
     },
     {
-      "name": "☕韩小圈",
-      "key": "☕韩小圈",
-      "type": 3,
-      "api": "csp_HxqAmns",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "🙌聚合短句",
       "name": "🙌短句合集",
       "type": 3,
@@ -506,41 +496,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2
-    },
-    {
-      "key": "人人影视",
-      "name": "❤人人｜4K测试",
-      "type": 3,
-      "api": "https://gitee.com/cpu-iy/lib/raw/master/lib/人人影视.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "ffys",
-      "name": "官源4K",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "http://app.69mini.com/tvbox/nb.jpg;md5;1099f9cedab19f487ac8fc283d9ca447",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://49.235.181.92:3334/api.php/app/"
-    },
-    {
-      "key": "hipy_js_腾云驾雾[官]",
-      "name": "QQ官-臻彩弹",
-      "type": 3,
-      "api": "https://sk.69mzf.com/store/drpy_libs/drpy2.min.js",
-      "ext": "https://sk.69mzf.com/store/js/主线1.js"
-    },
-    {
-      "key": "guoguo",
-      "name": "MG官-4K弹",
-      "type": 3,
-      "api": "https://sk.69mzf.com/store/drpy_libs/drpy2.min.js",
-      "ext": "https://sk.69mzf.com/store/js/主线3.js"
     },
     {
       "key": "晚吟",
@@ -1001,6 +956,77 @@
       "name": "问鼎4k",
       "type": 1,
       "url": "https://niubi.69mini.com/api/?key=gxXYmlvw4xX4PaXlCJ&url="
+    },
+{
+      "name": "测试解析",
+      "type": 1,
+      "url": "http://127.0.0.1:9978/proxy?do=voxjx&url="
+    },
+    {
+      "name": "手动解析①",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    },
+    {
+      "name": "手动解析②",
+      "type": 0,
+      "url": "https://jx.nnxv.cn/tv.php?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    },
+    {
+      "name": "手动解析③",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    },
+    {
+      "name": "手动解析④",
+      "type": 0,
+      "url": "https://www.ckplayer.vip/jiexi/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    },
+    {
+      "name": "手动解析⑤",
+      "type": 0,
+      "url": "https://okjx.cc/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    },
+      {
+      "name": "测试解析",
+      "type": 1,
+      "url": "http://101.201.171.207:8686/api/?key=tlQQtzS18h1fcEEFSo&url="
+   
+   },
+    {
+      "name": "云解",
+      "type": 0,
+      "url": "http://101.201.171.207:8686/api/?key=tlQQtzS18h1fcEEFSo&url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
     },
     {
       "name": "HD⚡云视解析",
