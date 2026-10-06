@@ -67,6 +67,15 @@
             "filterable": 1
         },
 {
+            "key": "剧岛TV",
+            "name":"剧岛.py",
+            "type": 3,
+            "api": "https://github.com/Honghe-snow/honghetv/blob/main/%E5%89%A7%E5%B2%9B4k.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+{
             "key": "WexkuihuatvGuard",
             "name": "油葵TV",
             "type": 3,
