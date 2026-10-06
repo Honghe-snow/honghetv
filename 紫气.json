@@ -382,29 +382,7 @@
       "jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar",
       "ext": "https://raw.liucn.cc/box/libs/hccx/奇优影院.json"
     },
-    
-    {
-      "key": "ttys",
-      "name": "🔥腾讯视频VIP定制|4K①",
-      "type": 3,
-      "api": "https:\/\/gitee.com\/yuyu10588\/tt\/raw\/t\/t\/drpy2.min.js",
-      "ext": "http://49.232.165.72:1234/js/qq.js"
-    }, //备用http://gc.gt.tc/c/txsp.txt
-    {
-      "key": "机哥剧圈",
-      "name": "🔥芒果VIP定制|4K②",
-      "type": 3,
-      "api": "https:\/\/gitee.com\/yuyu10588\/tt\/raw\/t\/t\/drpy2.min.js",
-      "ext": "http://49.232.165.72:1234/js/mg.js"
-    }, //备用http://gc.gt.tc/c/mgzy.txt
-    {
-      "key": "腾讯视频",
-      "name": "👑┃腾讯┃4K（官）",
-      "type": 3,
-      "api": "https://gitee.com/yuyu10588/tt/raw/t/t/drpy2.min.js",
-      "ext": "https://gitee.com/hy1188/gf199/raw/master/lib/qq2.js"
-    },
-    //备用https://jkou.xiaoyys.top/lib/腾讯视频.js
+   
     {
       "key": "优酷幕",
       "name": "优酷｜X",
