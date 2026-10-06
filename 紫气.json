@@ -104,7 +104,7 @@
       "key": "咕噜咕噜4K_修复版_可搜索_带直播",
       "name": "🍓4k3",
       "type": 3,
-      "api": "./lib/咕噜咕噜4K_修复版_可搜索_带直播.py",
+      "api": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/lib/咕噜咕噜4K_修复版_可搜索_带直播.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
