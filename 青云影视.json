@@ -143,6 +143,18 @@
       "jar": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/46da6-aa33493f-1c1d-4f35-9990-0be4bdbf0c64.png",
       "ext": "https://www.douy32mf.top|1234567887654321"
     },
+{
+    "key": "csp_py_橘汁",
+    "name": "🆘┃橘汁┃PPY",
+    "type": 3,
+    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/XB/橘汁.py"
+},
+{
+    "key": "py_小苹果",
+    "name": "🆘┃苹果┃PPY",
+    "type": 3,
+    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/XB/苹果.py"
+},
     {
       "key": "咕噜咕噜4K_修复版_可搜索_带直播",
       "name": "🍓4k3",
