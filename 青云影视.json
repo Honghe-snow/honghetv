@@ -76,15 +76,6 @@
             "filterable": 1
         },
 {
-            "key": "飞快TV",
-            "name":"秒鱼.py",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/refs/heads/main/py/stripchat%E7%9B%B4%E6%92%AD%20%E9%AB%98%E7%94%BB%E8%B4%A8%E7%89%88.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-{
             "key": "WexkuihuatvGuard",
             "name": "油葵TV",
             "type": 3,
