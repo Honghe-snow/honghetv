@@ -85,6 +85,38 @@
             "changeable": 1
         },
 {
+      "key": "csp_AppV7Xsz",
+      "name": "🧱┃柿子┃秒播",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "jar": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/JAR/MG.jar;md5;71BEB2726B6E3329814C3F43D9A562CD",
+      "ext": "AppV7Xsz"
+    },
+    {
+      "key": "csp_AppV7Xhr",
+      "name": "🧱┃黄人┃秒播",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "jar": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/JAR/MG.jar;md5;71BEB2726B6E3329814C3F43D9A562CD",
+      "ext": "AppV7Xhr"
+    },
+{
+      "key": "csp_AppV7Xnm",
+      "name": "🧱┃柠檬┃秒播",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "jar": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/JAR/MG.jar;md5;71BEB2726B6E3329814C3F43D9A562CD",
+      "ext": "AppV7Xnm"
+    },
+{
+      "key": "WexAiY360",
+      "name": "🎬┣热门┫10.06",
+      "type": 3,
+      "api": "csp_Y360Amns",
+      "jar": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/JAR/MG.jar;md5;71BEB2726B6E3329814C3F43D9A562CD",
+      "ext": "Y360"
+    },
+{
       "key": "蔬菜",
       "name": "🍓4k",
       "type": 3,
