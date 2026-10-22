@@ -58,6 +58,25 @@
             "type": 3,
             "api": "https://fastlink.cokey.xyz/f/AAvgsm/4K%E5%BD%B1%E8%A7%86.py"
         },
+{
+    "key": "橘汁视频",
+    "name": "橘汁视频.py",
+    "type": 3,
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/lihao880/asdzxc/refs/heads/main/py/橘汁视频.py",
+    "searchable": 1,
+      "quickSearch": 1,
+      "filterable":1
+  },
+  
+    {
+      "key": "咕噜咕噜4K",
+      "name": "咕噜咕噜4K.py",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/lihao880/asdzxc/refs/heads/main/py/咕噜咕噜4K.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable":1
+    },
     {
             "key": "橘汁",
             "name": "橘汁",
