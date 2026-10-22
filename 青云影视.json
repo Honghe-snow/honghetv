@@ -23,6 +23,30 @@
             "filterable": 1
         },
 {
+            "key": "腾讯视频",
+            "name": "腾讯视频 ",
+            "type": 3,
+            "api": "https://raw.giteeusercontent.com/haoqiang88/68688/raw/master/js/drpy2.min.js?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJqcy9kcnB5Mi5taW4uanMiLCJ1aWQiOjEzNzE3NDY0LCJwaWQiOjUwNjMxODc4LCJzdG8iOiJnaXQtc2hhcmRpbmctc3RvLTQydC0wMDQiLCJycCI6InJlcG9zLzIwLzIzLzIwMjM5ZDg3MzQ0NTkzMzE1MzYxODkwYzdiZWRmNjQ4ZTFmYjNjNGUxODVlMzA0ZWY5YzAwNzFkYjQ5NTA4NDEuZ2l0IiwiaXNwIjp0cnVlLCJleHBpcmVfYXQiOjE3OTI1NDgwMDB9&signature=LwEIKPQLrbWK7tgV41ycDyUvF6PI_v8Pv6xCgW8G3fw",
+            "ext": "https://raw.giteeusercontent.com/haoqiang88/68688/raw/master/lib/%E8%85%BE%E8%AE%AF.js?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJsaWIv6IW-6K6vLmpzIiwidWlkIjoxMzcxNzQ2NCwicGlkIjo1MDYzMTg3OCwic3RvIjoiZ2l0LXNoYXJkaW5nLXN0by00MnQtMDA0IiwicnAiOiJyZXBvcy8yMC8yMy8yMDIzOWQ4NzM0NDU5MzMxNTM2MTg5MGM3YmVkZjY0OGUxZmIzYzRlMTg1ZTMwNGVmOWMwMDcxZGI0OTUwODQxLmdpdCIsImlzcCI6dHJ1ZSwiZXhwaXJlX2F0IjoxNzkyNTQ3NDAwfQ&signature=8-PL-UTPxJSUemhkhtD2A581mndMq2LBKpInC5zhGc0"
+        },
+        {
+            "key": "爱奇艺视频",
+            "name": "爱奇艺视频",
+            "type": 3,
+            "api": "https://raw.giteeusercontent.com/haoqiang88/68688/raw/master/js/drpy2.min.js?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJqcy9kcnB5Mi5taW4uanMiLCJ1aWQiOjEzNzE3NDY0LCJwaWQiOjUwNjMxODc4LCJzdG8iOiJnaXQtc2hhcmRpbmctc3RvLTQydC0wMDQiLCJycCI6InJlcG9zLzIwLzIzLzIwMjM5ZDg3MzQ0NTkzMzE1MzYxODkwYzdiZWRmNjQ4ZTFmYjNjNGUxODVlMzA0ZWY5YzAwNzFkYjQ5NTA4NDEuZ2l0IiwiaXNwIjp0cnVlLCJleHBpcmVfYXQiOjE3OTI1NDgwMDB9&signature=LwEIKPQLrbWK7tgV41ycDyUvF6PI_v8Pv6xCgW8G3fw",
+            "ext": "https://raw.giteeusercontent.com/haoqiang88/68688/raw/master/lib/%E7%88%B1%E5%A5%87%E8%89%BA.js?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJsaWIv54ix5aWH6Im6LmpzIiwidWlkIjoxMzcxNzQ2NCwicGlkIjo1MDYzMTg3OCwic3RvIjoiZ2l0LXNoYXJkaW5nLXN0by00MnQtMDA0IiwicnAiOiJyZXBvcy8yMC8yMy8yMDIzOWQ4NzM0NDU5MzMxNTM2MTg5MGM3YmVkZjY0OGUxZmIzYzRlMTg1ZTMwNGVmOWMwMDcxZGI0OTUwODQxLmdpdCIsImlzcCI6dHJ1ZSwiZXhwaXJlX2F0IjoxNzkyNTQ3NDAwfQ&signature=qe7UCnId9Kr85ScfCccyx7Kq36AeenF2Jh-rvsHRCBk"
+        },
+{
+  "key": "影探4K",
+  "name": "影探4K",
+  "type": 3,
+  "api": "https://gh-proxy.com/https://raw.githubusercontent.com/lihao880/asdzxc/refs/heads/main/py/影探4K.py",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": ""
+ },
+{
             "key": "蓝光秒播",
             "name": "蓝秒①",
             "type": 3,
