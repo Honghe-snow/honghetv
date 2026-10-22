@@ -120,14 +120,6 @@
       "ext": "AppV7Xnm"
     },
 {
-      "key": "WexAiY360",
-      "name": "🎬┣热门┫10.06",
-      "type": 3,
-      "api": "csp_Y360Amns",
-      "jar": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/JAR/MG.jar;md5;71BEB2726B6E3329814C3F43D9A562CD",
-      "ext": "Y360"
-    },
-{
       "key": "蔬菜",
       "name": "🍓4k",
       "type": 3,
@@ -281,15 +273,6 @@
             "filterable": 1
         },
 {
-            "key": "Emby4",
-            "name": "4k‑高码测试‑4",
-            "type": 4,
-            "api": "http://zb.fanhuays.top:88/线路/emby/E4.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-{
      "key": "杰米",
       "name": "杰米影视",
       "type": 3,
@@ -347,24 +330,6 @@
             "name": "帧不戳py",
             "type": 3,
             "api": "https://raw.githubusercontent.com/Honghe-snow/honghetv/refs/heads/main/%E5%B8%A7%E4%B8%8D%E6%88%B3.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-{
-            "key": "红果py",
-            "name": "红果py",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/Honghe-snow/honghetv/main/%E7%BA%A2%E6%9E%9C.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-{
-            "key": "红果py2",
-            "name": "红果py2",
-            "type": 3,
-            "api": "https://d.kstore.dev/download/9239/%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%E6%9C%80%E7%BB%88%E7%89%88.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -717,29 +682,6 @@
       }
     },
     {
-      "key": "csp_Btt",
-      "name": "比特蓝光",
-      "type": 3,
-      "api": "csp_BttGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
-      "key": "还行",
-      "name": "无意影视",
-      "type": 3,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leiyou-li/moyunvip/refs/heads/main/aster/lib/kjtw3.txt",
-      "api": "csp_AppYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "http://m51.gotto.top/api.php/v1.vod"
-    },
-    {
       "key": "柠檬",
       "name": "红盒🔹兰光",
       "type": 3,
@@ -1005,8 +947,7 @@
 {
             "name": "红4k",
             "type": 0,
-            "url": "https://jx.xmflv.com/?url="
-        },
+            "url": "https://api.52xiaobai.cn/api/parse.php?token=7c75db1ca31d11d598dc318d72c3e871&url=",
 {
  
       "name": "批零4k专用",
