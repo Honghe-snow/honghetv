@@ -59,6 +59,15 @@
             "api": "https://fastlink.cokey.xyz/f/AAvgsm/4K%E5%BD%B1%E8%A7%86.py"
         },
 {
+      "key": "山楂4K",
+      "name": "山楂4K",
+      "type": 3,
+      "api": "https://axisnow.gh-proxy.org/https://github.com/snow20222022/mao/blob/main/py/山楂4K.py",
+       "searchable":1,
+       "quickSearch":0
+
+    },
+{
     "key": "橘汁视频",
     "name": "橘汁视频.py",
     "type": 3,
