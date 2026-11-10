@@ -77,6 +77,15 @@
       "quickSearch": 1,
       "filterable":1
     },
+{
+            "key": "蛋咖TV",
+            "name":"蛋咖.py",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/py/%E8%9B%8B%E6%8C%9ETV.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
     {
             "key": "橘汁",
             "name": "橘汁",
