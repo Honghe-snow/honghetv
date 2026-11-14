@@ -87,14 +87,13 @@
       "filterable":1
     },
 {
-            "key": "jkTV",
-            "name":"小鸡4k.py",
-            "type": 3,
-            "api": "https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/%E5%B0%8F%E9%B8%A1%E7%9C%8B%E7%9C%8B.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+            "key":"csp_未来",
+    "name":"🈚┃未来┃C4K",
+    "type":1,
+    "api":"http://110.42.66.100:12678/api.php",
+    "playUrl":"json:http://110.42.66.100:5666/api/?key=c31bfd818ac47875ab4922f03834afcc&url=",
+    "indexs": 0
+},
     {
             "key": "橘汁",
             "name": "橘汁",
