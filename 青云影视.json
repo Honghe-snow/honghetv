@@ -1,8 +1,8 @@
 {
-  "spider": "https://gitee.com/ztha002/th/raw/master/ztha.jar",
-  "wallpaper": "https://wp.upx8.com/api.php", 
-  "warningText": "由于更换服务器，请关注公众号:挺好分享，获取新接口", 
-  "logo": "https://gitee.com/ztha001/th/raw/master/IMG_7090.GIF",
+  "wallpaper": "https://tv.nxog.top/m/t/",
+  "logo": "https://fanqienovel.com/page/7621843563495558206",
+  "spider": "http://125.208.22.184:6019/uploads/tvbox/jar/spider2.jar;md5;83e07fbdf15ceb9d57201bfbfe5ad818",
+  "warningText": "tv提示:\n📢接口软件永远免费 \n📢长期维护切勿贩卖",
   "lives": [
     {
       "name": "速云TV",
