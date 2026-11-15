@@ -99,23 +99,6 @@
             "type": 3,
             "api": "https://mpimg.cn/down.php/9a77fbfdf66962bb95202e05bc5d551f.py"
         },
-{
-            "key": "极帧",
-            "name": "云帧4k",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/Honghe-snow/honghetv/main/%E4%BA%91%E5%B8%A7.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://cmsyun2.qijiyun.vip/api.php/app/"
-        },
-{
-            "key": "帧帧TV",
-            "name": "帧享②",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/y249376764/yangmi2026/refs/heads/main/tools/juying_kouling.py",
-            "searchable": 1
-        },
      {
             "key": "范特TV",
             "name":"范特.py",
