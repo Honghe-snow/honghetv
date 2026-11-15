@@ -1,8 +1,8 @@
 {
-  "warningText":"💕永久完全免费，切勿付费购买💕",  
-  "spider": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/JAR/MX.jar;md5;838FBE72364335C3380C810C4BEEF2C7",
-  "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
-  "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
+  "spider": "https://gitee.com/ztha002/th/raw/master/ztha.jar",
+  "wallpaper": "https://wp.upx8.com/api.php", 
+  "warningText": "由于更换服务器，请关注公众号:挺好分享，获取新接口", 
+  "logo": "https://gitee.com/ztha001/th/raw/master/IMG_7090.GIF",
   "lives": [
     {
       "name": "速云TV",
