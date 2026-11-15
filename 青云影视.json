@@ -111,10 +111,10 @@
             "ext": "http://cmsyun2.qijiyun.vip/api.php/app/"
         },
 {
-            "key": "咕噜",
-            "name": "幻影②",
+            "key": "山有TV",
+            "name": "木兮②",
             "type": 3,
-            "api": "https://mpimg.cn/down.php/2542f809bfd6602273ad747965ce77f9.py",
+            "api": "https://raw.githubusercontent.com/LHXIUE/Ruyi/refs/heads/main/py/4k/%E5%B1%B1%E6%9C%89%E6%9C%A8%E5%85%AE.py",
             "searchable": 1
         },
      {
