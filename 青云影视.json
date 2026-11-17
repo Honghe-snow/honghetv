@@ -136,6 +136,15 @@
             "filterable": 1
         },
 {
+   "key": "py_souju",
+   "name": "搜剧",
+   "type": 3,
+   "api": "https://cdn.jsdelivr.net/gh/y249376764/yangmi2026@main/py/搜剧.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+{
             "key": "WexkuihuatvGuard",
             "name": "油葵TV",
             "type": 3,
