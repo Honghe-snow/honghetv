@@ -86,6 +86,12 @@
       "filterable":1
     },
 {
+      "key": "影探聚合",
+      "name": "影探聚合.py",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/影探聚合.py"
+    },
+{
             "key":"csp_未来",
     "name":"🈚┃未来┃C4K",
     "type":1,
