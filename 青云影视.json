@@ -1,8 +1,6 @@
 {
-  "wallpaper": "https://tv.nxog.top/m/t/",
-  "logo": "https://fanqienovel.com/page/7621843563495558206",
-  "spider": "http://125.208.22.184:6019/uploads/tvbox/jar/spider2.jar;md5;83e07fbdf15ceb9d57201bfbfe5ad818",
-  "warningText": "tv提示:\n📢接口软件永远免费 \n📢长期维护切勿贩卖",
+  "spider": "https://gitee.com/cycod/tvbox/raw/master/spider.jar;md5;15be1c429da1d3e92d1a06206b205bba",
+  "logo": "https://q1.qlogo.cn/g?b=qq&nk=1838555724&s=640",
   "lives": [
     {
       "name": "速云TV",
