@@ -55,6 +55,15 @@
             "filterable": 1
         },
 {
+            "key": "vodTV",
+            "name":"8kvoD.py",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/hogo18/box/refs/heads/main/py/8kvod.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+{
             "key": "蓝光秒播",
             "name": "蓝秒①",
             "type": 3,
