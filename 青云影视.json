@@ -34,6 +34,136 @@
             "ext": "https://raw.giteeusercontent.com/haoqiang88/68688/raw/master/lib/%E7%88%B1%E5%A5%87%E8%89%BA.js?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJsaWIv54ix5aWH6Im6LmpzIiwidWlkIjoxMzcxNzQ2NCwicGlkIjo1MDYzMTg3OCwic3RvIjoiZ2l0LXNoYXJkaW5nLXN0by00MnQtMDA0IiwicnAiOiJyZXBvcy8yMC8yMy8yMDIzOWQ4NzM0NDU5MzMxNTM2MTg5MGM3YmVkZjY0OGUxZmIzYzRlMTg1ZTMwNGVmOWMwMDcxZGI0OTUwODQxLmdpdCIsImlzcCI6dHJ1ZSwiZXhwaXJlX2F0IjoxNzkyNTQ3NDAwfQ&signature=qe7UCnId9Kr85ScfCccyx7Kq36AeenF2Jh-rvsHRCBk"
         },
 {
+      "key": "cy_sikv4k",
+      "name": "🌹4K影视",
+      "type": 3,
+      "api": "csp_SiKv4K",
+      "group": "4K专区",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "cy_fengye4k",
+      "name": "🌹枫叶4K",
+      "type": 3,
+      "api": "csp_Fengqi4K",
+      "group": "4K专区",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cy_gulu",
+      "name": "🌹咕噜4K",
+      "type": 3,
+      "api": "csp_Gulu",
+      "group": "4K专区",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cy_hetun",
+      "name": "🌹河豚4K",
+      "type": 3,
+      "api": "csp_Hetun",
+      "group": "4K专区",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cy_juxiafan",
+      "name": "🌹剧下饭4K",
+      "type": 3,
+      "api": "csp_JuXiaFan",
+      "group": "4K专区",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "cy_piandi",
+      "name": "🌹片帝4K",
+      "type": 3,
+      "api": "csp_Piandi",
+      "group": "4K专区",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cy_weilai4k",
+      "name": "🌹未来4K",
+      "type": 3,
+      "api": "csp_WeiLai4K",
+      "group": "4K专区",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "cy_yingtan",
+      "name": "🌹影探4K",
+      "type": 3,
+      "api": "csp_Yingtan",
+      "group": "4K专区",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cy_yidong4k",
+      "name": "🌹移动4K",
+      "type": 3,
+      "api": "csp_Yidong4K",
+      "group": "4K专区",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "cy_bili4k",
+      "name": "🌹哔哩4K",
+      "type": 3,
+      "api": "csp_Bili4K",
+      "group": "4K专区",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cy_mino",
+      "name": "🌹MiNO秒播4K",
+      "type": 3,
+      "api": "csp_MiNO",
+      "group": "4K专区",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cy_wupingtai",
+      "name": "🌹官方聚合",
+      "type": 3,
+      "api": "csp_WuPingTai",
+      "group": "聚合工具",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cy_kishuto",
+      "name": "🌹4K聚合",
+      "type": 3,
+      "api": "csp_Kishuto",
+      "group": "聚合工具",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
   "key": "影探4K",
   "name": "影探4K",
   "type": 3,
