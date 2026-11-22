@@ -991,145 +991,36 @@
   ],
   "parses": [
 {
-            "name": "红4k",
-            "type": 0,
-            "url": "https://api.52xiaobai.cn/api/parse.php?token=7c75db1ca31d11d598dc318d72c3e871&url="},
-{
- 
-      "name": "批零4k专用",
-      "type": 1,
-      "url": "http://101.201.171.207:9898/home/api?type=ys&uid=89089&key=afgkpqwAKLMPQSTU17&url="
- 
-    },
-        {
-            "name": "自动解析",
-            "type": 2,
-            "url": "Parallel"
-        },
-        {
-            "name": "不知道谁的",
-            "type": 1,
-            "url": "http://1.94.244.214:8889/geturl?url="
-        },
-{
-      "name": "聚合1",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
-      "name": "聚合0",
-      "type": 3,
-      "url": "Web"
-    },
-    {
-      "name": "推荐",
-      "type": 1,
-      "url": "https://zy.qiaoji8.com/gouzi.php?url=94b07e0b2c0e8244&url="
-    },
-    {
-      "name": "智家",
+      "name": "4K解析",
       "type": "1",
-      "url": "http://speedtest.110966.xyz:5080/ry3_jx2.php?http://210.16.170.113:8845/api/index?parsesId=4&appid=10000&videoUrl=",
+      "url": "http://zhuimi.xn--v4q818bf34b.com/moyu/zhuimi?token=gKZXJs5f&url=",
       "ext": {
         "flag": [
           "qq",
           "腾讯",
           "qiyi",
           "爱奇艺",
-          "奇艺",
+          "奇异",
+          "iqiyi",
           "youku",
           "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
           "bilibili",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
+          "哔哩哔哩",
+          "yk",
+          "mgtv",
+          "芒果"
+        ]
       }
     },
     {
-      "name": "急速",
-      "type": 1,
-      "url": "https://test1.12321app.com/daoliansiquanjia.php?url="
-    },
-{
-      "name": "测试解析",
-      "type": 1,
-      "url": "http://127.0.0.1:9978/proxy?do=voxjx&url="
-    },
-    {
-      "name": "手动解析①",
+      "name": "极速解析",
       "type": 0,
-      "url": "https://jx.xmflv.com/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-        }
-      }
+      "url": "https://jx.xmflv.com/?url="
     },
     {
-      "name": "手动解析②",
+      "name": "备用解析",
       "type": 0,
-      "url": "https://jx.nnxv.cn/tv.php?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-        }
-      }
-    },
-    {
-      "name": "手动解析③",
-      "type": 0,
-"url": "https://jx.m3u8.tv/jiexi/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-        }
-      }
-    },
-    {
-      "name": "手动解析④",
-      "type": 0,
-      "url": "https://www.ckplayer.vip/jiexi/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-        }
-      }
-    },
-    {
-      "name": "手动解析⑤",
-      "type": 0,
-      "url": "https://okjx.cc/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-        }
-      }
-    },
-      {
-      "name": "测试解析",
-      "type": 1,
-      "url": "http://101.201.171.207:8686/api/?key=tlQQtzS18h1fcEEFSo&url="
-
-   },
-    {
-      "name": "云解",
-      "type": 0,
-      "url": "http://101.201.171.207:8686/api/?key=tlQQtzS18h1fcEEFSo&url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-        }
-      }
+      "url": "https://jiexi.789jiexi.com/?url="
     },
     {
       "name": "HD⚡云视解析",
