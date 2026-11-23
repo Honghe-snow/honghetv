@@ -57,6 +57,15 @@
             ] 
         },
 {
+            "key": "秒播TV",
+            "name":"🌹4k秒播.py",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/Honghe-snow/honghetv/main/%E7%A7%92%E6%92%AD4k.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+{
             "key": "青牛影视",
             "name": "🐬]青牛影视.p[追剧",
             "type": 3,
