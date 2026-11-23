@@ -65,24 +65,6 @@
             "quickSearch": 1,
             "filterable": 1
         },
-{
-            "key": "ikTV",
-            "name":"ik4k秒播.py",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/wliqi495-create/jaychou123/refs/heads/main/yingshi/py9/ik4k%E5%BD%B1%E9%99%A2.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-		{
-            "key": "光速TV",
-            "name":"光速秒播.py",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/wliqi495-create/jaychou123/refs/heads/main/yingshi/py9/ik4k%E5%BD%B1%E9%99%A2.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
 		{
             "key": "搜剧AI",
             "name": "🐬搜剧AI.py[追剧]",
