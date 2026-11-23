@@ -76,9 +76,12 @@
         },
 		{
             "key": "光速TV",
-            "name": "光速.py",
+            "name":"光速秒播.py",
             "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/2124662895/yydhj/mainvhh/py/%E5%85%89%E9%80%9F%E5%BD%B1%E8%A7%86.py"
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/wliqi495-create/jaychou123/refs/heads/main/yingshi/py9/ik4k%E5%BD%B1%E9%99%A2.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
 		{
             "key": "搜剧AI",
