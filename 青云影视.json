@@ -74,6 +74,15 @@
             "quickSearch": 1,
             "filterable": 1
         },
+{
+            "key": "千千红荷TV",
+            "name":"🌹千千k.py",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/ioo2/o/refs/heads/main/v/%E5%8D%83%E5%8D%83%E9%9F%B3%E4%B9%90.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
 		{
             "key": "搜剧AI",
             "name": "🐬搜剧AI.py[追剧]",
