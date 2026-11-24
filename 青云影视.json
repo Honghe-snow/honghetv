@@ -74,15 +74,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-{
-            "key": "归一TV",
-            "name":"🌹九九归一k.py",
-            "type": 3,
-            "api": "https://raw.githubusercontent.com/ge6bu6/1/refs/heads/main/py/%E4%B9%9D%E4%B9%9D%E5%BD%92%E4%B8%80.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+
 		{
             "key": "搜剧AI",
             "name": "🐬搜剧AI.py[追剧]",
