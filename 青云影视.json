@@ -74,7 +74,15 @@
             "quickSearch": 1,
             "filterable": 1
         },
-
+{
+            "key": "汽水一样",
+            "name":"汽水.py",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/Honghe-snow/honghetv/refs/heads/main/%E6%B1%BD%E6%B0%B4%E9%9F%B3%E4%B9%90.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
 		{
             "key": "搜剧AI",
             "name": "🐬搜剧AI.py[追剧]",
